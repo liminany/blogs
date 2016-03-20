@@ -13,14 +13,16 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-[笔记](pages/remark.md)
-[敏捷](pages/agile.md)
-[开发](pages/develop.md)
-[游戏](pages/games.md)
-[生活](pages/life.md)
-[活动](pages/life.md)
-[资料](pages/download.md)
-[关于](pages/about.md)
+[Note](pages/note.md)
+[Remark](pages/remark.md)
+[Agile](pages/agile.md)
+[Develop](pages/develop.md)
+[Games](pages/games.md)
+[Life](pages/life.md)
+[Activity](pages/life.md)
+[Questions](pages/life.md)
+[Data](pages/download.md)
+[About](pages/about.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
