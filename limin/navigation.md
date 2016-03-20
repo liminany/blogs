@@ -20,7 +20,8 @@
 [Games](pages/games.md)
 [Life](pages/life.md)
 [Activity](pages/life.md)
-[Questions](pages/life.md)
+[Questions](pages/qa.md)
+[temp](pages/temp.md)
 [Data](pages/download.md)
 [About](pages/about.md)
 
@@ -63,5 +64,5 @@
   -->
 
 
-[gimmick:themechooser](选择皮肤)
+[gimmick:themechooser](Change Theme)
 
