@@ -1,9 +1,4 @@
-<!--
-  -- Name of your wiki
-  -- Do NOT remove the leading `#` character.
-  -->
-
-# limin
+# 记录生活、学习、工作上的一些心得体会，主要还是通过日志、备忘的形式来记录
 
 
 <!--
@@ -11,16 +6,21 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](flatly)
 
 
 <!--
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-
-[About](pages/about.md)
-[Download](pages/download.md)
+[笔记](pages/remark.md)
+[敏捷](pages/agile.md)
+[开发](pages/develop.md)
+[游戏](pages/games.md)
+[生活](pages/life.md)
+[活动](pages/life.md)
+[资料](pages/download.md)
+[关于](pages/about.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
@@ -60,6 +60,6 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-<!--
+
 [gimmick:themechooser](Choose theme)
--->
+
