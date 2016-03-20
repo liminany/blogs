@@ -10,9 +10,10 @@
 #### BDD 与 TFS如何集成
  与TFS集成目测现在只能通过在工作项中添加链接或者附件的形式，把Feture文件添加到故事中。这种方式集成度不好，最好的方式是在TFS中可以直接添加，在测试时直接通过Feture生成SpecFlow测试。另外SpecLog好像可以通过Feture文件生成活文档。目前还未找到与TFS2015的集成文章，以下是相关资料：
  
+ - [leaveraging bdd with VSO/TFS - 2014-08](http://blog.thavo.com/2014/08/leaveraging-bdd-with-microsoft-azure.html)
  - [在ATDD中使用SpecFlow - 2013-12](https://blogs.msdn.microsoft.com/qingsongyao/2013/09/15/acceptance-testing-driven-development-atdd-use-specflow/)
  - [在TFS生成时如何运行Specflow测试 - 2013-9](http://stackoverflow.com/questions/18845733/running-specflow-tests-in-tfs-build)
- - [Managing BDD features in our project (using TFS)](http://www.marcusoft.net/2010/12/managing-bdd-features-in-your-project.html)
+ - [Managing BDD features in our project (using TFS) - 2010-12](http://www.marcusoft.net/2010/12/managing-bdd-features-in-your-project.html)
 
 ## 2016-03-20 在vs2015中编辑MD文件
 
