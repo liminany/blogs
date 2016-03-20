@@ -1,4 +1,4 @@
-# ¼ÇÂ¼Éú»î¡¢Ñ§Ï°¡¢¹¤×÷ÉÏµÄÒ»Ğ©ĞÄµÃÌå»á£¬Ö÷Òª»¹ÊÇÍ¨¹ıÈÕÖ¾¡¢±¸ÍüµÄĞÎÊ½À´¼ÇÂ¼
+ï»¿# è®°å½•ç”Ÿæ´»ã€å­¦ä¹ ã€å·¥ä½œä¸Šçš„ä¸€äº›å¿ƒå¾—ä½“ä¼šï¼Œä¸»è¦è¿˜æ˜¯é€šè¿‡æ—¥å¿—ã€å¤‡å¿˜çš„å½¢å¼æ¥è®°å½•
 
 
 <!--
@@ -13,14 +13,14 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-[±Ê¼Ç](pages/remark.md)
-[Ãô½İ](pages/agile.md)
-[¿ª·¢](pages/develop.md)
-[ÓÎÏ·](pages/games.md)
-[Éú»î](pages/life.md)
-[»î¶¯](pages/life.md)
-[×ÊÁÏ](pages/download.md)
-[¹ØÓÚ](pages/about.md)
+[ç¬”è®°](pages/remark.md)
+[æ•æ·](pages/agile.md)
+[å¼€å‘](pages/develop.md)
+[æ¸¸æˆ](pages/games.md)
+[ç”Ÿæ´»](pages/life.md)
+[æ´»åŠ¨](pages/life.md)
+[èµ„æ–™](pages/download.md)
+[å…³äº](pages/about.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
