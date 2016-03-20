@@ -61,5 +61,5 @@
   -->
 
 
-[gimmick:themechooser](Choose theme)
+[gimmick:themechooser](选择皮肤)
 
