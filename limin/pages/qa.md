@@ -17,3 +17,6 @@
  * BDD中的[xBehave 和 xSpec](http://stackoverflow.com/questions/307895/what-is-the-most-mature-bdd-framework-for-net) 还是无法解理，两者使用场景是？
  * VS2015中的特性 InterliTrace(探索类/方法级别的测试) 和BDD 或者敏捷如何结合使用？他可以自动生成参数化的单元测试，还是挺有诱惑力的！
  * 开发过程中，业务分析人员长期外出，开发过程中有很多业务需求问题，而且此【角色】其他人无法代替，是否有良方？
+
+## 关于用户故事映射
+ * 故事按粒度可分为：Epic(史诗故事)、Feature(特征)、User Story(用户故事)，史诗故事 属于模块级 是否可以是DDD中的BC（界限上下文）？Featrue是否可理解为类（或表）级别的？用户故事是业务对象的业务场景这一级别的？主题故事如何组织，在TFS中如何体现？
