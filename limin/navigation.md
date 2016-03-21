@@ -65,3 +65,5 @@
 
 
 [gimmick:themechooser](Change Theme)
+
+[gimmick:Disqus](limin-mblogs)
