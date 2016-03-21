@@ -66,4 +66,4 @@
 
 [gimmick:themechooser](Change Theme)
 
-[gimmick:Disqus](markdowniowiki)
+[gimmick:Disqus](limin-mblogs)
