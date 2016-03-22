@@ -1,8 +1,8 @@
 # 笔记
 ##2016-03-21 SARA 分析方法
 近年来正被行业积极采纳的、高效的需求分析方法——SARA方法（音 [´særə] ，Structured  Approaches for Requirements Analysis ）方法是一套结构化的需求分析过程，它以场景为中心，以用户目标为聚焦，用例驱动，强调需求语言的统一性，增量和迭代，是构建正确软件系统的一种非常有效的方式。SARA借鉴了很多国内外优秀的一线实践，具有非常好的可操作性和易用性，思想通用性强，它既能适合复杂系统、复杂环境的需求分析，同时也可作为团队需求沟通和协作的一个基础性的工具。SARA方法已经在很多前端行业的软件开发过程中被引入，如互联网、信息通信技术、金融科技等领域.如下图：
-[image](https://github.com/liminany/myimgs/raw/master/blog-imgs/Screenshot_2016-03-22-00-27-42.jpeg)
-[image](https://github.com/liminany/myimgs/raw/master/blog-imgs/Screenshot_2016-03-22-21-00-26.jpeg)
+![](https://github.com/liminany/myimgs/raw/master/blog-imgs/Screenshot_2016-03-22-00-27-42.jpeg)
+![](https://github.com/liminany/myimgs/raw/master/blog-imgs/Screenshot_2016-03-22-21-00-26.jpeg)
 ## 2016-03-20 BDD与TFS集成
 
 ####基于Net的BDD相关工具
