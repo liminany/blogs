@@ -14,16 +14,16 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 [Note](pages/note.md)
-[Remark](pages/remark.md)
-[Agile](pages/agile.md)
-[Develop](pages/develop.md)
-[Games](pages/games.md)
-[Life](pages/life.md)
-[Activity](pages/life.md)
+#[Remark](pages/remark.md)
+#[Agile](pages/agile.md)
+#[Develop](pages/develop.md)
+#[Games](pages/games.md)
+#[Life](pages/life.md)
+#[Activity](pages/life.md)
 [Questions](pages/qa.md)
 [temp](pages/temp.md)
-[Data](pages/download.md)
-[About](pages/about.md)
+#[Data](pages/data.md)
+#[About](pages/about.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
