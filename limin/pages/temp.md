@@ -2,6 +2,6 @@
 
 ## 2016-03-20 临时笔记
 
-MD 语法备忘1(https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#)
+[MD 语法备忘1](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#)
 
-MD 语法备忘2(http://wowubuntu.com/markdown/basic.html)
+[MD 语法备忘2](http://wowubuntu.com/markdown/basic.html)
