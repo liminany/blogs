@@ -4,6 +4,10 @@
 
 ![[gimmick:({width:550px})]](https://github.com/liminany/myimgs/raw/master/blog-imgs/Screenshot_2016-03-22-00-27-42.jpeg)
 ![](https://github.com/liminany/myimgs/raw/master/blog-imgs/Screenshot_2016-03-22-21-00-26.jpeg)
+
+关于敏捷需求分析的文章：
+[敏捷过程中的需求分析](http://wenku.baidu.com/link?url=2MoMYOghM0zmb7xO1rvzzHnVu_UYwOoBZ0zrJ50PIaoddLFGy9Udfuu0RfYHGmWliRoomC2UxGW590HJF4ro5G3uDmjEiwtV01KmH5tZNQ_)
+[需求分析敏捷方法论](http://wenku.baidu.com/link?url=aOnz_c9pfRc5RtTCMhLyzeXjvQo_H9wkQulK8iELEn76twBjSsEcbYspXORwBGrqEvmvdcuP4Pi4xc6VeuoJjLR0SswRIQO4yt0X6vlffbC)
 ## 2016-03-20 BDD与TFS集成
 
 ####基于Net的BDD相关工具
