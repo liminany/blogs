@@ -11,24 +11,23 @@ EGO这个组织总体感觉不错，虽然入会要收钱，而且还不少，�
 具体介绍如下：
 [广州高端技术人的组织EGO来啦！——记EGO广州分会成立Party](https://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=406380858&idx=1&sn=801b54e2b8f5ffd16a8fbbed0b0a5117&scene=1&srcid=0326pzI7aQSjlauVrt2lYBGm&from=groupmessage&isappinstalled=0&pass_ticket=yrcT0wo%2B2MphMZTtoXxqFZiZrIK1VTiRVjzs6xtH%2BAvyPLbt4cSIAI6GqddwNrZl)
 现场图片：
-![https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_205541.jpg]
-![https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_205634.jpg]
+![](https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_205541.jpg)
+![](https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_205634.jpg)
 
-![https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_205734.jpg]
-![https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_210621.jpg]
+![](https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_205734.jpg)
+![](https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_210621.jpg)
 
-![https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_210820.jpg]
-![https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_211204.jpg]
+![](https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_210820.jpg)
+![](https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_211204.jpg)
 
-![https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_211245.jpg]
-![https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_211724.jpg]
+![](https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_211245.jpg)
+![](https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_211724.jpg)
 
-![https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_212059.jpg]
-![https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_212445.jpg]
+![](https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_212059.jpg)
+![](https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_212445.jpg)
 
-![https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_212628.jpg]
-![https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_212628.jpg]
-
+![](https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_212628.jpg)
+![](https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_212628.jpg)
 
 
 ##2016-03-21 SARA 分析方法
