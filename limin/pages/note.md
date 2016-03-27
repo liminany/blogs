@@ -1,7 +1,7 @@
 # 笔记
 ##2016-03-27 REST FULL相关
 [开发实践：使用Swagger快速打造REST API文档](http://www.infoq.com/cn/presentations/use-swagger-create-rest-api-document?utm_source=infoq&utm_medium=videos_homepage&utm_campaign=videos_row1)
-
+[PostgREST: 把任意PostgreSQL数据库封装成REST API](http://www.open-open.com/lib/view/open1437637416131.html)
 ##2016-03-25 晚 EGO 广州分会成立会议
 今晚不容易，到现场已经七点半了，迟到了半小时，今天是周五，刚下班就过来了，非常堵！
 EGO这个组织总体感觉不错，虽然入会要收钱，而且还不少，管他呢，以后在广州多举办免费公开课就可以了。
