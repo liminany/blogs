@@ -1,4 +1,36 @@
 # 笔记
+##2016-03-25 晚 EGO 广州分会成立会议
+今晚不容易，到现场已经七点半了，迟到了半小时，今天是周五，刚下班就过来了，非常堵！
+EGO这个组织总体感觉不错，虽然入会要收钱，而且还不少，管他呢，以后在广州多举办免费公开课就可以了。
+今晚的主题主要是：
+* EGO广州分会成立仪式，
+* 广州创科委 钟斌 讲了下广州的创业、创新方面的人才、团队、企业激励计划和政策，其实就是个人和团队或者企业组织可以去申请资金，通过评审后可以获得奖励或者投资
+* 酷狗音乐的CTO做了演讲，主要是关于 技术人员如何去预判需求和趋势，这是CEO的基本能力，叫洞察力！
+* 原CSDN总编辑 韩磊，从他自己的经历---将兴趣爱好做成极致，最终影响到其人生，使得更成功，果然是大年！境界真高！还有 韩大大 果然是媒体人，总是不忘加广告！
+
+具体介绍如下：
+[广州高端技术人的组织EGO来啦！——记EGO广州分会成立Party](https://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=406380858&idx=1&sn=801b54e2b8f5ffd16a8fbbed0b0a5117&scene=1&srcid=0326pzI7aQSjlauVrt2lYBGm&from=groupmessage&isappinstalled=0&pass_ticket=yrcT0wo%2B2MphMZTtoXxqFZiZrIK1VTiRVjzs6xtH%2BAvyPLbt4cSIAI6GqddwNrZl)
+现场图片：
+![https://github.com/liminany/myimgs/blob/master/blog-imgs/IMG_20160325_205541.jpg]
+![https://github.com/liminany/myimgs/blob/master/blog-imgs/IMG_20160325_205634.jpg]
+
+![https://github.com/liminany/myimgs/blob/master/blog-imgs/IMG_20160325_205734.jpg]
+![https://github.com/liminany/myimgs/blob/master/blog-imgs/IMG_20160325_210621.jpg]
+
+![https://github.com/liminany/myimgs/blob/master/blog-imgs/IMG_20160325_210820.jpg]
+![https://github.com/liminany/myimgs/blob/master/blog-imgs/IMG_20160325_211204.jpg]
+
+![https://github.com/liminany/myimgs/blob/master/blog-imgs/IMG_20160325_211245.jpg]
+![https://github.com/liminany/myimgs/blob/master/blog-imgs/IMG_20160325_211724.jpg]
+
+![https://github.com/liminany/myimgs/blob/master/blog-imgs/IMG_20160325_212059.jpg]
+![https://github.com/liminany/myimgs/blob/master/blog-imgs/IMG_20160325_212445.jpg]
+
+![https://github.com/liminany/myimgs/blob/master/blog-imgs/IMG_20160325_212628.jpg]
+![https://github.com/liminany/myimgs/blob/master/blog-imgs/IMG_20160325_212628.jpg]
+
+
+
 ##2016-03-21 SARA 分析方法
 近年来正被行业积极采纳的、高效的需求分析方法——SARA方法（音 [´særə] ，Structured  Approaches for Requirements Analysis ）方法是一套结构化的需求分析过程，它以场景为中心，以用户目标为聚焦，用例驱动，强调需求语言的统一性，增量和迭代，是构建正确软件系统的一种非常有效的方式。SARA借鉴了很多国内外优秀的一线实践，具有非常好的可操作性和易用性，思想通用性强，它既能适合复杂系统、复杂环境的需求分析，同时也可作为团队需求沟通和协作的一个基础性的工具。SARA方法已经在很多前端行业的软件开发过程中被引入，如互联网、信息通信技术、金融科技等领域.如下图：
 
