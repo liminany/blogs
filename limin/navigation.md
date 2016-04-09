@@ -14,8 +14,9 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 [Note](pages/note.md)
+[Work Remark](pages/remark.md)
 <!--
-#[Remark](pages/remark.md)
+
 #[Agile](pages/agile.md)
 #[Develop](pages/develop.md)
 #[Games](pages/games.md)
