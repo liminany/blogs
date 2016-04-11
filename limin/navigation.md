@@ -15,8 +15,10 @@
   -->
 [Note](pages/note.md)
 [Work Remark](pages/remark.md)
+[Agile]()
+  * # PMI-ACP认证相关
+  * [PMI-ACP参考教材](pages/acp-ebook.md)
 <!--
-
 #[Agile](pages/agile.md)
 #[Develop](pages/develop.md)
 #[Games](pages/games.md)
