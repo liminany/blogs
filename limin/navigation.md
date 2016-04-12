@@ -17,7 +17,7 @@
 [Work Remark](pages/remark.md)
 
 [Agile]()  
- *#[PMI-ACP参考教材](pages/acp-ebook.md)
+ #[PMI-ACP参考教材](pages/acp-ebook.md)
 
 <!--
 #[Agile](pages/agile.md)
