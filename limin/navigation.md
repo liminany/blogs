@@ -1,4 +1,4 @@
-﻿#liminany
+#liminany
 
 
 <!--
@@ -15,11 +15,7 @@
   -->
 [Note](pages/note.md)
 [Work Remark](pages/remark.md)
-
-[Agile]()
-  
-* [PMI-ACP参考教材](pages/acp-ebook.md)
-
+[PMI-ACP-Ebook](pages/acp-ebook.md)
 <!--
 #[Agile](pages/agile.md)
 #[Develop](pages/develop.md)
