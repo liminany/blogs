@@ -1,4 +1,32 @@
 # 笔记
+##2016-04-15 EGO线上公开课-关于技术管理
+#### 关于技术管理 1  |  2016-03-21
+- 分享嘉宾：王晓波，EGO会员、同程旅游LY.com首席架构师
+- 分享主题：同程技术团队管理演变之路
+- 分享大纲：
+    - 快速发展时技术痛点分析
+    - 需要什么样的技术团队
+    - 如何经营好这个团队
+    - 团队技术人才的可持续发展
+    - 演变进化过程的总结
+- 分享总结: [同程的技术团队管理演变之路](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=406180856&idx=1&sn=19d352605116979d05e020fb767e9f00&scene=21#wechat_redirect)
+
+#### 关于技术管理 2  |  2016-04-07
+- 分享嘉宾：范凯，EGO会员、丁香园技术副总裁，JavaEye开发者社区创始人，前CSDN的产品副总裁和CTO；比较擅长软件架构设计、互联网产品设计和社区运营。
+- 分享主题：技术团队管理不仅仅是管理
+- 分享大纲：
+    - 快速发展时技术痛点分析
+    - 需要什么样的技术团队
+    - 如何经营好这个团队
+    - 团队技术人才的可持续发展
+    - 演变进化过程的总结
+- 分享总结: [范凯：技术团队管理不仅仅是管理（上篇）](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=407561252&idx=1&sn=1f83403535f973a9d532bdb07a7f27ec&scene=0#wechat_redirect)
+- [PPT 我的技术管理心得](http://pan.baidu.com/s/1i4Fvmfj)
+
+#### [其他：从0到1，项目与团队中的看板实践](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=406887772&idx=1&sn=35abd54f0cfcbe0c5a41bb86c5d9bbf5&scene=4#wechat_redirect)  |  2016-03-31
+
+#### [其他：EGO技术管理公开课总结详情-3月份](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=406191601&idx=1&sn=3656148468000987a784be449c20138a&scene=18#wechat_redirect)
+
 ##2016-03-27 REST FULL相关
 [开发实践：使用Swagger快速打造REST API文档](http://www.infoq.com/cn/presentations/use-swagger-create-rest-api-document?utm_source=infoq&utm_medium=videos_homepage&utm_campaign=videos_row1)
 [PostgREST: 把任意PostgreSQL数据库封装成REST API](http://www.open-open.com/lib/view/open1437637416131.html)
