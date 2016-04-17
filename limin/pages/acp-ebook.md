@@ -1,14 +1,16 @@
 # [PMI-ACP参考教材](https://www.douban.com/doulist/39468538/)
 
+##. 知识体系概要 [精益和敏捷软件开发.ppt](http://pan.baidu.com/s/1hszy4OO)
+
 ##0. 其他关于敏捷方面比较新的书
-- [用户故事地图](http://item.jd.com/11893976.html) [电子版-英]()出版年份 2016-4 页数 250
+- [用户故事地图](http://item.jd.com/11893976.html) [电子版-英](http://pan.baidu.com/s/1pLxixFd) 中文出版年份 2016-4 页数 250
 - [影响地图：让你的软件产生真正的影响力 电子版](http://www.ituring.com.cn/book/1395)   出版年份 2015-1 页数 510
 - [敏捷思维 移动互联网和大数据时代IT企业转型、升级与再造之道](http://item.jd.com/11597809.html) [电子版-无]() 出版年份 2015-1 页数 253
 - [敏捷软件需求：团队、项目群与企业级的精益需求实践](http://item.jd.com/11573072.html) [电子版-无]() 出版年份 2015-1 页数 510
 - [敏捷可执行需求说明：Scrum提炼及实现技术](http://item.jd.com/11560128.html)  [电子版-无]()  出版年份 2015-1 页数 510
-- [BDD In Action](http://item.jd.com/1485930810.html)  [电子版-英]()  只有英文版 出版年份 2012-1 页数 400
-- [实例化需求](http://item.jd.com/11073791.html)  [电子版]()   出版年份 2012-1 页数 190
-- [行为驱动开发指南]()  [电子版]()   出版年份 2011-1 页数 190
+- [BDD In Action](http://item.jd.com/1485930810.html)  [电子版-英](http://pan.baidu.com/s/1mixU1fi)  只有英文版 出版年份 2012-1 页数 400
+- [实例化需求](http://item.jd.com/11073791.html)  [电子版](http://pan.baidu.com/s/1dEakABJ)   出版年份 2012-1 页数 190
+- [行为驱动开发指南](http://pan.baidu.com/s/1qXM87EW)  [电子版]()   出版年份 2011-1 页数 190
 
 ##1.敏捷回顾 [电子版](http://pan.baidu.com/s/1slh5a3r)  [出版年份 2012-9 页数 184](https://book.douban.com/subject/19978582/) 
 ![](https://img3.doubanio.com/lpic/s23008554.jpg)
