@@ -11,6 +11,7 @@
 - [BDD In Action](http://item.jd.com/1485930810.html)  [电子版-英](http://pan.baidu.com/s/1mixU1fi)  只有英文版 出版年份 2012-1 页数 400
 - [实例化需求](http://item.jd.com/11073791.html)  [电子版](http://pan.baidu.com/s/1dEakABJ)   出版年份 2012-1 页数 190
 - [行为驱动开发指南](http://pan.baidu.com/s/1qXM87EW)  [电子版]()   出版年份 2011-1 页数 190
+- [初探行为驱动开发 ppt]((http://pan.baidu.com/s/1pLxixFd)
 
 ##1.敏捷回顾 [电子版](http://pan.baidu.com/s/1slh5a3r)  [出版年份 2012-9 页数 184](https://book.douban.com/subject/19978582/) 
 ![](https://img3.doubanio.com/lpic/s23008554.jpg)
