@@ -16,7 +16,7 @@
 [Note](pages/note.md)
 [Work Remark](pages/remark.md)
 [Acp Training](pages/aura-acp-training.md)
-[PMI-ACP-Ebook](pages/acp-ebook.md)
+[PMI ACP Ebook](pages/acp-ebook.md)
 
 <!--
 #[Agile](pages/agile.md)
