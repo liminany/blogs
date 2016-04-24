@@ -2,7 +2,7 @@
 
 ## 在Sprint开始之前
 * 用户故事如何产生？，企业级项目型和产品型有何差异？
- 	1. 通过分析关键用户的业务场景（可从关键业务流程中获取），识别用户为达到业务目标所需要的业务活动
+	1. 通过分析关键用户的业务场景（可从关键业务流程中获取），识别用户为达到业务目标所需要的业务活动
    2. 通过影响地图分析法，参考链接 [Impact_Mapping_影响地图 ppt1](http://wenku.baidu.com/view/84540eb9b8f67c1cfbd6b815.html?from=search)  [Impact_Mapping_影响地图ppt2](http://wenku.baidu.com/view/1b5ca767ed630b1c58eeb507.html?from=search)
    3. 通过用户画像 [参考资料](http://www.woshipm.com/pmd/319865.html)
    4. 企业级项目通常应该是从业务流程着手分解，产品型通常是通过影响地图或者用户画像，个人觉得可以先用用户画像完善愿景，然后在采用影响地图细化
