@@ -9,7 +9,7 @@
 #### 正范式设计使用场景：即传统的范式化设计，折表，范式化节省了存储空间，但存储空间却很便宜；范式化简化了更新，但读更普遍
 
 ### 2.关于MPP数据库massively parallel processing：是将任务并行的分散到多个服务器和节点上，在每个节点上计算完成后，将各自部分的结果汇总在一起得到最终的结果
-[参考：MPP数据库 技术浅析](http://database.ctocio.com.cn/326/12953326.shtml)   [数据仓库技术中的MPP](http://www.dedecms.com/knowledge/data-base/generalized/2012/0703/2510.html)  [Hadoop将取代MPP，混合架构即将消失](http://www.d1net.com/bigdata/news/346918.html)
+参考： [MPP数据库 技术浅析](http://database.ctocio.com.cn/326/12953326.shtml)   [数据仓库技术中的MPP](http://www.dedecms.com/knowledge/data-base/generalized/2012/0703/2510.html)  [Hadoop将取代MPP，混合架构即将消失](http://www.d1net.com/bigdata/news/346918.html)
 #### 数据仓库世界里面的 massively parallel processing 大概定义：
 　　首先MPP 必须消除手工切分数据的工作量。 这是MySQL 在互联网应用中的主要局限性。
 　　另外MPP 的切分必须在任何时候都是平均的 ， 不然某些节点处理的时间就明显多于另外一些节点。
