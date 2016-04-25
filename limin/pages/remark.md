@@ -1,7 +1,8 @@
 # 工作笔记、备忘，包括技术、管理等
 
 ## 2016-04-25 关于数据库设计--范式与反范式的设计
-[来源: SequoiaDB_分布式数据库_王涛_微软MVP ppt](http://pan.baidu.com/s/1qXOAOmo)   [参考：范式与反范式的设计](http://www.daniel-journey.com/archives/519)
+[来源: SequoiaDB_分布式数据库_王涛_微软MVP ppt](http://pan.baidu.com/s/1qXOAOmo) 
+[参考：范式与反范式的设计](http://www.daniel-journey.com/archives/519)
 
 #### 反范式设计使用场景：对不可改变数据的反模式设计，如 将多张表合并成一张
 #### 正范式设计使用场景：即传统的范式化设计，折表，范式化节省了存储空间，但存储空间却很便宜；范式化简化了更新，但读更普遍
