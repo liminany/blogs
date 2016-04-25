@@ -27,7 +27,7 @@ ODS（Operational Data Store）介绍：
 > ODS（Operational Data Store）是数据仓库体系结构中的一个可选部分，ODS具备数据仓库的部分特征和OLTP系统的部分特征，它是“面向主题的、集成的、当前或接近当前的、不断变化的”数据。
 ODS是一个面向主题的、集成的、可变的、当前的细节数据集合，用于支持企业对于即时性的、操作性的、集成的全体信息的需求。
 Kimball关于ODS的定义（<<数据仓库生命周期工具集>>）,–是操作型系统中的集成，用于当前、历史以及其它细节查询(业务系统的一部分)–为决策支持提供当前细节数据(数据仓库的一部分)。  参考如下图：
-[](http://img.blog.csdn.net/20130918170007531?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbWFjazQxNTg1ODc3NQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![](http://img.blog.csdn.net/20130918170007531?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbWFjazQxNTg1ODc3NQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
 - 在业务系统和数据仓库之间形成一个隔离层
