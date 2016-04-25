@@ -4,6 +4,8 @@
 [来源: SequoiaDB_分布式数据库_王涛_微软MVP ppt](http://pan.baidu.com/s/1qXOAOmo) 
 参考： [数据仓库杂谈](http://blog.csdn.net/cajeep2001/article/details/8030405)
 
+数据质量的分层测试：包括odl(源数据层)、bdl（基础数据层）、idl（接口数据层）、adl（应用数据层）
+
 ### 1.关于数据库设计--范式与反范式设计思考 [参考：范式与反范式的设计](http://www.daniel-journey.com/archives/519)
 
 #### 反范式设计使用场景：对不可改变数据的反模式设计，如 将多张表合并成一张
