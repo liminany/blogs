@@ -2,6 +2,7 @@
 
 ## 2016-04-25 SequoiaDB_分布式数据库 ppt 知识点分析
 [来源: SequoiaDB_分布式数据库_王涛_微软MVP ppt](http://pan.baidu.com/s/1qXOAOmo) 
+参考： [数据仓库杂谈](http://blog.csdn.net/cajeep2001/article/details/8030405)
 
 ### 1.关于数据库设计--范式与反范式设计思考 [参考：范式与反范式的设计](http://www.daniel-journey.com/archives/519)
 
