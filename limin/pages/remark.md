@@ -21,7 +21,7 @@
 -  Shared Nothing架构，不共享资源
 
 
-### 3.ODS与ETL,ODS 是业务数据与仓库的中间层  参考资料：[数据仓库之ETL漫谈](http://blog.csdn.net/heqiyu34/article/details/8502198)
+### 3.ODS与ETL,ODS 是业务数据与仓库的中间层，参考 [数据仓库之ETL漫谈](http://blog.csdn.net/heqiyu34/article/details/8502198)
 ODS（Operational Data Store）介绍：
 
 > ODS（Operational Data Store）是数据仓库体系结构中的一个可选部分，ODS具备数据仓库的部分特征和OLTP系统的部分特征，它是“面向主题的、集成的、当前或接近当前的、不断变化的”数据。
