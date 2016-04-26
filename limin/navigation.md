@@ -38,10 +38,8 @@
 [gimmick:Disqus](limin-mblogs)
  -->
 
-<!-- 多说评论框 start -->
-	<div class="ds-thread" data-thread-key="liminany.github.io/blogs" data-title="limin's blogs、remark、note space..." data-url="http://liminany.github.io/blogs"></div>
-<!-- 多说评论框 end -->
-<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+
+<div class="ds-thread" data-thread-key="navigation.md" data-title="limin's blogs、remark、note space..." data-url="http://liminany.github.io/blogs"></div>
 <script type="text/javascript">
 var duoshuoQuery = {short_name:"liminany"};
 	(function() {
@@ -53,4 +51,3 @@ var duoshuoQuery = {short_name:"liminany"};
 		 || document.getElementsByTagName('body')[0]).appendChild(ds);
 	})();
 	</script>
-<!-- 多说公共JS代码 end -->
