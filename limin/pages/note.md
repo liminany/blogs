@@ -1,6 +1,17 @@
 # 笔记
 
-##2016-04-29 EGO线上公开课-关于技术管理  2016-04-29 更新
+##2016-04-29 源与敏捷视界公开课 后整理，讲师为 敏捷无敌 一书的作者（待更新录音和文稿PPT）
+1. 关于用户故事的一些最新知识 
+- 用户故事包含5C，之前只有3C，3C原则：Card，Conversation，Confirmation；Jeff Patton同学，把这个3C继续扩充为5C（并总结为用户故事生命周期）：Card（卡片，故事描述）, Conversation（谈话，协作过程中与客户的对话）, Confirmation（确认，即验证条件）, Construction(构建，
+开始构建、实现用户故事）, Consequence(结果，实现用户故事后，可以展示的结果）。
+- 产品Backlog ODDE,**与用户故事的投资原则类似？**：
+  - Orderd:优先级高，并值得优先开始做。
+  - Detailed Appropriated(详略得当的,参考前一篇中Mike Cohn提到的DEEP原则)
+  - Dynamic(动态的),产品Backlog中的条目是动态变化的，随着项目、产品的进展，了解的深入，需要也在实时发生变化。比如说增加、删除和更新条目，或者改变条目的顺序（即优先级）
+  - Estimated(做过估算的)
+2. 敏捷项目中的四种干系人类型**还有哪些？**：
+- 尾托人
+- Inside内部人员
 
 ##2016-04-15 EGO线上公开课-关于技术管理  2016-04-29 更新
 
@@ -100,7 +111,7 @@ EGO这个组织总体感觉不错，虽然入会要收钱，而且还不少，�
 [敏捷过程中的需求分析](http://wenku.baidu.com/link?url=2MoMYOghM0zmb7xO1rvzzHnVu_UYwOoBZ0zrJ50PIaoddLFGy9Udfuu0RfYHGmWliRoomC2UxGW590HJF4ro5G3uDmjEiwtV01KmH5tZNQ_)
 [需求分析敏捷方法论](http://wenku.baidu.com/link?url=aOnz_c9pfRc5RtTCMhLyzeXjvQo_H9wkQulK8iELEn76twBjSsEcbYspXORwBGrqEvmvdcuP4Pi4xc6VeuoJjLR0SswRIQO4yt0X6vlffbC)
 
-敏捷需求分类：用户故事、探索性故事、约束(非功能需求)、bug, **总共有五种，还有少了哪种？**
+敏捷需求分类：用户故事、探索性故事、约束(非功能需求)、bug, **总共有五种，还有少了哪种？**   原型？
 
 ## 2016-03-20 BDD与TFS集成
 
