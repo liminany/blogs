@@ -1,7 +1,7 @@
 # 笔记
 
 ##2016-04-29 源与敏捷视界公开课 后整理，讲师为 敏捷无敌 一书的作者（待更新录音和文稿PPT）
-1. 关于用户故事的一些最新知识 
+###. 关于用户故事的一些最新知识 
 - 用户故事包含5C，之前只有3C，3C原则：Card，Conversation，Confirmation；Jeff Patton同学，把这个3C继续扩充为5C（并总结为用户故事生命周期）：Card（卡片，故事描述）, Conversation（谈话，协作过程中与客户的对话）, Confirmation（确认，即验证条件）, Construction(构建，
 开始构建、实现用户故事）, Consequence(结果，实现用户故事后，可以展示的结果）。
 - 产品Backlog ODDE,**与用户故事的投资原则类似？**：
