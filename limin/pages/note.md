@@ -10,7 +10,7 @@
   - Dynamic(动态的),产品Backlog中的条目是动态变化的，随着项目、产品的进展，了解的深入，需要也在实时发生变化。比如说增加、删除和更新条目，或者改变条目的顺序（即优先级）
   - Estimated(做过估算的)
   
-  
+参考资料：[产品Backlog的ODDE原则与用户故事的5C原则](http://bobjiang.com/index.php/2013/11/25/user_story_odde_5c/)   |     |   [用户故事不等于软件需求](http://bobjiang.com/index.php/2016/04/28/user-story-is-not-requirement/)
 ###2. 敏捷项目中的四种干系人类型**还有哪些？**：
 - 尾托人
 - Inside内部人员
