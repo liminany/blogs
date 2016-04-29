@@ -1,5 +1,9 @@
 # 笔记
 
+##2016-04-29 EGO线上公开课-关于技术管理  2016-04-29 更新
+
+##2016-04-15 EGO线上公开课-关于技术管理  2016-04-29 更新
+
 #### 关于技术管理 4  |  2016-04-25
 - 分享嘉宾：何世友，EGO会员，爱范儿（广州沃享信息科技有限公司）CTO，90年生人，从校园创业到跨国团队技术顾问再到如今，积累了些许不成熟的管理试错。专注于高并发网络、机器学习、移动APP（部分硬件）、团队管理
 - 分享主题：爱范儿CTO何世友：大小团队的管理试错史
@@ -36,8 +40,6 @@
 - 分享总结: [范凯：技术团队管理不仅仅是管理（上篇）](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=407561252&idx=1&sn=1f83403535f973a9d532bdb07a7f27ec&scene=0#wechat_redirect)
 - [PPT 我的技术管理心得](http://pan.baidu.com/s/1i4Fvmfj)
 
-
-##2016-04-15 EGO线上公开课-关于技术管理
 #### 关于技术管理 1  |  2016-03-21
 - 分享嘉宾：王晓波，EGO会员、同程旅游LY.com首席架构师
 - 分享主题：同程技术团队管理演变之路
@@ -88,7 +90,7 @@ EGO这个组织总体感觉不错，虽然入会要收钱，而且还不少，�
 ![](https://github.com/liminany/myimgs/raw/master/blog-imgs/IMG_20160325_212628.jpg)
 
 
-##2016-03-21 SARA 分析方法
+##2016-03-21 SARA 分析方法  2016-04-29 更新
 近年来正被行业积极采纳的、高效的需求分析方法——SARA方法（音 [´særə] ，Structured  Approaches for Requirements Analysis ）方法是一套结构化的需求分析过程，它以场景为中心，以用户目标为聚焦，用例驱动，强调需求语言的统一性，增量和迭代，是构建正确软件系统的一种非常有效的方式。SARA借鉴了很多国内外优秀的一线实践，具有非常好的可操作性和易用性，思想通用性强，它既能适合复杂系统、复杂环境的需求分析，同时也可作为团队需求沟通和协作的一个基础性的工具。SARA方法已经在很多前端行业的软件开发过程中被引入，如互联网、信息通信技术、金融科技等领域.如下图：
 
 ![[gimmick:({width:550px})]](https://github.com/liminany/myimgs/raw/master/blog-imgs/Screenshot_2016-03-22-00-27-42.jpeg)
@@ -97,6 +99,9 @@ EGO这个组织总体感觉不错，虽然入会要收钱，而且还不少，�
 关于敏捷需求分析的文章：
 [敏捷过程中的需求分析](http://wenku.baidu.com/link?url=2MoMYOghM0zmb7xO1rvzzHnVu_UYwOoBZ0zrJ50PIaoddLFGy9Udfuu0RfYHGmWliRoomC2UxGW590HJF4ro5G3uDmjEiwtV01KmH5tZNQ_)
 [需求分析敏捷方法论](http://wenku.baidu.com/link?url=aOnz_c9pfRc5RtTCMhLyzeXjvQo_H9wkQulK8iELEn76twBjSsEcbYspXORwBGrqEvmvdcuP4Pi4xc6VeuoJjLR0SswRIQO4yt0X6vlffbC)
+
+敏捷需求分类：用户故事、探索性故事、约束(非功能需求)、bug, **总共有五种，还有少了哪种？**
+
 ## 2016-03-20 BDD与TFS集成
 
 ####基于Net的BDD相关工具
