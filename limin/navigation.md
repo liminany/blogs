@@ -25,7 +25,7 @@
 #[Life](pages/life.md)
 #[Activity](pages/life.md)
 -->
-[Fresh](pages/new)
+[Fresh](pages/fresh.md)
 [Questions](pages/qa.md)
 [Temp](pages/temp.md)
 <!--
