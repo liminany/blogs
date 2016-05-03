@@ -33,6 +33,17 @@
    - 确定团队成员 ,成员的角色，各角色的职责
    - 团队动态成长模型-塔克曼模型：Forming-组建、Storming-振荡、Norming-平稳、规范、Performing-成熟、Adjourning-消亡
    - 领导方式：领导，管理和引导，重在引导，关于领导力的扩展阅读文章：[领导力的核心就是八个字：难题、解决、群众、动员](http://mp.weixin.qq.com/s?__biz=MzAxNDcxMjc3OQ==&mid=2649828610&idx=2&sn=6542ce90cf85cb881f73c8d221dda8e0&scene=0#wechat_redirect)。团队领导的四种方式：指导型 教练型 支持型 授权型，参考资料：[情境领导模型](http://wenku.baidu.com/link?url=WaCghXFFFiKCyJh1o8JzwJswZn3aJw4TvhodGeREoQwC2TKXTQWnh6dcyz4zVWREe8WUjg7wKAArUdy9rFN2id9CT96PRBDC_ZM_UhOtCJ_)
+   - 团队不同阶段的领导风格：TODO 图片
+ 
+- 产品Backlog: Scrum三大工件之一，DEEP模型，Detailed-适当的详细程度，Estinated-被估算过的，Emergent-涌现式的，Prioritied-排了优先级的
+- 确定迭代目标：简短陈述这个迭代将要完成什么，冰山模型，当前迭代的在最顶端，是已经被细化的故事
+- 交付和发布，迭代未的产物表示需要交付的，需要交付的不一定要发布，交付是面向团队、PO，发布是向向客户，一次交付可包含多个交付
+- 持续集成、持续部署、持续交付、持续发布，参考资料：[如何理解持续集成、持续交付、持续部署](https://www.zhihu.com/question/23444990)
+	- 持续集成:代码提交后自动执行单元测试、业务验收测试，并打包，如果失败通过通知或者自动提交日志来通知团队，表示新代码与已有的集成是持续的。主要活动是 编译、测试、打包
+   - 持续部署：应用组件、基本设施的代码、配置变更在产品环境生效称为
+   - 持续交付：可以理解为从 Deployment 到 Release 之间的阶段，更多的强调的是一种能力。开发有能力频繁的部署，业务有能力随时发布。
+   - 持续发布：具有业务影响的功能变化对最终用户可见称为“发布”，表示已经部署到生产环境。特性开关（Feature Toggle） 或 灰度发布（Dark Launching） 等技巧可以使我们更加频繁地部署变更到产品环境但并不发布功能
+- DOD，故事完成的标准，包括验收条件，比验收条件更广泛，符合MVP原则
 
 
 ## 2016-04-17 第二天培训笔记  
