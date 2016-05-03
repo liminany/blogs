@@ -58,6 +58,8 @@
 - 累积流图 TODO
 - 看板的建立：参考 Scrum与看板 欲盖弥彰 ，infoq的翻译的小册子
 - 个人看板 TODO
+- Scrum PDCA理论支持，PDCA反馈环，plan\do\check\action(Adapter)
+- 团队或者组织模型，职能部门慢慢变成了虚线，采用社区领袖的形式存在，COP：社区实践小组
 
 
 ## 2016-04-17 第二天培训笔记  
