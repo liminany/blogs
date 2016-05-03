@@ -31,6 +31,8 @@
 - Team团队：跨职能团队是发展趋，在企业、组织内部需导入新人才管理方法，注意是人才管理，而不是人力资源管理（守门员带球进门便是例子）
 	- 鸡和猪的故事，独是直接参与，鸡是间接参与，scrum团队是猪，其他人是鸡。
    - 确定团队成员 ,成员的角色，各角色的职责
+   - 团队动态成长模型-塔克曼模型：Forming-组建、Storming-振荡、Norming-平稳、规范、Performing-成熟、Adjourning-消亡
+   - 领导方式：领导，管理和引导，重在引导，关于领导力的扩展阅读文章：[领导力的核心就是八个字：难题、解决、群众、动员](http://mp.weixin.qq.com/s?__biz=MzAxNDcxMjc3OQ==&mid=2649828610&idx=2&sn=6542ce90cf85cb881f73c8d221dda8e0&scene=0#wechat_redirect)。团队领导的四种方式：指导型 教练型 支持型 授权型，参考资料：[情境领导模型](http://wenku.baidu.com/link?url=WaCghXFFFiKCyJh1o8JzwJswZn3aJw4TvhodGeREoQwC2TKXTQWnh6dcyz4zVWREe8WUjg7wKAArUdy9rFN2id9CT96PRBDC_ZM_UhOtCJ_)
 
 
 ## 2016-04-17 第二天培训笔记  
