@@ -122,6 +122,12 @@ EGO这个组织总体感觉不错，虽然入会要收钱，而且还不少，�
 关于敏捷需求分析的文章：
 [敏捷过程中的需求分析](http://wenku.baidu.com/link?url=2MoMYOghM0zmb7xO1rvzzHnVu_UYwOoBZ0zrJ50PIaoddLFGy9Udfuu0RfYHGmWliRoomC2UxGW590HJF4ro5G3uDmjEiwtV01KmH5tZNQ_)
 [需求分析敏捷方法论](http://wenku.baidu.com/link?url=aOnz_c9pfRc5RtTCMhLyzeXjvQo_H9wkQulK8iELEn76twBjSsEcbYspXORwBGrqEvmvdcuP4Pi4xc6VeuoJjLR0SswRIQO4yt0X6vlffbC)
+[敏捷需求管理](http://www.bqconf.com/2016/04/bqconf-21th-agile-requirement-management/) 要点
+- 拿到需求先不要进行设计，而是先根据端到端和MVP模型拆分，规划迭代。**需求拆分很重要**
+- 用户故事拆分步骤：先按流程分， 在从简单到复杂 然后 从CRUD操作类型分，最后 按主题分，相同类一类的。先打散后有汇聚
+- 需求变更时，此变更应该当成一条新的需求，以此再从三个维度去分析影响（进度、价值、技术）
+- 优先级每天都要排，有可能有突发BUG或者需求，需重新评估
+- 故事启动-故事Kick UP 开发需要讲解故事
 
 敏捷需求分类：用户故事、探索性故事、约束(非功能需求)、bug, **总共有五种，还有少了哪种？**   原型？
 
