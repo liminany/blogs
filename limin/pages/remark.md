@@ -1,5 +1,24 @@
 # 工作笔记、备忘，包括技术、管理等
+## 2016-05-11 ABP Odata WebAPI，通过postman post 新增数据，DateTime如果不按格式：【2016-05-09T00:00:00+08:00或者2016-05-09】 传递会有报下面的错误：
+>{
+  "error": {
+    "code": "",
+    "message": "The request is invalid.",
+    "innererror": {
+      "message": "entity : 无法将文本“2016-05-10 00:00:00”转换为正确的类型“Edm.DateTimeOffset”。\r\n",
+      "type": "",
+      "stacktrace": ""
+    }
+  }
+}
 
+
+解决办法：重载 ExecuteAsync（AbpODataEntityController），添加以下代码：
+>			   var config = System.Web.Http.GlobalConfiguration.Configuration;
+            var jsonFormatter = config.Formatters.OfType<JsonMediaTypeFormatter>().FirstOrDefault();
+            //controllerContext.Configuration.Formatters.Insert(0, jsonFormatter);
+ 可以暂时解决，原因不详，有可能是找不到对应的JSON序列化器，采用了Odata的，不知是否与ABP 实现ODATA的方式有关。奶奶的花了一上午时间解决
+ 
 ## 2016-04-25 SequoiaDB_分布式数据库 ppt 知识点分析
 [来源: SequoiaDB_分布式数据库_王涛_微软MVP ppt](http://pan.baidu.com/s/1qXOAOmo) 
 参考： [数据仓库杂谈](http://blog.csdn.net/cajeep2001/article/details/8030405)
