@@ -13,6 +13,7 @@
 - [行为驱动开发指南](http://pan.baidu.com/s/1qXM87EW)  [电子版]()   出版年份 2011-1 页数 190 
 - [初探行为驱动开发 ppt]((http://pan.baidu.com/s/1pLxixFd)
 - [敏捷软件测试：测试人员与敏捷团队的实践指南](http://item.jd.com/10400763.html) [电子版](http://pan.baidu.com/s/1kVm28cR) 出版年份 2010-1 页数 370
+- [探索式测试实践之路](http://item.jd.com/11064747.html)  [电子版](http://pan.baidu.com/s/1o8RDSue)  出版年份 2012-1 页数 316
 
 ##1.敏捷回顾 [电子版](http://pan.baidu.com/s/1slh5a3r)  [出版年份 2012-9 页数 184](https://book.douban.com/subject/19978582/) 
 ![](https://img3.doubanio.com/lpic/s23008554.jpg)
