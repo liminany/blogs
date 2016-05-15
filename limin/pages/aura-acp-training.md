@@ -39,9 +39,9 @@
 - 第63图 价值流程图，通常是优化流程时间（价值增加的时间，会造成等待从而产生浪费）
 - **项目章程和探索性测试？**
 - MoSCow、SMART、Kano、WIDETOM含义：
-	- MoSCow：MUST 必须有，Should应该有、Could可以有、Would会有
+	- MoSCow：MUST 必须有，Should应该有、Could可能有、Would’t以后可能会有，现在不会有
    - Kano：必须包含有、不满足因素（应该移除的）、满足因素 （会感到愉悦，但不是必须的） 
-- SCRUM中各会议的持续时间统计：
+- SCRUM中各会议的持续时间统计：Sprint Planing Meeting和Sprint Review Meeting都 是四小时（只是建议）
   
 ## 2016-05-01 第四天培训笔记（完结）
 - Scrum 非软件项目也可以使用，是工作管理框架和团队动力学
