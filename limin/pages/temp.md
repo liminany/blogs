@@ -1,4 +1,11 @@
 # 临时笔记 乱七八遭的 先放这里
+## 2016-05-15 袁斌 AgileDo 相关资料
+[图灵社区文集：落地敏捷，持续改进]http://www.ituring.com.cn/minibook/426)
+1. [公开课相关资料](http://www.agiledo.cn/resource.html)
+2. [博客文集：有效沟通](http://blog.vsharing.com/agiledo/MC16701/)
+3. [博客文集：说服高层](http://blog.vsharing.com/agiledo/MC16698/)
+4. [博客文集：绩效考核](http://blog.vsharing.com/agiledo/MC16686/)
+5. [博客文集：相关资料](http://blog.vsharing.com/agiledo/MC16704/)
 
 ## 2016-03-20 临时笔记
 
