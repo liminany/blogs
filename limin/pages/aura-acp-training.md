@@ -24,9 +24,13 @@
 - 第7题 敏捷团队应该与团队定期进行沟通反馈，提客户高参与度。即团队是工作透明的，站会，周会，迭代末都可以向客户沟通反馈，保证产品质量和价值
 - 第9题 **预算和成本和时间的关系？**
 - 积极聆听:关注当下,集中精力于演讲者;作笔元记，不打断;用意译来不确认和回顾所收听的内容;讲话结束时为后续归对话内容，开放式提问。积极式沟通技能
-- **情境邻导力?**
+- **情境邻导力?**  团队领导的四种方式：指导型 教练型 支持型 授权型，参考资料：[情境领导模型](http://wenku.baidu.com/link?url=WaCghXFFFiKCyJh1o8JzwJswZn3aJw4TvhodGeREoQwC2TKXTQWnh6dcyz4zVWREe8WUjg7wKAArUdy9rFN2id9CT96PRBDC_ZM_UhOtCJ_)
 - **敏捷有效沟通?**
+	- 理论知识： [PMI 项目沟通管理](http://wenku.baidu.com/link?url=NHOsFBCz9QRH2jeaQgNXY3E64n_rxwuorIt2Yi83XGPiWqW_IeH7Cb81ylX5-m-LumuPC-Q65zJQvXUQo0i3fyR4zA5EeqppbBHymFutjyi) [PMI-ACP敏捷认证：敏捷项目中的沟通管理](http://qq.baijia.baidu.com/article/206795) 
+	- 实践知识 [敏捷有效沟通](http://blog.vsharing.com/agiledo/MC16701/)  [敏捷软件开发基础：进行有效的客户协作](http://blog.csdn.net/hoping/article/details/1040376)
+   - 其他： [有效沟通实战训练](http://wenku.baidu.com/link?url=N8RM4qtu2yviUPHWp3E2XNE4-H5ZWZoS-rQ2zxyAn70vqCWsS6z5Axi5Qc7DTL5I-XTvYBNdj3AvDT8pWZEIYpzvJaxWH6Et459UnFyvY47)  [女性有效沟通和团队建设的基本技巧(](http://wenku.baidu.com/link?url=bYR36pH2xR8lSJTabBb6WByagSgJyxoAn_Ky79CdwsZ2UGG04YvxVgwW-v_HLeKmroXl5vR1U46Vpe9JnJuwImK59B2u6VuCg3dM1eSC1vq) [有效沟通的四个基本法则](http://wenku.baidu.com/view/3b117e6f561252d380eb6efb.html?from=search)
 - 敏捷项目和传统项目的根本区别:高层次的项目范围，多迭代，自组织，广泛的客户参与
+
 
   
 ## 2016-05-01 第四天培训笔记（完结）
