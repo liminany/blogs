@@ -30,7 +30,9 @@
 	- 实践知识 [敏捷有效沟通](http://blog.vsharing.com/agiledo/MC16701/)  [敏捷软件开发基础：进行有效的客户协作](http://blog.csdn.net/hoping/article/details/1040376)
    - 其他： [有效沟通实战训练](http://wenku.baidu.com/link?url=N8RM4qtu2yviUPHWp3E2XNE4-H5ZWZoS-rQ2zxyAn70vqCWsS6z5Axi5Qc7DTL5I-XTvYBNdj3AvDT8pWZEIYpzvJaxWH6Et459UnFyvY47)  [女性有效沟通和团队建设的基本技巧(](http://wenku.baidu.com/link?url=bYR36pH2xR8lSJTabBb6WByagSgJyxoAn_Ky79CdwsZ2UGG04YvxVgwW-v_HLeKmroXl5vR1U46Vpe9JnJuwImK59B2u6VuCg3dM1eSC1vq) [有效沟通的四个基本法则](http://wenku.baidu.com/view/3b117e6f561252d380eb6efb.html?from=search)
 - 第16题 敏捷项目和传统项目的根本区别:高层次的项目范围，多迭代，自组织，广泛的客户参与
-- 第17题 富有动力的团队不管在传统项目中还是敏捷项目中都至关重要，因为富有动力的团队更流畅，生产率更高，表现往往超过预期，提高团队动力的步骤：
+- 第17题 富有动力的团队不管在传统项目中还是敏捷项目中都至关重要，因为富有动力的团队更流畅，生产率更高，表现往往超过预期.
+	- 提高团队动力的步骤：1.共度黄金时间，团队成员可在个人层面上了解他人以此营造社区的氛围，2 提供反馈、指导和训练，赞杨和感谢团队成员的出色工作，同时为技能和能力提升提供指导和训练 3 授权，授权的团队成员作关键决策，在此期间，建立信任并显示领导对团队能力的信任
+	- [如何提高团队绩效系列](http://blog.csdn.net/column/details/agiledeptchen.html)
 
   
 ## 2016-05-01 第四天培训笔记（完结）
