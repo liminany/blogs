@@ -43,13 +43,13 @@
 - 风险-价值指标和成本-价值指标采用莫斯MoSCow或Kano方法来排优先级
 - 第63图 价值流程图，通常是优化流程时间（价值增加的时间，会造成等待从而产生浪费）
 - **项目章程和探索性测试？**
-- MoSCow、SMART、Kano、WIDETOM含义：
+- **MoSCow、SMART、Kano、WIDETOM含义**：
 	- MoSCow：MUST 必须有，Should应该有、Could可能有、Would’t以后可能会有，现在不会有
    - Kano：必须包含有、不满足因素（应该移除的）、满足因素 （会感到愉悦，但不是必须的） 
    - SMART，表示任务的特征：S-Specific 有助于故事开发的任务；M-Measurable 团队和客户可验证的任务；A-Achievable 切实际可执行和理解的任务；T-Timeboxed 任务的工作量和时间可进行估算的任务
-- SCRUM中各会议的持续时间统计：Sprint Planing Meeting和Sprint Review Meeting都 是四小时（只是建议）
+- *SCRUM中各会议的持续时间统计*：Sprint Planing Meeting和Sprint Review Meeting都 是四小时（只是建议）
 - TDD的步骤：写一个测试；核对和确认测试；编写实现，完成后在测试；重构产品代码
-- 敏捷反馈技术：
+- **敏捷反馈技术**：
   
 ## 2016-05-01 第四天培训笔记（完结）
 - Scrum 非软件项目也可以使用，是工作管理框架和团队动力学
