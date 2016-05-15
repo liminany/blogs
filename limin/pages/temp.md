@@ -4,9 +4,9 @@
 1. [公开课相关资料](http://www.agiledo.cn/resource.html)
 2. [博客文集：有效沟通](http://blog.vsharing.com/agiledo/MC16701/)
 3. [博客文集：说服高层](http://blog.vsharing.com/agiledo/MC16698/)
-4. [博客文集：绩效考核](http://blog.vsharing.com/agiledo/MC16686/)
+4. [博客文集：绩效考核](http://blog.vsharing.com/agiledo/MC16686/)  [火星人陈勇：敏捷开发绩效管理系列](http://blog.csdn.net/column/details/agiledeptchen.html)
 5. [博客文集：相关资料](http://blog.vsharing.com/agiledo/MC16704/)
-
+6. [讲稿资料：我们这样实践Scrum](http://www.agiledo.cn/Resource-Download/scrum-in-practice(part).pdf)
 ## 2016-03-20 临时笔记
 
 [QCON 北京2016软件开发大会资料下载1](http://ppt.geekbang.org/qconbj2016)  
