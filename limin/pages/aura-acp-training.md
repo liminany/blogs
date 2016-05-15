@@ -47,6 +47,7 @@
 	- MoSCow：MUST 必须有，Should应该有、Could可能有、Would’t以后可能会有，现在不会有
    - Kano：必须包含有、不满足因素（应该移除的）、满足因素 （会感到愉悦，但不是必须的） 
    - SMART，表示任务的特征：S-Specific 有助于故事开发的任务；M-Measurable 团队和客户可验证的任务；A-Achievable 切实际可执行和理解的任务；T-Timeboxed 任务的工作量和时间可进行估算的任务
+   - WIDETOM：宽带德尔菲,计划扑克中用于估算故事点的一种方法
 - *SCRUM中各会议的持续时间统计*：Sprint Planing Meeting和Sprint Review Meeting都 是四小时（只是建议）
 - TDD的步骤：写一个测试；核对和确认测试；编写实现，完成后在测试；重构产品代码
 - **敏捷反馈技术**：
