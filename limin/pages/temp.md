@@ -8,7 +8,7 @@
 5. [博客文集：相关资料](http://blog.vsharing.com/agiledo/MC16704/)
 6. [讲稿资料：我们这样实践Scrum](http://www.agiledo.cn/Resource-Download/scrum-in-practice(part).pdf)
 ## 2016-03-20 临时笔记
-
+[程序员的书单](http://lucida.me/blog/developer-reading-list/) 码农必看
 [QCON 北京2016软件开发大会资料下载1](http://ppt.geekbang.org/qconbj2016)  
 [QCON 北京2016软件开发大会视频](http://v.qq.com/vplus/7452a0fe188310567afa2888d66bd01c/videos) 
 
