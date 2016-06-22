@@ -42,6 +42,45 @@
   
 ##2016-05-31 还需要花时间了解的
 - 挣值、净现值，敏捷规划与估算中有
+挣值常用名词：
+
+AC [Actual Cost]                实际成本：完成工作的实际成本是多少？ [96版的ACWP]
+
+PV [Planned Value]              计划值：  应该完成多少工作？ [96版的BCWS]
+
+EV [Earned Value]               挣值：    完成了多少预算工作？ [96版的BCWP]
+
+BAC [Budget cost at completion] 基线预算成本：全部工作的预算是多少？不改变成本基准，BAC就不会发生变化
+
+CV [Cost Variance]              成本偏差
+
+SV [Schedule Variance]          进度偏差
+
+CPI [Cost Performance Index]     成本执行指数
+
+SPI [Schedule Performance Index] 进度执行指数
+
+ETC [Estimate (or Estimated) To Complete]  完工时尚需成本估算：到完成时，剩余工作量还需要多少成本,ETC也就是估计完成项目的剩余工作成本
+
+EAC [Estimate at completion]               完成预估：          全部工作的成本是多少？是根据项目的绩效和风险量化对项目最可能的总成本所做的一种预测。
+
+挣值计算的常用公式：
+    AC=∑各项实际发生费用
+    EV=∑各项挣得值
+    PV=∑各项计划值
+    BAC=∑完工时各项PV
+CV=EV-AC        费用偏差      CV>0代表成本节约，好
+    SV=EV-PV        进度偏差      SV>0代表进度提前，好
+CPI=EV/AC       费用指数      CPI>1代表工作价值高，好
+    SPI=EV/PV       效率指数      SPI>1代表实际进度快，好
+预测EAC 与 ETC：
+   由于存在成本偏差情况，所以在典型偏差与非典型偏差时，计算顺序不一样，如下:
+    典型偏差：
+        EAC= AC+(BAC-EV) =BAC/CPI
+        ETC=EAC-AC
+非典型偏差：
+        ETC=BAC-EV 基线总成本-已挣得部份
+        EAC=ETC+AC
 - 敏捷价值和原则，需记下来
 - 敏捷项目管理 书可粗看
 - 知识点精要 一周至少看四次
