@@ -9,7 +9,7 @@
 - [VS Code Analysis vs StyleCop + FxCop,stackoverflow](http://stackoverflow.com/questions/580168/visual-studio-code-analysis-vs-stylecop-fxcop)
 - [vs2013 代码静态分析](https://visualstudiomagazine.com/articles/2013/12/01/static-code-analysis-in-vs-2013.aspx)
 - 相关点：手工代码审查、手工/自动代码分析、代码度量、代码覆盖率、迁入时代码分析、单元测试、持续集成
-- 其他类似工具有CodeRush、 Resharper
+- 其他类似工具有[CodeRush、 Resharper](http://blog.csdn.net/william_lv/article/details/49735889)
 - 关于静态代码分析的介绍：[代码分析方法](http://blog.csdn.net/jznsmail/article/details/4804382)   [阐述静态代码分析方法及其优点和缺点](http://gamerboom.com/archives/49352)   [代码静态分析工具——splint的学习与使用](http://www.cnblogs.com/bangerlee/archive/2011/09/07/2166593.html)  [程序静态分析](http://blog.csdn.net/shengfeixiang/article/details/20407039) 
 
 ## 2016-06-01 回顾会议流程概要 
