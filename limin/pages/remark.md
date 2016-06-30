@@ -8,7 +8,8 @@
 - [vs2013里面的代码分析](https://blogs.msdn.microsoft.com/hkamel/2013/10/24/visual-studio-2013-static-code-analysis-in-depth-what-when-and-how/)
 - [VS Code Analysis vs StyleCop + FxCop,stackoverflow](http://stackoverflow.com/questions/580168/visual-studio-code-analysis-vs-stylecop-fxcop)
 - [vs2013 代码静态分析](https://visualstudiomagazine.com/articles/2013/12/01/static-code-analysis-in-vs-2013.aspx)
-- 相关点：手工代码审查、手工、自动代码分析、迁入时代码分析、单元测试、持续集成
+- 相关点：手工代码审查、手工/自动代码分析、代码度量、代码覆盖率、迁入时代码分析、单元测试、持续集成
+- 其他类似工具有CodeRush、 Resharper
 
 ## 2016-06-01 回顾会议流程概要 
 0. 会前工作，可以先做一些基础调查表，为促进成员的沟通，先要和管理层沟通保持低调，为保证全员参与，可以找一些平时比较活跃的托带动气氛。会议准备：打印签名表格、主持人引导文档、编写会议议程PPT并打印、通知参会人员带好手机和笔和纸。【计时人、会议纪要人、代理主持人、回顾会议基调监督人】
