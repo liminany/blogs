@@ -10,6 +10,7 @@
 - [vs2013 代码静态分析](https://visualstudiomagazine.com/articles/2013/12/01/static-code-analysis-in-vs-2013.aspx)
 - 相关点：手工代码审查、手工/自动代码分析、代码度量、代码覆盖率、迁入时代码分析、单元测试、持续集成
 - 其他类似工具有CodeRush、 Resharper
+- 关于静态代码分析的介绍：[代码分析方法](http://blog.csdn.net/jznsmail/article/details/4804382)   [阐述静态代码分析方法及其优点和缺点](http://gamerboom.com/archives/49352)   [代码静态分析工具——splint的学习与使用](http://www.cnblogs.com/bangerlee/archive/2011/09/07/2166593.html)  [程序静态分析](http://blog.csdn.net/shengfeixiang/article/details/20407039) 
 
 ## 2016-06-01 回顾会议流程概要 
 0. 会前工作，可以先做一些基础调查表，为促进成员的沟通，先要和管理层沟通保持低调，为保证全员参与，可以找一些平时比较活跃的托带动气氛。会议准备：打印签名表格、主持人引导文档、编写会议议程PPT并打印、通知参会人员带好手机和笔和纸。【计时人、会议纪要人、代理主持人、回顾会议基调监督人】
