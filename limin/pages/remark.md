@@ -3,6 +3,24 @@
 - 允许团队成员在变革中放错，放错后不要指责，及时了解放错的根本原因，慢慢引导
 - 经常站在成员的角度考虑问题，当发生冲突时，第一时间说：我能理解你的心情和情况
 
+## 用户故事地图相关工具和文章：用户故事地图用于制定高层次的发布计划
+- [创建用户故事地图(User Story Mapping)的8个步骤](http://www.tuicool.com/articles/vAjieei)
+- [用户故事地图(User Story Mapping)之初体验](http://www.cnblogs.com/ups216/p/5120567.html)
+- [用户故事地图的应用-百度方法+线上语音课堂](http://mp.weixin.qq.com/s?__biz=MzA5Mzg0OTgwMA==&mid=2654440872&idx=1&sn=8e9111e7a639e38abb8633bf1681ee39&scene=0#wechat_redirect)
+- [影响地图和用户故事地图的联系与对比](http://mp.weixin.qq.com/s?__biz=MjM5NjcwMzQ4MQ==&mid=403148704&idx=1&sn=b4992bdc99041c6ed28d2d4cbb97fcdf&scene=24&srcid=0704sve2vdnaEZLHhJpwdmvx#wechat_redirect)
+- [使用Leangoo玩转故事地图](http://mp.weixin.qq.com/s?__biz=MjM5OTg4MTQ2NA==&mid=402305632&idx=1&sn=0043526a37f3125c7790366990b2735b&scene=0#wechat_redirect)
+- [Creating an Agile Road Map Using Story Mapping](https://www.scrumalliance.org/community/articles/2013/august/creating-an-agile-roadmap-using-story-mapping)
+
+## 用户故事地图相关工具
+- [SpecLog 需翻墙](Shttp://www.speclog.net/),一个与和BDD工具SpecFlow同属同一个公司的产品，收费客户端软件，适用Net平台，通过这个工具可以创建用户故事地图，好像是用VS画出来的图
+- [realtimeboard](https://realtimeboard.com) 有免费帐号，可免费创建三个项目，每个项目只最多可以三人协作，已经试用，免费帐号可以导出PDF、图片、CSV
+- [storiesonboard](http://storiesonboard.com/),没有免费帐号，可试用三十天，试用期间不限制功能。暂时没有时间试用
+- [cardboardit](https://cardboardit.com/), 有免费帐号，没有项目限制，无多余的协作人
+- [featuremap](https://www.featuremap.co/),没有试用，还不知道具体有什么功能，是否可以画用户故事地图
+- [github上开源的工具，将xsl格式的用户故事地图转成HTML,基于py](https://github.com/manuCervello/excelToUserStoryMapping)
+- [github上开源的工具，类似看板的一个JS页面，用NG做的，没什么实际用处](https://github.com/treshnikov/UserStoryMapping)
+
+
 ##代码分析技术相关资料
 - Astyle：第三方代码格式化工具
 - [vs2013里面的代码分析](https://blogs.msdn.microsoft.com/hkamel/2013/10/24/visual-studio-2013-static-code-analysis-in-depth-what-when-and-how/)
