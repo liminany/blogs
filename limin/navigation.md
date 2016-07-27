@@ -10,15 +10,16 @@
 <!--
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
-
-[Note](pages/note.md)
-[Work Remark](pages/remark.md)
-[Acp Training](pages/aura-acp-training.md)
-[PMI ACP Ebook](pages/acp-ebook.md)
-[Fresh](pages/fresh.md)
-[Questions](pages/qa.md)
-[Temp](pages/temp.md)
--->
+  -->
+<!--
+    [Note](pages/note.md)
+    [Work Remark](pages/remark.md)
+    [Acp Training](pages/aura-acp-training.md)
+    [PMI ACP Ebook](pages/acp-ebook.md)
+    [Fresh](pages/fresh.md)
+    [Questions](pages/qa.md)
+    [Temp](pages/temp.md)
+    -->
 <!--
 #[Data](pages/data.md)
 #[About](pages/about.md)
