@@ -1,15 +1,17 @@
-# About Page
+# About me
 
+- 网名：liminany、明年今天，邮箱：liminany@gmail.com
+- 居住地：广州
+- 毕业时间：2017-07
+- 老家：湖南永州，出生年月：1985-06
+- 爱好：打游戏、看美剧、各种宅，喜欢听重口味音乐，如金属、现代摇滚、电子乐等。是一名Net码农，涉猎稍广，对于技术管理、敏捷、精益、架构、代码质量有着浓厚的兴趣。
+- 目前关注的领域：敏捷实践，Net 的 ABP开源框架
 
-## Section 1
+## 个人经历
+【此处略N字】
 
-Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+## 有所感悟
+【此处也略N字】
 
-Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.
-
-
-## Section 2
-
-Nulla vitae elit libero, a pharetra augue. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras mattis consectetur purus sit amet fermentum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+## 个人目标
+嘿嘿，哦耶！
