@@ -50,7 +50,7 @@
   * [Latest]()
   * [2016-07]() 
 
-[My life]()
+[My Life]()
 
   * # ABCEDFG
   * [Movie]()
