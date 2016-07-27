@@ -1,5 +1,5 @@
 ﻿# About me
-
+## 基本情况
 - 网名：liminany、明年今天，邮箱：liminany@gmail.com
 - 居住地：广州
 - 毕业时间：2017-07
