@@ -1,4 +1,4 @@
-#liminany
+﻿#liminany
 <!--
   -- Default theme
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
@@ -6,7 +6,7 @@
 -->
 
 
-[gimmick:theme](spacelab)
+[gimmick:theme](flatly)
 <!--
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
@@ -39,22 +39,26 @@
 [Agile-Learn]()
 
   * # Acp Training
-  * [Training notes](pages/aura-acp-training.md)
+  * [Public Training notes](pages/public-training.md)
+  * [Aura Training notes](pages/aura-acp-training.md)
   * [PMI ACP Ebook](pages/acp-ebook.md)
   - - - -
   * # My Agile Practices 
-  * [Latest]()
-  * [2016-07-MobileCheck-ZZY]() 
+  * [Latest](agilePractices/Latest.md)
+  * [Agile Tools](agilePractices/agile-tools.md)
+  * [2016-07-MobileCheck](agilePractices/2016-07-MobileCheck.md) 
+  * [2014-06~2016-01](2014-06~2016-01.md) 
   - - - -
   * # Agile-Learn Knowledge 
-  * [Latest]()
-  * [2016-07]() 
+  * [Latest](Agile-Learn/Latest.md)
+  * [2016-07](Agile-Learn/2016-07.md) 
 
 [My Life]()
 
   * # ABCEDFG
-  * [Movie]()
-  * [Tools]()
+  * [Movie](life/movie.md)
+  * [Tools](life/tools.md)
+  * [Other](life/other.md)
 
 [Fresh](pages/fresh.md)
 [Questions](pages/qa.md)
