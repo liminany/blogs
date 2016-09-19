@@ -1,4 +1,11 @@
 # 临时笔记 乱七八遭的 先放这里
+## 2016-09-19 软件架构 相关资料
+[软件架构模式 gitbook](https://www.gitbook.com/book/bboyfeiyu/software-architecture-patterns/details)
+[软件架构发展1](http://www.it610.com/article/3555337.htm)
+[iOS 架构模式 - 简述 MVC, MVP, MVVM 和 VIPER (译)](https://blog.coding.net/blog/ios-architecture-patterns)
+[](http://images.cnblogs.com/cnblogs_com/gaojing/tt.jpg)
+[软件架构发展趋势和现状](http://www.wtoutiao.com/p/1e4yfmd.html)
+
 ## 2016-05-15 袁斌 AgileDo 相关资料
 [图灵社区文集：落地敏捷，持续改进]http://www.ituring.com.cn/minibook/426)
 1. [公开课相关资料](http://www.agiledo.cn/resource.html)
