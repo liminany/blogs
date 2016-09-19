@@ -4,7 +4,8 @@
 [软件架构发展1](http://www.it610.com/article/3555337.htm)
 [iOS 架构模式 - 简述 MVC, MVP, MVVM 和 VIPER (译)](https://blog.coding.net/blog/ios-architecture-patterns)
 [软件架构发展趋势和现状](http://www.wtoutiao.com/p/1e4yfmd.html)
-
+[在过去几年中，微服务悄然却坚定地在拥挤的软件架构市场上占据了一席之地](http://www.tuicool.com/articles/ZfMnErb)
+[迈向敏捷软件架构](http://www.tuicool.com/articles/zEB3um)
 ![](http://images.cnblogs.com/cnblogs_com/gaojing/tt.jpg)
 ![](http://images.cnblogs.com/cnblogs_com/gaojing/tt.jpg)
 
