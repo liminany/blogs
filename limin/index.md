@@ -1,3 +1,3 @@
 <script>
-window.location="#!pages/note.md";
+window.location="#!pages/public-training.md";
 </script>
