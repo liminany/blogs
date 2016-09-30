@@ -1,7 +1,7 @@
 # 记录一些参与过的培训、技术沙龙
 ## 记录一些常用的活动聚合网址
 [活动行](www.huodongxing.com)   ........  [互动吧](http://www.hdb.com/)   ........  [推酷活动](http://huodong.tuicool.com/huodong/list?city=3)   ........  [startupgrind 创业](https://www.startupgrind.com/guangzhou/)   ........  [广东互联网大会](http://www.gdicchina.cn/)
-[又拍云技术沙龙 opentalk](https://opentalk.upyun.com/show/issues)
+   ........  [又拍云技术沙龙 opentalk](https://opentalk.upyun.com/show/issues)
 
 ## [Gdevops全球敏捷运维峰会 2016-09-23](http://www.huodongxing.com/event/reg_submit?id=3341232107200)
 ### 会议介绍 已报名，期待ING
