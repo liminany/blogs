@@ -1,10 +1,20 @@
-# 记录一些参与过的培训、技术沙龙
+# 记录一些参与过、个人比较关注的培训、技术沙龙
 ## 记录一些常用的活动聚合网址
 [活动行](www.huodongxing.com)   ........  [互动吧](http://www.hdb.com/)   ........  [推酷活动](http://huodong.tuicool.com/huodong/list?city=3)   ........  [startupgrind 创业](https://www.startupgrind.com/guangzhou/)   ........  [广东互联网大会](http://www.gdicchina.cn/)
    ........  [又拍云技术沙龙 opentalk](https://opentalk.upyun.com/show/issues)
+   
+
+## [构建高效DevOps团队](http://devopshub.cn/2016/09/18/event-201609-build-devops-team-vsalm/)
+
+### 培训介绍
+《构建高效DevOps团队》系列课程是由LEANSOFT与微软中国推出的DevOps系列课程之一。本课程融合了敏捷，Scrum/Kanban，用户故事地图，影响地图等一系列被广泛认可的最佳实践和方法，配合微软 Team Foundation Server，Azure云计算平台和Docker所提供的Devops工具链支持，为参训者提供体验式的DevOps实施指导
+
+### 与会人员的总结:[总结1](http://www.cnblogs.com/Hai--D/p/5898168.html)
+### 培训PPT: [完整PPT](http://yun.baidu.com/s/1eS3EQdW#path=%252FSynced%252FShared%252FDevOpsTraining)
+
 
 ## [Gdevops全球敏捷运维峰会 2016-09-23](http://www.huodongxing.com/event/reg_submit?id=3341232107200)
-### 会议介绍 已报名，期待ING
+### 会议介绍
 打造敏捷与运维领域标杆峰会！
 2016年全球敏捷运维峰会（Gdevops, Global Devops Summit）将于2016年在杭州、北京、广州、上海四城全面启动，本次峰会由上海市经济和信息化委员会指导，上海市云计算产业促进中心、DBA+社群主办，杭州市计算机学会、三墩IT人、新炬网络、功虎社区联合承办，数十家媒体单位共同支持。
 当Development遇上Operations，将会产生怎样的火花？为了应对IT环境中普遍面临的一些挑战，DevOps理念应运而生，它变成了部门间沟通协作的流程和方法，将原本笨重的开发与运营之间的工作移交过程变得流畅无碍……值此时机，Gdevops峰会应运而生，峰会旨在搭建一个开发者与运维者沟通交流的平台，围绕各种架构、敏捷、云与运维热话，持续为业界同仁及行业发展提供强有力的专业支持。
