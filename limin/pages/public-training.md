@@ -11,8 +11,15 @@
 
 ### 与会人员的总结:[总结1](http://www.cnblogs.com/Hai--D/p/5898168.html)
 ### 培训PPT: [完整PPT](http://yun.baidu.com/s/1eS3EQdW#path=%252FSynced%252FShared%252FDevOpsTraining)
+### 相关连接资料
+ - [TFS 2015 敏捷开发实践 – 看板的使用](http://devopshub.cn/2016/06/22/visual-studio-team-foundation-server-2015-how-to-use-tfs-kanban/)
+ - [TFS 2015 敏捷开发实践 – 在Kanban上运行一个Sprint](http://devopshub.cn/2016/06/30/run-scrum-sprint-on-tfs-kanban/)
+ - [使用 SSH 连接 TFS/VSTS 的GIT仓库](http://devopshub.cn/2016/07/22/use-ssh-connect-tfs-vsts-git-repo/)
+ - [【DevOps敏捷开发动手实验】开源文档 v2015.2 stable 版发布](http://devopshub.cn/2016/04/17/vsalm-hols-docs-v2015-2-released/)
 
-
+ - [用户故事地图”在TFS平台上的应用](http://mp.weixin.qq.com/s?__biz=MzA5NzU3Njc5Mw==&mid=2651200906&idx=1&sn=15416d467a734c708c306b5723ec643c&chksm=8b6c0fbcbc1b86aa1fc4089c96ae1add0f26065ca3911f8e0b90dee9451b9ca2563119507c48&scene=0#wechat_redirect)
+ - [DevOps的前世今生： 不仅仅包括开发测试运维，还包括组织文化及敏捷精益](http://mp.weixin.qq.com/s?__biz=MzA5NzU3Njc5Mw==&mid=2651200907&idx=1&sn=862b2c1b0ca650361efd2a46add9b03a&chksm=8b6c0fbdbc1b86abb1d89bb2954484232fd0f8fbde7afd3b0b04490c813f920401ee7ef8cf11&scene=0#wechat_redirect)
+ 
 ## [Gdevops全球敏捷运维峰会 2016-09-23](http://www.huodongxing.com/event/reg_submit?id=3341232107200)
 ### 会议介绍
 打造敏捷与运维领域标杆峰会！
