@@ -47,6 +47,17 @@
  - [忍者龙剑传2-已经下](http://www.xbox3600.com/forum.php?mod=viewthread&tid=203&extra=page%3D2%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
  - 蝙蝠侠系列：阿卡姆疯人院 为1代、阿甘之城为2代、阿甘起源3代，XBLA上有两作，分别是阿克汉姆 起源 黑门、高谭市冒名顶替（Gotham City Imposters，网络游戏）
  - [翡翠帝国 中文 GOD版-已经下 ](http://www.xbox3600.com/forum.php?mod=viewthread&tid=3663&extra=page%3D1%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
+ - [吃豆人-双人-未下载](http://game.ali213.net/thread-5291620-1-1.html)
+ - [恶魔城：暗影之王-宿命镜面　高清版-已经下](http://game.ali213.net/thread-5417792-1-1.html)
+ - [剑勇传奇：忍者龙剑传Z Yaiba: Ninja Gaiden Z](http://game.ali213.net/thread-5417290-1-1.html)
+ - [阿修罗之怒 Yaiba: Ninja Gaiden Z](http://game.ali213.net/thread-4477678-1-1.html)
+ - [波斯王子 系列，最新为(波斯王子5：遗忘之沙)](http://www.ali213.net/zhuanti/Prince/)
+ - [古墓丽影9亚洲中英文硬盘版XEX版](http://game.ali213.net/thread-4609818-1-1.html)
+ - [DMC：鬼泣-中文](http://game.ali213.net/thread-4519513-1-1.html)
+ - [鬼泣4 英文版](http://game.ali213.net/thread-4497601-1-1.html)
+ - [鬼泣：HD合集 Devil May Cry：HD Collection](http://game.ali213.net/thread-4497601-1-1.html)
+
+
 ## xbox360 临时资料区
  
 游戏名称：乐高：霍比特人
