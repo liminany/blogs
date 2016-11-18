@@ -60,6 +60,13 @@
   * [Tools](life/tools.md)
   * [Other](life/other.md)
 
+[Games]()
+
+  * # ABCEDFG
+  * [手柄 游戏](games/controller-games.md)
+  * [xbox360 主机游戏](games/xbox360.md)
+  * [游戏周边](games/other.md)
+
 [Fresh](pages/fresh.md)
 [Questions](pages/qa.md)
 [Temp](pages/temp.md)
