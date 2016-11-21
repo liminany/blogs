@@ -55,12 +55,21 @@
         15、信赖铃音（支持3人）
         16、斯派罗传说:龙之黎明
    - 推荐游戏：[ Xbox 360双人多人游戏推荐：十款上乘合作通关游戏推荐](http://www.xbox3600.com/thread-5464-1-1.html)
+   - 正在下载或已下载的
+     - [[疯狂大乱斗2|中文GOD](http://game.ali213.net/thread-5032330-1-1.html)
+     - [[XBLA][特技摩托进化包含2DLC(骑士的末日)(痛苦根源)整合版 中文][Trials.Evolution.2DLC](http://game.ali213.net/thread-4472100-1-1.html)
+ 
+
+
  - 动作、类似战神风格的：阿修罗之怒、御姐武戏、柯南，维京战神，贝奥武甫，NG2，NGB，DMC4，DEAD RISING，NINJA BLADE,神谷的魔女，生化尖兵 conan，金钢狼，脱狱潜龙，凯蜜欧传说 力量元素 中文版
 	三大和魔女和MGS后传，还有很多不怎么知名的ACT比如阿修罗之怒、恶魔城暗影之王系列、暗黑血统系列、但丁地狱
  - 初代游戏（需装模拟器）：忍龙初代，忍龙黑之章，坏松鼠重制版（这个不错），光环，恐龙危机3（应该是3吧，在太空打恐龙），鬼武者幻魔，零红蝶，天诛3，极品飞车地下狂飙，御伽百鬼讨伐（这个也不错），神鬼寓言，翡翠帝国
  - 赛车游戏（双人）
+    - 双人：极限竞速3和4、尘埃系列、火爆狂飙系列、哥谭赛车计划系列、F1系列、争分夺秒、山脊赛车6、世嘉拉力：进化、云斯顿赛车系列、超级房车赛2：起点、狂飙：旧金山、全能赛车、怪物卡车：毁灭之路、究极大越野：狂飙、世界摩托大奖赛系列
+      四人：世界汽车拉力锦标赛4和5、疾驰残影、横冲直撞：终极杀戮、下加越野、撞击时间5：卧底、合金车模、特技人：引爆、F1赛车明星、汽车总动员2、梦工厂全明星卡丁车、马达加斯加卡丁车、萨尔瓦多卡丁车、索尼克与世嘉全明星赛车、吉米·约翰逊：啥都能开、碰碰赛车、废金属赛车、火焰爆发、极速玩具车、事故：再次复仇、极速玩具车、乔伊冒险2：大电影、特技摩托：聚变、特技摩托：进化
     - [梦工厂全明星卡丁车硬盘版GOD格式 1.2GB DreamWorks Super Star Kartz EN](http://game.ali213.net/thread-4472413-1-1.html)	
     - [萨尔瓦多卡丁车|El Chavo Kart|硬盘版GOD|475807D7|EN](http://game.ali213.net/thread-5416196-1-1.html)
+    - [火爆狂飙：复仇 /横冲直撞：复仇之道 3dm 中文](http://dl.3dmgame.com/201502/55625.html)
 ## xbox360 个人喜欢的游戏资源
  - [野蛮人柯南/战神之王硬](http://game.ali213.net/thread-4517153-1-1.html)
 	 - 未下载-无中文版
@@ -76,6 +85,7 @@
  - [翡翠帝国 中文 GOD版-已经下 ](http://www.xbox3600.com/forum.php?mod=viewthread&tid=3663&extra=page%3D1%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
  - [吃豆人-双人-未下载](http://game.ali213.net/thread-5291620-1-1.html)
  - [恶魔城：暗影之王-宿命镜面　高清版-已经下](http://game.ali213.net/thread-5417792-1-1.html)
+ - [恶魔城：暗影之王](http://game.ali213.net/thread-5160712-1-1.html)
  - [剑勇传奇：忍者龙剑传Z Yaiba: Ninja Gaiden Z](http://game.ali213.net/thread-5417290-1-1.html)
  - [阿修罗之怒 Yaiba: Ninja Gaiden Z](http://game.ali213.net/thread-4477678-1-1.html)
  - [波斯王子 系列，最新为(波斯王子5：遗忘之沙)](http://www.ali213.net/zhuanti/Prince/)
