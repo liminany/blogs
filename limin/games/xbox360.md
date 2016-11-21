@@ -14,7 +14,8 @@
  - [360汉化游戏](http://www.yxdown.com/zt/Xbox360/)
  - [那些XBLA的好游戏推荐](http://tieba.baidu.com/p/3174478602?share=9105&fr=share)
 	
- - [中文游戏列表](http://www.xbox3600.com/forum.php?mod=forumdisplay&fid=43&filter=sortid&sortid=1&searchsort=1&game_type=5&game_area_version=4&game_language=all&page=1)
+ - [xbox3600 中文游戏列表](http://www.xbox3600.com/forum.php?mod=forumdisplay&fid=43&filter=sortid&sortid=1&searchsort=1&game_type=5&game_area_version=4&game_language=all&page=1)
+ - [xbox3600 Xbox360 202个全中文游戏汇总全集资源分享下载](http://www.xbox3600.com/forum.php?mod=viewthread&tid=2686)
 	
  - [直接用外置硬盘玩游戏安装教程：链接:](http://pan.baidu.com/s/1gdJ9qM3) 密码:qs6a
  - [近期新游戏：链接: ](http://pan.baidu.com/s/1kT8d3Yv) 密码: rp3r
@@ -31,9 +32,35 @@
 随身玩伴：学校生活 魔法数独 给脑快感 2 轻松体验 模拟人生2 比波猴学院：捉猴大全集 比波猴战记 电车GO!东海道篇 我的暑假：昆虫博士与天边山的秘密
  疯狂小旅鼠 尼奥宠物：宠物大冒险 如意魔杖 薄暮传说 偶像大师 索尼克 生或死极限沙滩排球2 蓝龙 美国漫画英雄：终极联盟2 藍精靈 13、小龙斯派罗：龙之黎明 古惑狼8：邪恶意志 飞屋环游记
 劳拉和守护者 城堡破坏者 性感沙滩，搏击玫瑰， 死或生
+ - 多人游戏，准备下载的
+   - 乐高系列找一款，Marvel 终极联盟2,圣域2
+   - 雷曼系列，如起源
+   - 其他横版动作类，如城堡毁灭者
+   - 塞车类的
+   - 其他，战争机器3分屏、光环:致远星中文国语配音，上下分屏合作FPS
+        1、神鬼寓言2（中文）
+        2、圣域2 
+        3、怒首领蜂大往生
+        4、雷电4
+        5、雷电合集
+        6、式神之城
+        7、死亡微笑
+        8、飞屋历险记
+        9、宝贝万岁（中文）
+        10、小龙斯派洛
+        11、古惑狼 泰坦
+        12、乐高蝙蝠侠
+        13、乐高印第安纳琼斯
+        14、疯狂大乱斗（中文）（这个支持4人）
+        15、信赖铃音（支持3人）
+        16、斯派罗传说:龙之黎明
+   - 推荐游戏：[ Xbox 360双人多人游戏推荐：十款上乘合作通关游戏推荐](http://www.xbox3600.com/thread-5464-1-1.html)
  - 动作、类似战神风格的：阿修罗之怒、御姐武戏、柯南，维京战神，贝奥武甫，NG2，NGB，DMC4，DEAD RISING，NINJA BLADE,神谷的魔女，生化尖兵 conan，金钢狼，脱狱潜龙，凯蜜欧传说 力量元素 中文版
 	三大和魔女和MGS后传，还有很多不怎么知名的ACT比如阿修罗之怒、恶魔城暗影之王系列、暗黑血统系列、但丁地狱
-	
+ - 初代游戏（需装模拟器）：忍龙初代，忍龙黑之章，坏松鼠重制版（这个不错），光环，恐龙危机3（应该是3吧，在太空打恐龙），鬼武者幻魔，零红蝶，天诛3，极品飞车地下狂飙，御伽百鬼讨伐（这个也不错），神鬼寓言，翡翠帝国
+ - 赛车游戏（双人）
+    - [梦工厂全明星卡丁车硬盘版GOD格式 1.2GB DreamWorks Super Star Kartz EN](http://game.ali213.net/thread-4472413-1-1.html)	
+    - [萨尔瓦多卡丁车|El Chavo Kart|硬盘版GOD|475807D7|EN](http://game.ali213.net/thread-5416196-1-1.html)
 ## xbox360 个人喜欢的游戏资源
  - [野蛮人柯南/战神之王硬](http://game.ali213.net/thread-4517153-1-1.html)
 	 - 未下载-无中文版
