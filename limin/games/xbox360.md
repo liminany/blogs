@@ -70,6 +70,10 @@
     - [梦工厂全明星卡丁车硬盘版GOD格式 1.2GB DreamWorks Super Star Kartz EN](http://game.ali213.net/thread-4472413-1-1.html)	
     - [萨尔瓦多卡丁车|El Chavo Kart|硬盘版GOD|475807D7|EN](http://game.ali213.net/thread-5416196-1-1.html)
     - [火爆狂飙：复仇 /横冲直撞：复仇之道 3dm 中文](http://dl.3dmgame.com/201502/55625.html)
+	- 奇异人生
+	- [少年正义联盟：遗产（Young Justice: Legacy](http://bbs.3dmgame.com/thread-4134633-1-1.html)
+	- [缉毒煞星（Narco Terror](http://bbs.3dmgame.com/thread-3891963-1-1.html)
+	- 僵尸必须死
 ## xbox360 个人喜欢的游戏资源
  - [野蛮人柯南/战神之王硬](http://game.ali213.net/thread-4517153-1-1.html)
 	 - 未下载-无中文版
@@ -93,8 +97,11 @@
  - [DMC：鬼泣-中文](http://game.ali213.net/thread-4519513-1-1.html)
  - [鬼泣4 英文版](http://game.ali213.net/thread-4497601-1-1.html)
  - [鬼泣：HD合集 Devil May Cry：HD Collection](http://game.ali213.net/thread-4497601-1-1.html)
-
-
+ - [忍者外传 3 利刃边缘NINJA GAIDEN 3 Razor‘s Edge,原3代的加强版 cn](http://games.tgbus.com/43404/)
+ - [Q版本游戏全集](http://www.xbox3600.com/forum.php?mod=viewthread&tid=3178&extra=page%3D5%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
+ - [拳皇13](http://www.xbox3600.com/forum.php?mod=viewthread&tid=250&extra=page%3D4%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
+ - [凯蜜欧传说：力量元素 繁体中文GOD版](http://dl.3dmgame.com/201507/61015.html)
+ - [乐高霍比特人 全区GOD版 cn](http://dl.3dmgame.com/201404/44975.html)
 ## xbox360 临时资料区
  
 游戏名称：乐高：霍比特人
