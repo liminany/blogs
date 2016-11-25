@@ -1,7 +1,9 @@
 # xbox360 主机的一切，包括入门、破解、自制系统、个人喜欢的游戏资源
 
 ## 关于xbox360主机资料，自制系统、相关配套软件的基础知识
- - []()
+ - [玩游戏计划]
+ - [动作->TPS->动作—>FPS->动作->合作->动作，古墓两人时玩]
+ - [猎天使魔女-战争机器3-恶魔城2-光环-忍龙3-FPS-鬼泣-act-act-act-FPS]
 ## xbox360 常用资源汇总
  - [XBOX360 游侠网所有XBOX360下载索引(16年01月29更新) 3635款游戏](http://game.ali213.net/thread-4870118-1-1.html)
 
@@ -55,6 +57,9 @@
         15、信赖铃音（支持3人）
         16、斯派罗传说:龙之黎明
    - 推荐游戏：[ Xbox 360双人多人游戏推荐：十款上乘合作通关游戏推荐](http://www.xbox3600.com/thread-5464-1-1.html)
+   - 数码宝贝全明星大乱斗 
+   - [极度混乱](http://dl.3dmgame.com/201507/61495.html)
+   
    - 正在下载或已下载的
      - [[疯狂大乱斗2|中文GOD](http://game.ali213.net/thread-5032330-1-1.html)
      - [[XBLA][特技摩托进化包含2DLC(骑士的末日)(痛苦根源)整合版 中文][Trials.Evolution.2DLC](http://game.ali213.net/thread-4472100-1-1.html)
@@ -74,6 +79,7 @@
 	- [少年正义联盟：遗产（Young Justice: Legacy](http://bbs.3dmgame.com/thread-4134633-1-1.html)
 	- [缉毒煞星（Narco Terror](http://bbs.3dmgame.com/thread-3891963-1-1.html)
 	- 僵尸必须死
+	- 中文语音游戏：光环、多重阴影、士官长、鬼屋魔影、神鬼寓言：旅途、暗影帝国
 ## xbox360 个人喜欢的游戏资源
  - [野蛮人柯南/战神之王硬](http://game.ali213.net/thread-4517153-1-1.html)
 	 - 未下载-无中文版
@@ -91,7 +97,7 @@
  - [恶魔城：暗影之王-宿命镜面　高清版-已经下](http://game.ali213.net/thread-5417792-1-1.html)
  - [恶魔城：暗影之王](http://game.ali213.net/thread-5160712-1-1.html)
  - [剑勇传奇：忍者龙剑传Z Yaiba: Ninja Gaiden Z](http://game.ali213.net/thread-5417290-1-1.html)
- - [阿修罗之怒 Yaiba: Ninja Gaiden Z](http://game.ali213.net/thread-4477678-1-1.html)
+ - [阿修罗之怒 ](http://game.ali213.net/thread-4477678-1-1.html)
  - [波斯王子 系列，最新为(波斯王子5：遗忘之沙)](http://www.ali213.net/zhuanti/Prince/)
  - [古墓丽影9亚洲中英文硬盘版XEX版](http://game.ali213.net/thread-4609818-1-1.html)
  - [DMC：鬼泣-中文](http://game.ali213.net/thread-4519513-1-1.html)
@@ -102,6 +108,11 @@
  - [拳皇13](http://www.xbox3600.com/forum.php?mod=viewthread&tid=250&extra=page%3D4%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
  - [凯蜜欧传说：力量元素 繁体中文GOD版](http://dl.3dmgame.com/201507/61015.html)
  - [乐高霍比特人 全区GOD版 cn](http://dl.3dmgame.com/201404/44975.html)
+ - [143.【冲!冲!霹雳舞团】Go! Go! Break Steady 9楼 音乐 中文 双人](http://game.ali213.net/forum.php?mod=viewthread&tid=5967327&page=1&authorid=442715)
+ - [138.【爆炸人 & 爆炸小J】Splosion man & Ms.Splosion man 双人 中文 趣味](http://game.ali213.net/thread-4631294-1-1.html)
+ - [88.【突击英雄 & 突击英雄2】Assault Heroes 1 & Assault Heroes 2]
+ - [灵弹魔女 偏射击类]()
+ - [真名法典2]()
 ## xbox360 临时资料区
  
 游戏名称：乐高：霍比特人
