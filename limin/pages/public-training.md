@@ -10,6 +10,8 @@
 - [百格活动](http://www.bagevent.com/)  一站式活动管理/会议管理平台_会议发布_会议报名_会议...
 - [会鸽](http://www.eventdove.com/events?a=%E5%B9%BF%E5%B7%9E&c=0&t=0&s=2&k=)  ..最专业的活动管理、会议管理、活动推广、会议...
 
+## [2016微软技术大会 11-30到12-2日](https://www.microsoft.com/china/ignite/2016/)........... [议程安排](http://www.msignitechina.com/SpeakerSession/Index)
+
 ## [2016-11-26 广东第三届互联网大会，以下为个人参与的相关主题](http://www.iimedia.cn/meetingSpecial/49.html)(http://www.gdicchina.cn/index.jsp#ltsz)
 
 ### [2016全球移动互联网CEO峰会](http://www.gdicchina.cn/yc7.jsp)
