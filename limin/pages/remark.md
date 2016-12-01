@@ -14,6 +14,9 @@
     Who：问题的提出者
     What：为了达成Why，所需要完成的业务活动或任务，方便理解如果涉及到线下操作，也可以补全
 
+## 技术资料
+ - [大众点评订单系统分库分表实践](http://tech.meituan.com/dianping_order_db_sharding.html)	
+
 ## 看板讨论
 
 ### 看板介绍

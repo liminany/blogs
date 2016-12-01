@@ -39,8 +39,10 @@
 [Agile-Learn]()
 
   * # Acp Training
-  * [Public Training notes](pages/public-training.md)
-  * [Aura Training notes](pages/aura-acp-training.md)
+  * [Public Training notes](training/public-training.md)
+  * [KanBan&Leangoo Training](training/KanBan&Leangoo.md) 
+  * [每日分享草稿](training/EverydayShare.2016-09.md) 
+  * [Aura Training notes](training/aura-acp-training.md)
   * [PMI ACP Ebook](pages/acp-ebook.md)
   - - - -
   * # My Agile Practices 
