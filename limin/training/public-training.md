@@ -10,11 +10,11 @@
 - [百格活动](http://www.bagevent.com/)  一站式活动管理/会议管理平台_会议发布_会议报名_会议...
 - [会鸽](http://www.eventdove.com/events?a=%E5%B9%BF%E5%B7%9E&c=0&t=0&s=2&k=)  ..最专业的活动管理、会议管理、活动推广、会议...
 
-## [2016-12-1 个人向公司团队内部一次分享：KanBan&Leangoo](limin/#!pages/KanBan&Leangoo.md)
+## [2016-12-1 个人向公司团队内部一次分享：KanBan&Leangoo](#!pages/KanBan&Leangoo.md)
      
-#####[KanBan&Leangoo PDF 版本](limin/#!pages/KanBan&Leangoo.pdf)
+#####[KanBan&Leangoo PDF 版本](#!pages/KanBan&Leangoo.pdf)
 
-## [团队内部个人分享.2016-09](limin/#!pages/KanBan&Leangoo/EverydayShare.2016-09.md)
+## [团队内部个人分享.2016-09](#!pages/KanBan&Leangoo/EverydayShare.2016-09.md)
 
 ## [2016微软技术大会 11-30到12-2日](https://www.microsoft.com/china/ignite/2016/)........... [议程安排](http://www.msignitechina.com/SpeakerSession/Index)
 
