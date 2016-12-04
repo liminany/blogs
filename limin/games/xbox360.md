@@ -123,7 +123,8 @@
  - [光环其他：《光环战争-战略（2009，8.7分），二代2017出》《光环：斯巴达突袭，上帝视角-Steam、IOS、WP、360，2013，情节在三代与四代之间》《光环：斯巴达进攻 上帝视角-Steam、IOS 2014.11，情节在二代之上》]
  - [光环系列资料](http://games.qq.com/a/20151026/030217.htm)(http://www.halobk.com/index.php/%E5%88%86%E7%B1%BB:%E4%BD%9C%E5%93%81)
  - [降世神通](http://dl.3dmgame.com/zlist-15-0-0-0-0-0-0-0-0-221-%E9%99%8D%E4%B8%96%E7%A5%9E%E9%80%9A-0-0-0-0-0)
- 
+ - [炽炎帝国：末日之环 繁体中文GOD版 arpg](http://dl.3dmgame.com/201502/55509.html)
+ - [二进制领域 简体中文GOD版 FPS ](http://dl.3dmgame.com/201505/59141.html)
  ## xbox360 临时资料区 
 
 

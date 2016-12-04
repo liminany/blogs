@@ -11,30 +11,39 @@
 - [会鸽](http://www.eventdove.com/events?a=%E5%B9%BF%E5%B7%9E&c=0&t=0&s=2&k=)  ..最专业的活动管理、会议管理、活动推广、会议...
 
 ## [2016-12-1 个人向公司团队内部一次分享：KanBan&Leangoo](#!pages/KanBan&Leangoo.md)
-     
-#####[KanBan&Leangoo PDF 版本](#!pages/KanBan&Leangoo.pdf)
-
+  - 分享内容：
+    - 看板的简单介绍
+    - 我们为什么要用看板，我们的目标是什么？
+    - 看板系统详细介绍【PPT P56】
+    - 我们要怎么样使用看板？
+    - Leangoo个人使用心得分享
+  - [KanBan&Leangoo PDF 版本](https://github.com/liminany/blogs/blob/gh-pages/limin/training/KanBan%26Leangoo.pdf)
+ 
 ## [团队内部个人分享.2016-09](#!pages/KanBan&Leangoo/EverydayShare.2016-09.md)
 
-## [2016微软技术大会 11-30到12-2日](https://www.microsoft.com/china/ignite/2016/)........... [议程安排](http://www.msignitechina.com/SpeakerSession/Index)
+## [2016微软技术大会 11-30到12-2日](https://www.microsoft.com/china/ignite/2016/)
+  - [议程安排](http://www.msignitechina.com/SpeakerSession/Index)
 
-## [2016-11-26 广东第三届互联网大会，以下为个人参与的相关主题](http://www.iimedia.cn/meetingSpecial/49.html)(http://www.gdicchina.cn/index.jsp#ltsz)
-
-### [2016全球移动互联网CEO峰会](http://www.gdicchina.cn/yc7.jsp)
- - 主题：2017中国移动互联网发展及投资趋势 嘉宾：艾媒咨询集团创始人兼CEO   张毅
-   - 互联网+  ->  + 互联网，分享经济
- - 主题：年轻人的创业新机会 嘉宾：创新谷创始人CEO  朱波
- - 主题：泛娱乐行业新风口 嘉宾：酷狗音乐副总裁  赵海舟
- - 主题：新产业新趋势环境下的企业服务 嘉宾：Testin云测联合创始人  王军
- - 圆桌论坛主题：创新引领未来
- - 总结：
-   - 做为创业公司CEO三个基础条件：领导力、正直、分享精神
-   - 必备竞争力：对行业本质的深刻理解、具备产品思维(是一名合格的产品经理)、团队建设能力
-   - 团队组成：一个靠谱的产品经理带几个不谱的产品或技术。**不靠谱的含义**：注重战略、方向，即能审时夺势，能根据市场的变化调整方向，变得太快，给人感觉不靠谱.
-     **靠谱的含义**:能深入细节，对产品较有把控力和执行力
-   - 总的来说，一个CEO要学会在深海中探索，在红海中努力成为领导者，在红海中努力成为强有力的执行者，在死活中做一个有力的决断者。要清楚自己在做什么，要做成这件事缺什么，但去学什么	 
-### [2016中国泛VR/AR行业发展峰会](http://www.gdicchina.cn/yc11.jsp)
- - 主题：VR新浪潮：VR产业的机遇与挑战
+## [2016-11-26 广东第三届互联网大会，以下为个人参与的相关主题](http://www.iimedia.cn/meetingSpecial/49.html) 
+  - [活动介绍](http://www.gdicchina.cn/index.jsp#ltsz)
+  - [活动所有讲义 百度盘](http://pan.baidu.com/s/1mh7tCgC#list/path=%2F%E5%B9%BF%E4%B8%9C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E5%98%89%E5%AE%BEPPT)
+    
+    #### [2016全球移动互联网CEO峰会](http://www.gdicchina.cn/yc7.jsp)
+     - 主题：2017中国移动互联网发展及投资趋势 嘉宾：艾媒咨询集团创始人兼CEO   张毅
+       - 互联网+  ->  + 互联网，分享经济
+     - 主题：年轻人的创业新机会 嘉宾：创新谷创始人CEO  朱波
+     - 主题：泛娱乐行业新风口 嘉宾：酷狗音乐副总裁  赵海舟
+     - 主题：新产业新趋势环境下的企业服务 嘉宾：Testin云测联合创始人  王军
+     - 圆桌论坛主题：创新引领未来
+     - 总结：
+       - 做为创业公司CEO三个基础条件：领导力、正直、分享精神
+       - 必备竞争力：对行业本质的深刻理解、具备产品思维(是一名合格的产品经理)、团队建设能力
+       - 团队组成：一个靠谱的产品经理带几个不谱的产品或技术。**不靠谱的含义**：注重战略、方向，即能审时夺势，能根据市场的变化调整方向，变得太快，给人感觉不靠谱.
+         **靠谱的含义**:能深入细节，对产品较有把控力和执行力
+       - 总的来说，一个CEO要学会在深海中探索，在红海中努力成为领导者，在红海中努力成为强有力的执行者，在死活中做一个有力的决断者。要清楚自己在做什么，要做成这件事缺什么，但去学什么	 
+     
+    #### [2016中国泛VR/AR行业发展峰会](http://www.gdicchina.cn/yc11.jsp)
+     - 主题：VR新浪潮：VR产业的机遇与挑战
  
 ## [构建高效DevOps团队](http://devopshub.cn/2016/09/18/event-201609-build-devops-team-vsalm/)
 
