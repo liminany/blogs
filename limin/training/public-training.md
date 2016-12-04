@@ -10,7 +10,7 @@
 - [百格活动](http://www.bagevent.com/)  一站式活动管理/会议管理平台_会议发布_会议报名_会议...
 - [会鸽](http://www.eventdove.com/events?a=%E5%B9%BF%E5%B7%9E&c=0&t=0&s=2&k=)  ..最专业的活动管理、会议管理、活动推广、会议...
 
-## [2016-12-1 个人向公司团队内部一次分享：KanBan&Leangoo](#!training/KanBan&Leangoo.md)
+## 2016-12-1 个人向公司团队内部一次分享：[KanBan&Leangoo](#!training/KanBan&Leangoo.md)
   - 分享内容：
     - 看板的简单介绍
     - 我们为什么要用看板，我们的目标是什么？
@@ -19,12 +19,12 @@
     - Leangoo个人使用心得分享
   - [KanBan&Leangoo PDF 版本](https://github.com/liminany/blogs/blob/gh-pages/limin/training/KanBan%26Leangoo.pdf)
  
-## [团队内部个人分享.2016-09](#!pages/KanBan&Leangoo/EverydayShare.2016-09.md)
+## 团队内部个人分享.[2016-09 从问题出发](#!pages/KanBan&Leangoo/EverydayShare.2016-09.md)
 
-## [2016微软技术大会 11-30到12-2日](https://www.microsoft.com/china/ignite/2016/)
+## 2016微软技术大会 [大会官网，11-30到12-2日](https://www.microsoft.com/china/ignite/2016/)
   - [议程安排](http://www.msignitechina.com/SpeakerSession/Index)
 
-## [2016-11-26 广东第三届互联网大会，以下为个人参与的相关主题](http://www.iimedia.cn/meetingSpecial/49.html) 
+## 2016-11-26 广东第三届互联网大会，[以下为个人参与的相关主题](http://www.iimedia.cn/meetingSpecial/49.html) 
   - [活动介绍](http://www.gdicchina.cn/index.jsp#ltsz)
   - [活动所有讲义 百度盘](http://pan.baidu.com/s/1mh7tCgC#list/path=%2F%E5%B9%BF%E4%B8%9C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E5%98%89%E5%AE%BEPPT)
     
@@ -45,7 +45,7 @@
     #### [2016中国泛VR/AR行业发展峰会](http://www.gdicchina.cn/yc11.jsp)
      - 主题：VR新浪潮：VR产业的机遇与挑战
  
-## [构建高效DevOps团队](http://devopshub.cn/2016/09/18/event-201609-build-devops-team-vsalm/)
+## 构建高效DevOps团队：[活动介绍](http://devopshub.cn/2016/09/18/event-201609-build-devops-team-vsalm/)
 
 
 ### 培训介绍
@@ -62,7 +62,7 @@
  - [用户故事地图”在TFS平台上的应用](http://mp.weixin.qq.com/s?__biz=MzA5NzU3Njc5Mw==&mid=2651200906&idx=1&sn=15416d467a734c708c306b5723ec643c&chksm=8b6c0fbcbc1b86aa1fc4089c96ae1add0f26065ca3911f8e0b90dee9451b9ca2563119507c48&scene=0#wechat_redirect)
  - [DevOps的前世今生： 不仅仅包括开发测试运维，还包括组织文化及敏捷精益](http://mp.weixin.qq.com/s?__biz=MzA5NzU3Njc5Mw==&mid=2651200907&idx=1&sn=862b2c1b0ca650361efd2a46add9b03a&chksm=8b6c0fbdbc1b86abb1d89bb2954484232fd0f8fbde7afd3b0b04490c813f920401ee7ef8cf11&scene=0#wechat_redirect)
  
-## [Gdevops全球敏捷运维峰会 2016-09-23](http://www.huodongxing.com/event/reg_submit?id=3341232107200)
+## Gdevops全球敏捷运维峰会 2016-09-23: [活动介绍](http://www.huodongxing.com/event/reg_submit?id=3341232107200)
 ### 会议介绍
 打造敏捷与运维领域标杆峰会！
 2016年全球敏捷运维峰会（Gdevops, Global Devops Summit）将于2016年在杭州、北京、广州、上海四城全面启动，本次峰会由上海市经济和信息化委员会指导，上海市云计算产业促进中心、DBA+社群主办，杭州市计算机学会、三墩IT人、新炬网络、功虎社区联合承办，数十家媒体单位共同支持。
@@ -71,7 +71,7 @@
 - [活动官网](http://gdevops.com/guangzhou-15.html)
 - [活动回顾1 附PPT](http://dbaplus.cn/news-21-686-1.html)   ..... [活动回顾2](http://www.vphotos.cn/gallery/index.html?vphotowechatid=895F77AADBC266965A5B4D14335599E1&from=timeline&isappinstalled=0)
 
-## [UPYUN Open Talk](https://opentalk.upyun.com/show/issues), 好像是又拍云组织的技术沙龙，以下是个人比较喜欢的几期
+## UPYUN Open Talk：[又拍云 技术沙龙介绍](https://opentalk.upyun.com/show/issues), 好像是又拍云组织的技术沙龙，以下是个人比较喜欢的几期
 **UPYUN Open Talk** 是由 UPYUN 发起的系列主题分享沙龙，秉承 UPYUN 帮助企业提升发展速度的初衷，UPYUN Open Talk 将用全干货的形态，为互联网从业人员呈现以技术为主，同时涵盖产品、营销、融资等各个方面的专业知识，帮助企业成员不断的提升自身专业技能，以推动企业更快的发展。
 
 ### NO.25 Docker UPYUN Open Talk NO.25 DevOps 与持续交付实践
