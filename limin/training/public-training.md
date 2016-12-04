@@ -10,7 +10,7 @@
 - [百格活动](http://www.bagevent.com/)  一站式活动管理/会议管理平台_会议发布_会议报名_会议...
 - [会鸽](http://www.eventdove.com/events?a=%E5%B9%BF%E5%B7%9E&c=0&t=0&s=2&k=)  ..最专业的活动管理、会议管理、活动推广、会议...
 
-## [2016-12-1 个人向公司团队内部一次分享：KanBan&Leangoo](#!pages/KanBan&Leangoo.md)
+## [2016-12-1 个人向公司团队内部一次分享：KanBan&Leangoo](#!training/KanBan&Leangoo.md)
   - 分享内容：
     - 看板的简单介绍
     - 我们为什么要用看板，我们的目标是什么？
