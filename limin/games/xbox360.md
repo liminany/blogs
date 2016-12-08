@@ -86,45 +86,46 @@
 	
 ## xbox360 个人喜欢的游戏资源
  - 中文语音游戏：光环、多重阴影、士官长、鬼屋魔影、神鬼寓言：旅途、暗影帝国
- - [野蛮人柯南/战神之王硬](http://game.ali213.net/thread-4517153-1-1.html)
- - [维京人：神域之战硬盘版GOD,534507E0](http://game.ali213.net/thread-4630289-1-1.html)	
+ - [野蛮人柯南/战神之王硬 已经下载](http://game.ali213.net/thread-4517153-1-1.html)
+ - [维京人：神域之战硬盘版GOD,534507E0 ](http://game.ali213.net/thread-4630289-1-1.html)	
  - [贝奥武夫硬盘版GOD格式,55530801，无中文](http://game.ali213.net/thread-4552152-1-1.html)	
  - [恶魔城：暗影之王2-已经下](http://game.ali213.net/thread-5415560-1-1.html)
  - [忍者之刃-已经下](http://www.xbox3600.com/forum.php?mod=viewthread&tid=212&extra=page%3D1%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
  - [忍者龙剑传2-已经下](http://www.xbox3600.com/forum.php?mod=viewthread&tid=203&extra=page%3D2%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
- - 蝙蝠侠系列：阿卡姆疯人院 为1代、阿甘之城为2代、阿甘起源3代，XBLA上有两作，分别是阿克汉姆 起源 黑门、高谭市冒名顶替（Gotham City Imposters，网络游戏）
+ - 蝙蝠侠系列：阿卡姆疯人院 为1代、阿甘之城为2代、阿甘起源3代（已经下），XBLA上有两作，分别是阿克汉姆 起源 黑门、高谭市冒名顶替（Gotham City Imposters，网络游戏）
  - [翡翠帝国 中文 GOD版-已经下 ](http://www.xbox3600.com/forum.php?mod=viewthread&tid=3663&extra=page%3D1%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
  - [吃豆人-双人-未下载](http://game.ali213.net/thread-5291620-1-1.html)
  - [恶魔城：暗影之王-宿命镜面　高清版-已经下](http://game.ali213.net/thread-5417792-1-1.html)
- - [恶魔城：暗影之王](http://game.ali213.net/thread-5160712-1-1.html)
- - [剑勇传奇：忍者龙剑传Z Yaiba: Ninja Gaiden Z](http://game.ali213.net/thread-5417290-1-1.html)
+ - [恶魔城：暗影之王 已经下](http://game.ali213.net/thread-5160712-1-1.html)
+ - [剑勇传奇：忍者龙剑传Z Yaiba: Ninja Gaiden Z 已经下](http://game.ali213.net/thread-5417290-1-1.html)
  - [阿修罗之怒 ](http://game.ali213.net/thread-4477678-1-1.html)
- - [波斯王子 系列，最新为(波斯王子5：遗忘之沙)](http://www.ali213.net/zhuanti/Prince/)
+ - [波斯王子 系列，最新为(波斯王子5：遗忘之沙) 已经下](http://www.ali213.net/zhuanti/Prince/)
  - [古墓丽影9亚洲中英文硬盘版XEX版](http://game.ali213.net/thread-4609818-1-1.html)
  - [DMC：鬼泣-中文](http://game.ali213.net/thread-4519513-1-1.html)
- - [鬼泣4 英文版](http://game.ali213.net/thread-4497601-1-1.html)
- - [鬼泣：HD合集 Devil May Cry：HD Collection](http://game.ali213.net/thread-4497601-1-1.html)
- - [忍者外传 3 利刃边缘NINJA GAIDEN 3 Razor‘s Edge,原3代的加强版 cn](http://games.tgbus.com/43404/)
- - [Q版本游戏全集](http://www.xbox3600.com/forum.php?mod=viewthread&tid=3178&extra=page%3D5%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
- - [拳皇13](http://www.xbox3600.com/forum.php?mod=viewthread&tid=250&extra=page%3D4%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
- - [凯蜜欧传说：力量元素 繁体中文GOD版](http://dl.3dmgame.com/201507/61015.html)
- - [乐高霍比特人 全区GOD版 cn](http://dl.3dmgame.com/201404/44975.html)
+ - [鬼泣4 英文版 已下](http://game.ali213.net/thread-4497601-1-1.html)
+ - [鬼泣：HD合集 Devil May Cry：HD Collection 已经下](http://game.ali213.net/thread-4497601-1-1.html)
+ - [忍者外传 3 利刃边缘NINJA GAIDEN 3 Razor‘s Edge,原3代的加强版 cn已经下](http://games.tgbus.com/43404/)
+ - [Q版本游戏全集-已经下但删除 是IOS](http://www.xbox3600.com/forum.php?mod=viewthread&tid=3178&extra=page%3D5%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
+ - [拳皇13 已经下](http://www.xbox3600.com/forum.php?mod=viewthread&tid=250&extra=page%3D4%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
+ - [凯蜜欧传说：力量元素 繁体中文GOD版 已经下](http://dl.3dmgame.com/201507/61015.html)
+ - [乐高霍比特人 全区GOD版 cn 已经下](http://dl.3dmgame.com/201404/44975.html)
  - [143.【冲!冲!霹雳舞团】Go! Go! Break Steady 9楼 音乐 中文 双人](http://game.ali213.net/forum.php?mod=viewthread&tid=5967327&page=1&authorid=442715)
  - [138.【爆炸人 & 爆炸小J】Splosion man & Ms.Splosion man 双人 中文 趣味](http://game.ali213.net/thread-4631294-1-1.html)
  - [88.【突击英雄 & 突击英雄2】Assault Heroes 1 & Assault Heroes 2]
  - [灵弹魔女 偏射击类]()
  - [真名法典2]()
- - [光环1：战争进化（2001.11） 光环-战斗进化-高清周年纪念版（2011/11/，8.7分） 光环致远星（2010-09-14，9.2分）](http://game.ali213.net/thread-4412161-1-1.html)
+ - [光环1：战争进化（2001.11 已经下） 光环-战斗进化-高清周年纪念版（2011/11/，8.7分） 光环致远星（2010-09-14，9.2分）](http://game.ali213.net/thread-4412161-1-1.html)
  - [光环2(2004年11月09日,评分？)]
  - [光环3,2007-09-25 评分9.0， 光环3 天降神兵 2009/09/22 9.1分]
- - [光环4,2012-11-04,评分9.2](http://dl.3dmgame.com/201311/40825.html)
+ - [光环4,2012-11-04,评分9.2 已经下](http://dl.3dmgame.com/201311/40825.html)
  - [光环：士官长合集,包含前面四代作品，2014/11/11 评分8.7，one独占]
  - [光环5 ，2015/10/27 评分8.9，one独占]
  - [光环其他：《光环战争-战略（2009，8.7分），二代2017出》《光环：斯巴达突袭，上帝视角-Steam、IOS、WP、360，2013，情节在三代与四代之间》《光环：斯巴达进攻 上帝视角-Steam、IOS 2014.11，情节在二代之上》]
  - [光环系列资料](http://games.qq.com/a/20151026/030217.htm)(http://www.halobk.com/index.php/%E5%88%86%E7%B1%BB:%E4%BD%9C%E5%93%81)
  - [降世神通](http://dl.3dmgame.com/zlist-15-0-0-0-0-0-0-0-0-221-%E9%99%8D%E4%B8%96%E7%A5%9E%E9%80%9A-0-0-0-0-0)
- - [炽炎帝国：末日之环 繁体中文GOD版 arpg](http://dl.3dmgame.com/201502/55509.html)
+ - [炽炎帝国：末日之环 繁体中文GOD版 arpg 已经下](http://dl.3dmgame.com/201502/55509.html)
  - [二进制领域 简体中文GOD版 FPS ](http://dl.3dmgame.com/201505/59141.html)
+ - [尼尔：完全形态 GOD版 act 已经下](http://dl.3dmgame.com/201506/59714.html)
  ## xbox360 临时资料区 
 
 

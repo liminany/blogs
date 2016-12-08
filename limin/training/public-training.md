@@ -19,15 +19,21 @@
     - Leangoo个人使用心得分享
   - [KanBan&Leangoo PDF 版本](https://github.com/liminany/blogs/blob/gh-pages/limin/training/KanBan%26Leangoo.pdf)
  
-## 团队内部个人分享.[2016-09 从问题出发](#!pages/KanBan&Leangoo/EverydayShare.2016-09.md)
+## 团队内部个人分享.[2016-09 从问题出发](#!training/EverydayShare.2016-09.md)
 
 ## 2016微软技术大会 [大会官网，11-30到12-2日](https://www.microsoft.com/china/ignite/2016/)
   - [议程安排](http://www.msignitechina.com/SpeakerSession/Index)
+  - [Ignite2016 演示视频 – 容器化DevOps发布管道](https://mp.weixin.qq.com/s?__biz=MzA5NzU3Njc5Mw==&mid=2651200929&idx=1&sn=3616f169bb36901d9e61e5195a4454bd&chksm=8b6c0f97bc1b8681556541e5b01b750b0d4af099060ae7b9eb8c3410c719aa3d5d71ec5699b5&scene=0#rd)
+  - 相关资料：
+	- [演示代码] https://github.com/lean-soft/netcoredocker
+	- [如何在Azure上搭建容器化开发，测试和生产环境](http://docs.devopshub.cn/docs/azure-workshop/en/latest/
+	- [如何使用TFS进行端到端的软件研发团队管理](http://docs.devopshub.cn/docs/vsalm-hols/en/latest/
 
 ## 2016-11-26 广东第三届互联网大会，[以下为个人参与的相关主题](http://www.iimedia.cn/meetingSpecial/49.html) 
   - [活动介绍](http://www.gdicchina.cn/index.jsp#ltsz)
   - [活动所有讲义 百度盘](http://pan.baidu.com/s/1mh7tCgC#list/path=%2F%E5%B9%BF%E4%B8%9C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E5%98%89%E5%AE%BEPPT)
-    
+  - [大会所有视频 百度盘](http://pan.baidu.com/s/1o8m7ogi)  
+  
     #### [2016全球移动互联网CEO峰会](http://www.gdicchina.cn/yc7.jsp)
      - 主题：2017中国移动互联网发展及投资趋势 嘉宾：艾媒咨询集团创始人兼CEO   张毅
        - 互联网+  ->  + 互联网，分享经济
