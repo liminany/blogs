@@ -117,7 +117,7 @@
  - [DMC：鬼泣-中文](http://game.ali213.net/thread-4519513-1-1.html)
  - [鬼泣5 DMC:Devil May Cry3DM简体中文汉化GOD版-已经下](http://dl.3dmgame.com/201308/36614.html)
  - [《巫师2：国王刺客增强版》The Witcher 2 - Assassins of Kings - Enhanced Edition XBOX360 中英文ISO/GOD版 -已经下](http://bbs.3dmgame.com/thread-4151853-1-1.html)
- - [暗黑血统1 Darksiders 已经下-英文](http://www.xbox3600.com/forum.php?mod=viewthread&tid=939&extra=page%3D1%26filter%3Dsortid%26sortid%3D1%26searchoption%5B7%5D%5Bvalue%5D%3D%25E6%259A%2597%25E9%25BB%2591%25E8%25A1%2580%25E7%25BB%259F%26searchoption%5B7%5D%5Btype%5D%3D%26sortid%3D1) 
+ - [暗黑血统1 Darksiders 已经下-英文](http://game.ali213.net/thread-4507441-1-1.html) 
  - 蝙蝠侠系列：阿卡姆疯人院 为1代 无中文、阿甘之城为2代 有中文 已经下、阿甘起源3代（中文-已经下），XBLA上有两作，分别是阿克汉姆 起源 黑门、高谭市冒名顶替（Gotham City Imposters，网络游戏）
    - [阿卡姆疯人院GOD版 为1代 无中文-已经下](http://dl.3dmgame.com/201405/46257.html)
    - [阿甘之城为2代 有中文 挺多版本不知下哪个？](http://dl.3dmgame.com/201112/15906.html)
@@ -138,10 +138,15 @@
  - [暗黑之魂2：原罪哲人 Dark Souls 2 - Scholar of the First Sin 繁体中文GOD版-已下](http://dl.3dmgame.com/201504/57990.html)
  - [质量效应2/3 RPG Mass Effect 3 中文-二代已经下 ](http://dl.3dmgame.com/zlist-15-0-0-0-0-%E4%B8%AD%E6%96%87-0-0-0-221-%E8%B4%A8%E9%87%8F%E6%95%88%E5%BA%94-0-0-0-0-0)
  
- - [辐射、剌客信条、子弹风暴、使命召唤11、死亡空间、暗黑血统、黑暗之魂、霸王2、杀手已死、巫师]
+ - [辐射、剌客信条、子弹风暴、使命召唤11、死亡空间、暗黑血统、黑暗之魂、霸王2、杀手已死、巫师、1光环致远星、2使命召唤8、3使命召唤7、4孤岛危机2]
  - [带辅助瞄准的射击游戏: COD、战争机器、战地、叛逆连队2、荣誉勋章系列、古墓、马克思佩恩、恶灵附生最低难度、大表哥、黑手党、量子、质量2、荣誉、
     GTA4、使命召唤6不太准确、007血石、正当防卫2、幽灵行动、F.E.A.R.、失落的星球，    孤岛惊魂3，4.孤岛危机3，光环致远星有？]
-	
+ 
+ - [战地：硬仗 Battlefield Hardline 中文GOD ](http://game.ali213.net/thread-5653135-1-1.html)	
+ - [战地3|繁体中文高清版|GOD|45410950|6.6G|无断头台BUG|Battlefield 3](http://game.ali213.net/thread-5063825-1-1.html)
+ - [荣誉勋章：战士 繁体中文GOD版](http://dl.3dmgame.com/201505/59321.html)
+ - [辐射：新维加斯终极版|硬盘版GOD|425307E0| Fallout:New Vegas Ultimate Edition](http://game.ali213.net/thread-5175737-1-1.html)
+ 
  - [使命召唤系列介绍](http://codol.gamersky.com/zt/codseries/)	
  - [使命召唤11：高级战争 3DM轩辕汉化组GOD汉化版 - 已经下](http://dl.3dmgame.com/201411/51863.html)
  - [翡翠帝国 中文 GOD版-已经下 1代游戏需要模拟器](http://www.xbox3600.com/forum.php?mod=viewthread&tid=3663&extra=page%3D1%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
