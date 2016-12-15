@@ -85,9 +85,9 @@
     - 神鬼寓言2 Fable 2 Goty ARPG 中文
 	
 ## xbox360 个人喜欢的游戏资源
- - [但丁地狱 英文-已经下-已经通关]
- - [猎天使魔女1 中文-已经下 已经通关]
- - [战争机器3 中文-已经-已经通关]
+ - [但丁地狱 ACT 英文-已经下-已经通关](http://dl.3dmgame.com/201509/63348.html)
+ - [猎天使魔女1 ACT 中文-已经下 已经通关](http://dl.3dmgame.com/201311/40563.html)
+ - [战争机器3  TPS 中文-已经-已经通关]
  
  - 中文语音游戏：光环、多重阴影、士官长、鬼屋魔影、神鬼寓言：旅途、暗影帝国
  - [野蛮人柯南/战神之王硬  英文 已经下载](http://game.ali213.net/thread-4517153-1-1.html)
@@ -98,10 +98,11 @@
  - [恶魔城：暗影之王-宿命镜面　高清版-中文-已经下](http://game.ali213.net/thread-5417792-1-1.html)
  - [恶魔城：暗影之王 中文-已经下](http://game.ali213.net/thread-5160712-1-1.html)
  - [剑勇传奇：忍者龙剑传Z Yaiba: Ninja Gaiden Z 中文-已经下](http://game.ali213.net/thread-5417290-1-1.html)
-  
+ - [爱丽丝：疯狂回归 3DM简体中文汉化ISO版 已经下](http://dl.3dmgame.com/201311/40266.html)
  - [波斯王子 系列，最新为(波斯王子5：遗忘之沙) 中文-已经下](http://www.ali213.net/zhuanti/Prince/)
  - [古墓丽影9亚洲中英文硬盘版XEX版](http://game.ali213.net/thread-4609818-1-1.html)
-
+ - [风卷残云 Kung Fu Strike：The Warrior's Rise 中文 未解锁多人]()
+ 
  - [忍者外传 3 利刃边缘NINJA GAIDEN 3 Razor‘s Edge,原3代的加强版 中文-已经下](http://games.tgbus.com/43404/)
  - [Q版本游戏全集-已经下但删除 是IOS](http://www.xbox3600.com/forum.php?mod=viewthread&tid=3178&extra=page%3D5%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
  - [拳皇13 中文-已经下](http://www.xbox3600.com/forum.php?mod=viewthread&tid=250&extra=page%3D4%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
@@ -111,7 +112,7 @@
  - [二进制领域 简体中文GOD版 FPS 已经下](http://dl.3dmgame.com/201505/59141.html)
  - [尼尔：完全形态 GOD版 act 英文-已经下](http://dl.3dmgame.com/201506/59714.html)
  - [我的世界：故事模式 第1-5章 GOD版-中文-已经下](http://dl.3dmgame.com/201605/71049.html)
- 
+ - [火焰限界 轩辕汉化组GOD版 ARPG 已下](http://dl.3dmgame.com/201405/46655.html) 
  - [鬼泣4 英文版 已下](http://game.ali213.net/thread-4497601-1-1.html)
  - [鬼泣：HD合集 Devil May Cry：HD Collection 英文-已经下](http://game.ali213.net/thread-4497601-1-1.html)
  - [DMC：鬼泣-中文](http://game.ali213.net/thread-4519513-1-1.html)
@@ -121,7 +122,35 @@
  - 蝙蝠侠系列：阿卡姆疯人院 为1代 无中文、阿甘之城为2代 有中文 已经下、阿甘起源3代（中文-已经下），XBLA上有两作，分别是阿克汉姆 起源 黑门、高谭市冒名顶替（Gotham City Imposters，网络游戏）
    - [阿卡姆疯人院GOD版 为1代 无中文-已经下](http://dl.3dmgame.com/201405/46257.html)
    - [阿甘之城为2代 有中文 挺多版本不知下哪个？](http://dl.3dmgame.com/201112/15906.html)
-   
+   - [《蝙蝠侠：剧情版》中文版第一章|XBLA 已经下？](http://down.ali213.net/tvgame/batgsep1xbla.html)
+ - [火影忍者疾风传：究极忍者风暴革命 轩辕GOD汉化版 中文 已经下](http://dl.3dmgame.com/201409/50249.html)  
+ - [暗黑破坏神3：夺魂之镰 终极邪恶版 GOD版 中文 已经下](http://dl.3dmgame.com/201408/49443.html)
+ - [无间战神 繁体中文GOD版 已经下 右摇杆控制杀人不习惯操作模式差评](http://dl.3dmgame.com/201408/49816.html)
+  
+ - [忍者神龟：曼哈顿突变体 硬盘版GOD Teenage Mutant Ninja Turtles: Mutants in Manhattan 英文 ](http://game.ali213.net/thread-6054451-1-1.html)  
+ - [龙腾世纪：审判 Dragon Age: Inquisition 游侠LMAO汉化硬盘版GOD ](http://down.ali213.net/tvgame/daigod.html)
+ - [精灵高中：新食尸鬼学园 Monster High - New Ghoul in School 英文](http://game.ali213.net/forum.php?mod=viewthread&tid=5952629&extra=page%3D2%26filter%3Dtypeid%26typeid%3D2554%26typeid%3D2554)
+ - [《深渊奥德赛》游侠汉化GOD硬盘版 中文](http://down.ali213.net/tvgame/ABGODC.html)
+ - [植物大战僵尸：花园战争 内核汉化硬盘GOD 中文 单机不能玩?](http://down.ali213.net/tvgame/PVZGWGODC.html)
+ - [变形金刚：暗焰崛起（Transformers: Rise of the Dark Spark）塞伯坦之战》和《塞伯坦的陨落的续作， 中文](http://down.ali213.net/tvgame/TROTDSGODC.html)
+ - [《世界摩托大奖赛14》游戏汉化1.0 XEX版，GOD版运行黑屏？](http://down.ali213.net/tvgame/M14CXEX.html)
+ - [《重返德军总部：新秩序》简体中文GOD版](http://down.ali213.net/tvgame/WTNOCGOD.html#down_load)
+ - [《生化奇兵3：无限》游侠3.0汉化GOD版 中文](http://down.ali213.net/tvgame/BioshockInfiniteCHGOD.html)
+ - [《勿忘我》v3.0官方简体GOD版 中文](http://down.ali213.net/tvgame/RememberMeCHGOD.html)
+ - [孤岛危机1和2 60帧修正GOD版 Crysis 1 and 2 60FPS 英文](http://dl.3dmgame.com/201405/46365.html)
+	- [孤岛危机1 中文GOD版](http://dl.3dmgame.com/201405/46368.html)
+	- [孤岛危机2 中文GOD版](http://dl.3dmgame.com/201405/46366.html)
+    - [《孤岛危机3》亚版GOD版 中文](http://down.ali213.net/tvgame/Crysis3CHGOD.html)
+ - [龙之信条：黑暗崛起 中文GOD版 ARPG ](http://dl.3dmgame.com/201312/41347.html)
+ - [《马克思佩恩3》中文GOD版](http://down.ali213.net/tvgame/MaxPayne3CHGOD.html)
+ - [除暴战警 繁体中文GOD版 已经下 ](http://dl.3dmgame.com/201509/63491.html)
+  
+ - [极品飞车18：宿敌 亚版 Need for Speed: Rivals 中文](http://dl.3dmgame.com/201405/46534.html)
+ - [萨尔瓦多卡丁车 全区GOD版 英文-已经下](http://dl.3dmgame.com/201403/44163.html)
+ - [梦工厂全明星卡丁车 Dreamworks.Super.Star.Kartz 英文 已经下](http://dl.3dmgame.com/201404/44986.html)
+ - [索尼克与世嘉全明星赛车 Sonic & Sega All-Stars Racing GOD版 英文 已经下](http://dl.3dmgame.com/201409/50497.html)
+ - [疯狂大乱斗2 Fuzion Frenzy 2 中文GOD版 各种小游戏 个人不喜欢玩](http://dl.3dmgame.com/201401/42036.html)
+ 
  - [光环1：战争进化（2001.11 中文语音-已经下） 光环-战斗进化-高清周年纪念版（2011/11/，8.7分） 光环致远星（2010-09-14，9.2分）](http://game.ali213.net/thread-4412161-1-1.html)
  - [光环2(2004年11月09日,评分？)]
  - [光环3,2007-09-25 评分9.0， 光环3 天降神兵 2009/09/22 9.1分]
@@ -143,6 +172,13 @@
     GTA4、使命召唤6不太准确、007血石、正当防卫2、幽灵行动、F.E.A.R.、失落的星球，    孤岛惊魂3，4.孤岛危机3，光环致远星有？]
  
  - [战地：硬仗 Battlefield Hardline 中文GOD ](http://game.ali213.net/thread-5653135-1-1.html)	
+   [放外置移动硬盘，运行后弹出提示放入光盘解决办法](http://bbs.tgbus.com/thread-5948421-1-1.html)
+    `
+	 我也遇到了和你一样的问题，说一下我的情况。我的机器是自制系统，系统版本是16747，2百多G的内置硬盘。
+	 我在游侠网上搜到这样的解答：“前提是必须内置硬盘：把00007000文件夹放到Hdd1:\Battlefield.Hardline\454109E0，
+	 再把00002000文件夹放到Hdd1:\Content\0000000000000000\454109E0完美运行，文件夹没有请自建）”
+	 按照这个思路我这样搞得，打开游戏的GOD文件夹能看到两个子文件夹，00007000和00002000。把\454109E0\00007000拷到自制系统DF3扫描游戏的那个文件夹，然后游戏就能启动了，开场动画结束按START键后就会提示插入游戏光碟，并且还需要3.5G的硬盘空间。如果\Content\0000000000000000\454109E0文件夹里没有00002000的内容，游戏就会进行不下去。按照游侠网上的某玩家提示的把00002000复制到那个目录就可以了，没有请自建。
+	`
  - [战地3|繁体中文高清版|GOD|45410950|6.6G|无断头台BUG|Battlefield 3](http://game.ali213.net/thread-5063825-1-1.html)
  - [荣誉勋章：战士 繁体中文GOD版](http://dl.3dmgame.com/201505/59321.html)
  - [辐射：新维加斯终极版|硬盘版GOD|425307E0| Fallout:New Vegas Ultimate Edition](http://game.ali213.net/thread-5175737-1-1.html)
@@ -161,8 +197,14 @@
  - [真名法典2 -日文- ARPG]()
  - [吃豆人-双人-未下载](http://game.ali213.net/thread-5291620-1-1.html)
  - [降世神通-英文 画质较差，还有科拉传奇](http://dl.3dmgame.com/zlist-15-0-0-0-0-0-0-0-0-221-%E9%99%8D%E4%B8%96%E7%A5%9E%E9%80%9A-0-0-0-0-0)
- 
+ - [班卓熊：神奇螺丝 繁体中文GOD版 已经下 益智、策略、合系列、不太喜欢](http://dl.3dmgame.com/201408/49070.html)
  ## xbox360 临时资料区 
 
-
+《求生之路》系列：共有2部，都是打僵尸的。可以尽情的杀戮。  《神鬼寓言2》：自由度很高的游戏。第三部也快出了。  《阿凡达》：电影版的先行游戏。很好玩。   独占的有光环系列（微软招牌），战争机器系列，这都是必玩的，也是枪战中的经典（毕竟xbox360是以车枪球游戏突出的）另外还有刺客信条系列，质量效应系列，使命召唤系列，杀手系列，神鬼寓言系列，生化危机系列，极品飞车系列，战地系列，孤岛惊魂系列，这些都是我目前玩的，其他还有好多没玩到，另外就是体感游戏了，疯狂的兔子，大运动会1，大运动会2，嘉年华，大冒险等都是非常好玩的，娱乐锻炼身体两不误   荒野大缥客，质量效应系列，死亡空间系列，战争机器系列，极限竞速系列，这几个我比较推荐楼主去玩一下，尤其是极限竞速的最新作地平线很不错，其他的都看楼主的喜欢了，我们推荐的都是自己看好的   GTA4,荒野大救赎(这两部皆为R
+星出品，
+自由度非常高），光环
+3，光环：ODST，
+光环战争（不了解光环背景的人也许感觉很没劲，建议先看小说）
+战争机器1，2（第一次玩非常爽，LIVE很爽），使命召唤
+4，6.光环：致远星（本人最为期待，非常震撼）   《HALO》系列：这就不用说了不玩别买XBOX360  《战争机器》系列：微软顶梁大作之一。不过非常暴力血腥。  《使命召唤》系列：这个游戏每一款都是同样的经典，不多佳评轮了，必玩的。 《质量效应》系列：非常好玩第三人称游戏绝对推荐。一共有3部已经出了2部。 《幽灵行动》系列：汤姆克兰西系列的经典之一绝对要玩，推举推举。 《无主之地》：也叫《边缘之地》是09年的黑马游戏很好玩。  《细胞分裂》系列：育碧顶梁游戏之一汤姆克兰西系列中最成功的一个。 《彩虹6号：拉斯维加2》：经典的彩虹6号系列中的最新作汤姆克兰西系列的又一成功之作。  《战地：叛逆连队》系列：属于战地系列。多人联机功能依然出色，还加入了单人剧情十分好玩。1已经出了，2在3月份出  《死亡空间》系列：超恐怖的第三人称科幻射击游戏不过也十分好玩。如果你心脏不好就不要玩。也有2部，1出了2还没得很。  《生化奇兵》系列：2部都已经出了。很不错的游戏。不过玩着会有点压抑。 《鹰击长空》：汤姆克兰西系列之一。经典空战游戏。 《忍者龙剑传2》：不可不玩的经典。 《刺客信条》系列：也是经典之一必玩。 《荣誉勋章：神兵天降》：节奏很快。也快有新的了《荣誉勋章：现代战争》 《闪点行动2龙腾》：战争场面真实。画面精美。不过比较难玩。还有要杀中国解放军。 《龙腾世纪：起源》系列：蛮血腥的魔幻风格游戏，自由度蛮高的现在出了1和1的资料片，还有2部还没出。 《前线任务：燃料战争》：虽然武器比较单调，但是战争场面非常精彩火爆，人物也很细腻。 《黑暗51区》：杀外星人的游戏，火爆激烈。  《求生之路》系列：共有2部，都是打僵尸的。可以尽情的杀戮。 《神鬼寓言2》：自由度很高的游戏。第三部也快出了。 《阿凡达》：电影版的先行游戏。很好玩。
 
