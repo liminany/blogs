@@ -4,24 +4,29 @@
  - [玩游戏计划]
  - [动作->TPS->动作—>FPS->动作->合作->动作，古墓两人时玩]
  - [猎天使魔女-战争机器3-恶魔城2-光环-忍龙3-FPS-鬼泣-act-act-act-FPS]
+ 
+ - 游戏下载：建议用破解版的旋风，亲测试可会员加速。另外如果有百度盘会员的 建议百度盘。个人是先旋风，旋风没资源才找朋友用百度会员的
+ - [破解版旋风下载 网上找的资源，个人用的是7z压缩包中的绿色版，配合谷歌浏览器加插件使用](http://pan.baidu.com/share/link?shareid=2728408430&uk=3809476486)
+ 
 ## xbox360 常用资源汇总
- - [XBOX360 游侠网所有XBOX360下载索引(16年01月29更新) 3635款游戏](http://game.ali213.net/thread-4870118-1-1.html)
+ - [百度贴吧 XBOX360 体感&中文游戏 推荐](http://tieba.baidu.com/p/4887318153?see_lz=1)
+ - [三大妈 XBOX360 游戏索引 找游戏比较方便 推荐](http://dl.3dmgame.com/zlist-15-0-0-0-0-%E4%B8%AD%E6%96%87-0-0-0-221-0-0-0-0-0-0)
+ - [游侠 XBOX360 游侠网所有XBOX360下载索引(16年01月29更新) 3635款游戏 推荐](http://game.ali213.net/thread-4870118-1-1.html)
 
- - [XBox360中文游戏大全 & XBox360精品游戏推荐](http://game.ali213.net/thread-3920251-1-1.html)
+ - [游侠 XBox360中文游戏大全 & XBox360精品游戏推荐](http://game.ali213.net/thread-3920251-1-1.html)
  - [电玩之家 中文游戏](http://xbox360.gamehome.tv/html/cngame/)
 
- - [xbox360 多人游戏资源汇总](http://tieba.baidu.com/p/3550398060?share=9105&fr=share)
- - [xbox360 多人游戏资源汇总-同上](http://tieba.baidu.com/p/3550398060?pn=3)
- - [Xbox360双机Co-op合作模式玩的游戏介绍](http://game.ali213.net/thread-3222269-1-1.html)
- - [360汉化游戏](http://www.yxdown.com/zt/Xbox360/)
- - [那些XBLA的好游戏推荐](http://tieba.baidu.com/p/3174478602?share=9105&fr=share)
+ - [百度贴吧 xbox360 多人游戏资源汇总](http://tieba.baidu.com/p/3550398060?share=9105&fr=share)
+ - [百度贴吧 xbox360 多人游戏资源汇总-同上](http://tieba.baidu.com/p/3550398060?pn=3)
+ - [百度贴吧 Xbox360双机Co-op合作模式玩的游戏介绍](http://game.ali213.net/thread-3222269-1-1.html)
+ - [迅游 360汉化游戏](http://www.yxdown.com/zt/Xbox360/)
+ - [百度贴吧 那些XBLA的好游戏推荐](http://tieba.baidu.com/p/3174478602?share=9105&fr=share)
 	
  - [xbox3600 中文游戏列表](http://www.xbox3600.com/forum.php?mod=forumdisplay&fid=43&filter=sortid&sortid=1&searchsort=1&game_type=5&game_area_version=4&game_language=all&page=1)
  - [xbox3600 Xbox360 202个全中文游戏汇总全集资源分享下载](http://www.xbox3600.com/forum.php?mod=viewthread&tid=2686)
 	
  - [直接用外置硬盘玩游戏安装教程：链接:](http://pan.baidu.com/s/1gdJ9qM3) 密码:qs6a
  - [近期新游戏：链接: ](http://pan.baidu.com/s/1kT8d3Yv) 密码: rp3r
- - [中文游戏：链接：](http://pan.baidu.com/s/1qXYORXq) 密码：ick7
  - [体感游戏合集：链接:](http://pan.baidu.com/s/1bplvmNl)  密码：i1vj
  - [非中文游戏合集1：链接:](http://pan.baidu.com/s/1hq7vX3Y) 密码:qlg0
  - [非中文游戏合集2：链接:](http://pan.baidu.com/s/1eQwAHua) 密码:9rni
@@ -62,11 +67,6 @@
    - 数码宝贝全明星大乱斗 
    - [极度混乱](http://dl.3dmgame.com/201507/61495.html)
    
-   - 正在下载或已下载的
-     - [[疯狂大乱斗2|中文GOD](http://game.ali213.net/thread-5032330-1-1.html)
-     - [[XBLA][特技摩托进化包含2DLC(骑士的末日)(痛苦根源)整合版 中文][Trials.Evolution.2DLC](http://game.ali213.net/thread-4472100-1-1.html)
- 
-
  - 动作、类似战神风格的：阿修罗之怒、御姐武戏、柯南，维京战神，贝奥武甫，NG2，NGB，DMC4，DEAD RISING，NINJA BLADE,神谷的魔女，生化尖兵 conan，金钢狼，脱狱潜龙，凯蜜欧传说 力量元素 中文版
 	三大和魔女和MGS后传，还有很多不怎么知名的ACT比如阿修罗之怒、恶魔城暗影之王系列、暗黑血统系列、但丁地狱
  - 初代游戏（需装模拟器）：忍龙初代，忍龙黑之章，坏松鼠重制版（这个不错），光环，恐龙危机3（应该是3吧，在太空打恐龙），鬼武者幻魔，零红蝶，天诛3，极品飞车地下狂飙，御伽百鬼讨伐（这个也不错），神鬼寓言，翡翠帝国
@@ -133,6 +133,7 @@
  - [《深渊奥德赛》游侠汉化GOD硬盘版 中文](http://down.ali213.net/tvgame/ABGODC.html)
  - [植物大战僵尸：花园战争 内核汉化硬盘GOD 中文 单机不能玩?](http://down.ali213.net/tvgame/PVZGWGODC.html)
  - [变形金刚：暗焰崛起（Transformers: Rise of the Dark Spark）塞伯坦之战》和《塞伯坦的陨落的续作， 中文](http://down.ali213.net/tvgame/TROTDSGODC.html)
+ 
  - [《世界摩托大奖赛14》游戏汉化1.0 XEX版，GOD版运行黑屏？](http://down.ali213.net/tvgame/M14CXEX.html)
  - [《重返德军总部：新秩序》简体中文GOD版](http://down.ali213.net/tvgame/WTNOCGOD.html#down_load)
  - [《生化奇兵3：无限》游侠3.0汉化GOD版 中文](http://down.ali213.net/tvgame/BioshockInfiniteCHGOD.html)
@@ -150,6 +151,8 @@
  - [梦工厂全明星卡丁车 Dreamworks.Super.Star.Kartz 英文 已经下](http://dl.3dmgame.com/201404/44986.html)
  - [索尼克与世嘉全明星赛车 Sonic & Sega All-Stars Racing GOD版 英文 已经下](http://dl.3dmgame.com/201409/50497.html)
  - [疯狂大乱斗2 Fuzion Frenzy 2 中文GOD版 各种小游戏 个人不喜欢玩](http://dl.3dmgame.com/201401/42036.html)
+ - [疯狂大乱斗2|中文GOD](http://game.ali213.net/thread-5032330-1-1.html)
+ - [[XBLA][特技摩托进化包含2DLC(骑士的末日)(痛苦根源)整合版 中文][Trials.Evolution.2DLC](http://game.ali213.net/thread-4472100-1-1.html)
  
  - [光环1：战争进化（2001.11 中文语音-已经下） 光环-战斗进化-高清周年纪念版（2011/11/，8.7分） 光环致远星（2010-09-14，9.2分）](http://game.ali213.net/thread-4412161-1-1.html)
  - [光环2(2004年11月09日,评分？)]
