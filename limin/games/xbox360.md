@@ -199,7 +199,8 @@
  - [143.【冲!冲!霹雳舞团】Go! Go! Break Steady 9楼 音乐 中文 双人](http://game.ali213.net/forum.php?mod=viewthread&tid=5967327&page=1&authorid=442715)
  - [138.【爆炸人 & 爆炸小J】Splosion man & Ms.Splosion man 双人 中文 趣味](http://game.ali213.net/thread-4631294-1-1.html)
  - [88.【突击英雄 & 突击英雄2】Assault Heroes 1 & Assault Heroes 2]
- - [灵弹魔女 Bullet Witch偏射击类 -日文？-已经下]()
+ - [灵弹魔女 Bullet Witch偏射击类 -日文？-已经下 3大妈下载](http://dl.3dmgame.com/201401/42040.html)
+    - [游侠 旋风下载](http://fenxiang.qq.com/x/2i6KsVJ9dfRPbg6JdoHF~~hESIbitH03wmFxon3MZF5PoA::)
  - [真名法典2 -日文- ARPG]()
  - [吃豆人-双人-未下载](http://game.ali213.net/thread-5291620-1-1.html)
  - [降世神通-英文 画质较差，还有科拉传奇](http://dl.3dmgame.com/zlist-15-0-0-0-0-0-0-0-0-221-%E9%99%8D%E4%B8%96%E7%A5%9E%E9%80%9A-0-0-0-0-0)
