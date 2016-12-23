@@ -11,9 +11,11 @@
 ## xbox360 常用资源汇总
  - [百度贴吧 XBOX360 体感&中文游戏 推荐](http://tieba.baidu.com/p/4887318153?see_lz=1)
  - [三大妈 XBOX360 游戏索引 找游戏比较方便 推荐](http://dl.3dmgame.com/zlist-15-0-0-0-0-%E4%B8%AD%E6%96%87-0-0-0-221-0-0-0-0-0-0)
- - [游侠 XBOX360 游侠网所有XBOX360下载索引(16年01月29更新) 3635款游戏 推荐](http://game.ali213.net/thread-4870118-1-1.html)
-
+ 
+ - [游侠BBS XBOX360 游侠网所有XBOX360下载索引(16年01月29更新) 3635款游戏 推荐](http://game.ali213.net/thread-4870118-1-1.html)
+ - [游侠游戏库-中文游戏](http://down.ali213.net/tvgame/all/0-cn-0-xbox-new-pic-3.html)
  - [游侠 XBox360中文游戏大全 & XBox360精品游戏推荐](http://game.ali213.net/thread-3920251-1-1.html)
+ 
  - [电玩之家 中文游戏](http://xbox360.gamehome.tv/html/cngame/)
 
  - [百度贴吧 xbox360 多人游戏资源汇总](http://tieba.baidu.com/p/3550398060?share=9105&fr=share)
@@ -21,9 +23,11 @@
  - [百度贴吧 Xbox360双机Co-op合作模式玩的游戏介绍](http://game.ali213.net/thread-3222269-1-1.html)
  - [迅游 360汉化游戏](http://www.yxdown.com/zt/Xbox360/)
  
- 
+ - [游侠XBLA 所有游戏索引-英文名 ](http://game.ali213.net/thread-4631294-1-2.html)
  - [百度贴吧 那些XBLA的好游戏推荐](http://tieba.baidu.com/p/3174478602?share=9105&fr=share)
- - [【XBLA中文】 XBOX 全中文游戏合集](http://tieba.baidu.com/p/2856787925)
+ - [【XBLA中文】 XBOX 全中文游戏合集-无下载地址](http://tieba.baidu.com/p/2856787925)
+ - [游侠帖子：大家给推荐一些XBLA的小游戏吧~最好是中文的~ ](http://game.ali213.net/thread-3163202-1-1.html)
+ 
  - [xbox3600 中文游戏列表](http://www.xbox3600.com/forum.php?mod=forumdisplay&fid=43&filter=sortid&sortid=1&searchsort=1&game_type=5&game_area_version=4&game_language=all&page=1)
  - [xbox3600 Xbox360 202个全中文游戏汇总全集资源分享下载](http://www.xbox3600.com/forum.php?mod=viewthread&tid=2686)
 	
@@ -38,6 +42,8 @@
  - [60G游戏攻略 ](http://pan.baidu.com/s/1bnctKeF) 密码：5f2e
  
  - [360必玩的 射击游戏](http://game.people.com.cn/n1/2016/0501/c69328-28317559-13.html)	
+ - [XBOX官网游戏商店](http://marketplace.xbox.com/zh-TW/Games/XboxArcadeGames?SortBy=ReleaseDate&PageSize=90)
+ 
  - 多人游戏：马里奥，雷曼系列，虫姬，[爷们3，爷们审判，唐老鸭大冒险，雷曼，蚯蚓吉姆，玩具总动员，索尼克，吃豆人，班卓熊，迷你忍者，古惑狼泰坦，海绵宝宝，合金弹头、找个男人，雷曼，光之子，少女卷轴，雷曼，火热摔跤，NBA嘉年华，搏击玫瑰，网球，ilomilo，沙滩排球，可爱得意。。。疯狂的兔子。。。比较搞笑。 易玩既话，赛车类游戏。。RPG类通常冇中文版咯。
 乐克乐克2 啪嗒砰2 勇者别嚣张2 无双大蛇：魔王再临 音乐方块2 太鼓达人：便携版 2 埃及祖玛：法老王的挑战 无限回廊 泡泡龙 DJMAX：酷懒之味 
 随身玩伴：学校生活 魔法数独 给脑快感 2 轻松体验 模拟人生2 比波猴学院：捉猴大全集 比波猴战记 电车GO!东海道篇 我的暑假：昆虫博士与天边山的秘密
@@ -146,6 +152,7 @@
 	- [孤岛危机2 中文GOD版](http://dl.3dmgame.com/201405/46366.html)
     - [《孤岛危机3》亚版GOD版 中文](http://down.ali213.net/tvgame/Crysis3CHGOD.html)
  - [龙之信条：黑暗崛起 中文GOD版 ARPG 已经下](http://dl.3dmgame.com/201312/41347.html)
+    - [游侠版，上面的3DM版下载后无法运行，不知是不是下载的问题](http://fenxiang.qq.com/upload/index.php/share/share_c/index_v2/2SSMv1d~d~VJc2eVCZL1wPNrV8Sg8yFr3mNxonzJ)
  - [《马克思佩恩3》中文GOD版](http://down.ali213.net/tvgame/MaxPayne3CHGOD.html)
  - [除暴战警 繁体中文GOD版 已经下 ](http://dl.3dmgame.com/201509/63491.html)
   
@@ -173,7 +180,7 @@
  - [暗黑之魂2：原罪哲人 Dark Souls 2 - Scholar of the First Sin 繁体中文GOD版-已下](http://dl.3dmgame.com/201504/57990.html)
  - [质量效应2/3 RPG Mass Effect 3 中文-二代已经下 ](http://dl.3dmgame.com/zlist-15-0-0-0-0-%E4%B8%AD%E6%96%87-0-0-0-221-%E8%B4%A8%E9%87%8F%E6%95%88%E5%BA%94-0-0-0-0-0)
  
- - [辐射、剌客信条、子弹风暴、使命召唤11、死亡空间、暗黑血统、黑暗之魂、霸王2、杀手已死、巫师、1光环致远星、2使命召唤8、3使命召唤7、4孤岛危机2]
+ - [辐射、剌客信条、子弹风暴、使命召唤11、死亡空间、暗黑血统、黑暗之魂、霸王2、杀手已死（游侠中文）、巫师、1光环致远星、2使命召唤8、3使命召唤7、4孤岛危机2]
  - [带辅助瞄准的射击游戏: COD、战争机器、战地、叛逆连队2、荣誉勋章系列、古墓、马克思佩恩、恶灵附生最低难度、大表哥、黑手党、量子、质量2、荣誉、
     GTA4、使命召唤6不太准确、007血石、正当防卫2、幽灵行动、F.E.A.R.、失落的星球，    孤岛惊魂3，4.孤岛危机3，光环致远星有？]
  
@@ -209,7 +216,14 @@
  - [降世神通-英文 画质较差，还有科拉传奇](http://dl.3dmgame.com/zlist-15-0-0-0-0-0-0-0-0-221-%E9%99%8D%E4%B8%96%E7%A5%9E%E9%80%9A-0-0-0-0-0)
  - [班卓熊：神奇螺丝 繁体中文GOD版 已经下 益智、策略、合系列、不太喜欢](http://dl.3dmgame.com/201408/49070.html)
  
- ## xbox360 临时资料区 
+## xbox360 个人喜欢的XBLA游戏资源 
+ - [Alan.Wakes.American.Nightmare.XBLA-ALI213 心灵杀手美国噩梦 动作冒险第三人称射击 中文](http://marketplace.xbox.com/zh-hk/Product/Alan-Wakes-American-Nightmare/66acd000-77fe-1000-9115-d80258411233#)
+   [下载地址](http://fenxiang.qq.com/x/2i6KsVJ9dfRPbg6hVabC9~BjW4bitH03wmFxon3MZF5PoA::)
+ - [Zombie.Apocalypse.NDA.XBLA-ALI213 上帝视角 射击 英文](http://marketplace.xbox.com/zh-hk/Product/Zombie-Apocalypse-Never-Die-Alone/66acd000-77fe-1000-9115-d80258410b76#)
+   [下载地址](http://fenxiang.qq.com/x/2i6KsVJ9dfRPbg6Jfr3q~OBoV4bitH03wmFxon3MZF5PoA::)
+ - [Dungeons & Dragons: Chronicles of Mystara 横版动作-街机风格 龙与地下城 中文？](http://marketplace.xbox.com/zh-hk/Product/Dungeons-Dragons-Chronicles-of-Mystara/66acd000-77fe-1000-9115-d802584113c3#)
+    [下载地址 暂无]
+## xbox360 临时资料区 
  - 最经典的60款XBLA中文游戏 
 	01、迷你冒险高尔夫球 
 	02、小米人的王国 
