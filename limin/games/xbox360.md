@@ -3,7 +3,7 @@
 ## 关于xbox360主机资料，自制系统、相关配套软件的基础知识
  - [玩游戏计划]
  - [动作->TPS->动作—>FPS->动作->合作->动作，古墓两人时玩]
- - [猎天使魔女-战争机器3-恶魔城2-光环-忍龙3-FPS-鬼泣-act-act-act-FPS]
+ - [猎天使魔女-战争机器3-恶魔城2-光环-忍龙2-FPS-鬼泣-act-act-act-FPS]
  
  - 游戏下载：建议用破解版的旋风，亲测试可会员加速。另外如果有百度盘会员的 建议百度盘。个人是先旋风，旋风没资源才找朋友用百度会员的
  - [破解版旋风下载 网上找的资源，个人用的是7z压缩包中的绿色版，配合谷歌浏览器加插件使用](http://pan.baidu.com/share/link?shareid=2728408430&uk=3809476486)
@@ -43,6 +43,7 @@
  
  - [360必玩的 射击游戏](http://game.people.com.cn/n1/2016/0501/c69328-28317559-13.html)	
  - [XBOX官网游戏商店](http://marketplace.xbox.com/zh-TW/Games/XboxArcadeGames?SortBy=ReleaseDate&PageSize=90)
+ - [动作游戏推荐](http://www.yxdown.com/news/201408/138292.html)
  
  - 多人游戏：马里奥，雷曼系列，虫姬，[爷们3，爷们审判，唐老鸭大冒险，雷曼，蚯蚓吉姆，玩具总动员，索尼克，吃豆人，班卓熊，迷你忍者，古惑狼泰坦，海绵宝宝，合金弹头、找个男人，雷曼，光之子，少女卷轴，雷曼，火热摔跤，NBA嘉年华，搏击玫瑰，网球，ilomilo，沙滩排球，可爱得意。。。疯狂的兔子。。。比较搞笑。 易玩既话，赛车类游戏。。RPG类通常冇中文版咯。
 乐克乐克2 啪嗒砰2 勇者别嚣张2 无双大蛇：魔王再临 音乐方块2 太鼓达人：便携版 2 埃及祖玛：法老王的挑战 无限回廊 泡泡龙 DJMAX：酷懒之味 
@@ -94,8 +95,11 @@
     - 神鬼寓言2 Fable 2 Goty ARPG 中文
 	
 ## xbox360 个人喜欢的游戏资源
- - [但丁地狱 ACT 英文-已经下-已经通关](http://dl.3dmgame.com/201509/63348.html)
- - [猎天使魔女1 ACT 中文-已经下 已经通关](http://dl.3dmgame.com/201311/40563.html)
+ - [忍者龙剑传2 ACT 下忍最简单难度玩到第8章-确实挺难，共14章，挺耗时间，]
+ - [恶魔城：暗影之王2 -中文-已经下 ACT 玩到第六章制药工厂-共14章 挺耗时间的](http://game.ali213.net/thread-5415560-1-1.html)
+ - [但丁地狱 ACT 英文-已经下-已经通关 欧美风格ACT游戏个人比较喜欢](http://dl.3dmgame.com/201509/63348.html)
+ - [光环-战斗进化-高清周年纪念版 中等难度 容易死 总体来说还不错，最不爽的是没有地图-老是迷路-挺耗时间，目前玩到第三关？]
+ - [猎天使魔女1 ACT 中文-已经下 已经通关-简单难度-很爽快-略简单-背景音乐赞](http://dl.3dmgame.com/201311/40563.html)
  - [战争机器3  TPS 中文-已经-已经通关]
  
  - 中文语音游戏：光环、多重阴影、士官长、鬼屋魔影、神鬼寓言：旅途、暗影帝国
@@ -103,16 +107,16 @@
  - [维京人：神域之战 Viking: Battle for Asgard 硬盘版GOD,534507E0 英文 已经下](http://game.ali213.net/thread-4630289-1-1.html)	 
  - [恶魔城：暗影之王2 -中文-已经下](http://game.ali213.net/thread-5415560-1-1.html)
  - [忍者之刃-已经下](http://www.xbox3600.com/forum.php?mod=viewthread&tid=212&extra=page%3D1%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
- - [忍者龙剑传2-中文-已经下](http://www.xbox3600.com/forum.php?mod=viewthread&tid=203&extra=page%3D2%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
- - [恶魔城：暗影之王-宿命镜面　高清版-中文-已经下](http://game.ali213.net/thread-5417792-1-1.html)
+ - [恶魔城：暗影之王-宿命镜面　58411408 高清版 Castlevania：Lords of Shadow Mirror of Fate HD 3ds移植版 横版](http://game.ali213.net/thread-5417792-1-1.html)
  - [恶魔城：暗影之王 中文-已经下](http://game.ali213.net/thread-5160712-1-1.html)
+ 
  - [剑勇传奇：忍者龙剑传Z Yaiba: Ninja Gaiden Z 中文-已经下](http://game.ali213.net/thread-5417290-1-1.html)
  - [爱丽丝：疯狂回归 3DM简体中文汉化ISO版 已经下](http://dl.3dmgame.com/201311/40266.html)
  - [波斯王子 系列，最新为(波斯王子5：遗忘之沙) 中文-已经下](http://www.ali213.net/zhuanti/Prince/)
  - [古墓丽影9亚洲中英文硬盘版XEX版](http://game.ali213.net/thread-4609818-1-1.html)
  - [风卷残云 Kung Fu Strike：The Warrior's Rise 中文 未解锁多人]()
  
- - [忍者外传 3 利刃边缘NINJA GAIDEN 3 Razor‘s Edge,原3代的加强版 中文-已经下](http://games.tgbus.com/43404/)
+ - [忍者龙全剑外传 3 利刃边缘NINJA GAIDEN 3 Razor‘s Edge,原3代的加强版 中文-已经下](http://games.tgbus.com/43404/)
  - [Q版本游戏全集-已经下但删除 是IOS](http://www.xbox3600.com/forum.php?mod=viewthread&tid=3178&extra=page%3D5%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
  - [拳皇13 中文-已经下](http://www.xbox3600.com/forum.php?mod=viewthread&tid=250&extra=page%3D4%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
  - [凯蜜欧传说：力量元素 繁体中文GOD版 已经下](http://dl.3dmgame.com/201507/61015.html)
@@ -135,7 +139,12 @@
  - [火影忍者疾风传：究极忍者风暴革命 轩辕GOD汉化版 中文 已经下](http://dl.3dmgame.com/201409/50249.html)  
  - [暗黑破坏神3：夺魂之镰 终极邪恶版 GOD版 中文 已经下](http://dl.3dmgame.com/201408/49443.html)
  - [无间战神 繁体中文GOD版 已经下 右摇杆控制杀人不习惯操作模式差评](http://dl.3dmgame.com/201408/49816.html)
-  
+ - [时光之刃 英文 未下](http://game.ali213.net/thread-4604476-1-1.html)
+   - [电玩巴士](http://games.tgbus.com/39580/)
+   
+ - [X战警前传：金刚狼](http://game.ali213.net/thread-4573462-1-1.html)  
+ - [X战警：官方游戏](http://game.ali213.net/thread-4823491-1-1.html)
+ 
  - [忍者神龟：曼哈顿突变体 硬盘版GOD Teenage Mutant Ninja Turtles: Mutants in Manhattan 英文 ](http://game.ali213.net/thread-6054451-1-1.html)  
  - [龙腾世纪：审判 Dragon Age: Inquisition 游侠LMAO汉化硬盘版GOD ](http://down.ali213.net/tvgame/daigod.html)
  - [精灵高中：新食尸鬼学园 Monster High - New Ghoul in School 英文](http://game.ali213.net/forum.php?mod=viewthread&tid=5952629&extra=page%3D2%26filter%3Dtypeid%26typeid%3D2554%26typeid%3D2554)
@@ -180,13 +189,13 @@
  - [暗黑之魂2：原罪哲人 Dark Souls 2 - Scholar of the First Sin 繁体中文GOD版-已下](http://dl.3dmgame.com/201504/57990.html)
  - [质量效应2/3 RPG Mass Effect 3 中文-二代已经下 ](http://dl.3dmgame.com/zlist-15-0-0-0-0-%E4%B8%AD%E6%96%87-0-0-0-221-%E8%B4%A8%E9%87%8F%E6%95%88%E5%BA%94-0-0-0-0-0)
  
- - [辐射、剌客信条、子弹风暴、使命召唤11、死亡空间、暗黑血统、黑暗之魂、霸王2、杀手已死（游侠中文）、巫师、1光环致远星、2使命召唤8、3使命召唤7、4孤岛危机2]
+ - [辐射、剌客信条、子弹风暴、使命召唤11、死亡空间\、死亡效应、暗黑血统、黑暗之魂、霸王2、杀手已死（游侠中文）、巫师、1光环致远星、2使命召唤8、3使命召唤7、4孤岛危机2]
  - [带辅助瞄准的射击游戏: COD、战争机器、战地、叛逆连队2、荣誉勋章系列、古墓、马克思佩恩、恶灵附生最低难度、大表哥、黑手党、量子、质量2、荣誉、
     GTA4、使命召唤6不太准确、007血石、正当防卫2、幽灵行动、F.E.A.R.、失落的星球，    孤岛惊魂3，4.孤岛危机3，光环致远星有？]
  
  - [战地：硬仗 Battlefield Hardline 中文GOD ](http://game.ali213.net/thread-5653135-1-1.html)	
    [放外置移动硬盘，运行后弹出提示放入光盘解决办法](http://bbs.tgbus.com/thread-5948421-1-1.html)
-    `
+    ```
 	 我也遇到了和你一样的问题，说一下我的情况。我的机器是自制系统，系统版本是16747，2百多G的内置硬盘。
 	 我在游侠网上搜到这样的解答：“前提是必须内置硬盘：把00007000文件夹放到Hdd1:\Battlefield.Hardline\454109E0，
 	 再把00002000文件夹放到Hdd1:\Content\0000000000000000\454109E0完美运行，文件夹没有请自建）”
@@ -194,9 +203,10 @@
 	 然后游戏就能启动了，开场动画结束按START键后就会提示插入游戏光碟，并且还需要3.5G的硬盘空间。
 	 如果\Content\0000000000000000\454109E0文件夹里没有00002000的内容，游戏就会进行不下去。
 	 按照游侠网上的某玩家提示的把00002000复制到那个目录就可以了，没有请自建。
-	`
+	```
+	
  - [战地3|繁体中文高清版|GOD|45410950|6.6G|无断头台BUG|Battlefield 3](http://game.ali213.net/thread-5063825-1-1.html)
- - [荣誉勋章：战士 繁体中文GOD版](http://dl.3dmgame.com/201505/59321.html)
+ - [荣誉勋章：战士 繁体中文GOD版 已经下](http://dl.3dmgame.com/201505/59321.html)
  - [辐射：新维加斯终极版|硬盘版GOD|425307E0| Fallout:New Vegas Ultimate Edition](http://game.ali213.net/thread-5175737-1-1.html)
  
  - [使命召唤系列介绍](http://codol.gamersky.com/zt/codseries/)	
@@ -215,6 +225,20 @@
  - [吃豆人-双人-未下载](http://game.ali213.net/thread-5291620-1-1.html)
  - [降世神通-英文 画质较差，还有科拉传奇](http://dl.3dmgame.com/zlist-15-0-0-0-0-0-0-0-0-221-%E9%99%8D%E4%B8%96%E7%A5%9E%E9%80%9A-0-0-0-0-0)
  - [班卓熊：神奇螺丝 繁体中文GOD版 已经下 益智、策略、合系列、不太喜欢](http://dl.3dmgame.com/201408/49070.html)
+
+ - [FIFA 16 无官方英文 454109EE 只有民间，FIFA17 也无英文 民间也没有 已经下（自带） 英文版](http://bbs.a9vg.com/thread-4785038-1-1.html) 
+	- [中文补丁 适用xex版](http://game.ali213.net/thread-5922243-1-1.html)
+	- [安装办法-GOD版下载已经失效](http://bbs.a9vg.com/thread-4785038-1-1.html)
+ - [NBA2k15 545408B0 中文 已下（自带）]	
+ - [合金装备 复仇 4BE080A 已经下(自带) 英文已经删除 要重新下中文版](http://game.ali213.net/thread-5396433-1-1.html)
+ - [far cry 4 孤岛惊魂4 555308CA 英文？ 已经下（自带）]()
+ - [PES2016 实况足球2016 4B4E0861已经下 中文]
+ - [生化危机1 43430841 高清重置版 已经下 中文已删除]
+ - [gta5 545408A7 已经下（自带） 中文]()
+ - [细胞分裂 黑名单 动作潜入类(ACT) 555308B6 已经下（自带） 英文已经删除 准备重新下中文](http://game.ali213.net/thread-5204236-1-1.html)
+ - [古墓丽影 崛起 53510823 已经下（自带） 中文]()
+ - [战争机器3 4D5308AB 中文 已经下（自带）]
+ - [神奇蜘蛛侠硬盘版GOD 415608B5 The Amazing Spider-Man 自带有这个目录 英文？ 但没看到游戏？](http://game.ali213.net/thread-4606333-1-1.html)
  
 ## xbox360 个人喜欢的XBLA游戏资源 
  - [Alan.Wakes.American.Nightmare.XBLA-ALI213 心灵杀手美国噩梦 动作冒险第三人称射击 中文](http://marketplace.xbox.com/zh-hk/Product/Alan-Wakes-American-Nightmare/66acd000-77fe-1000-9115-d80258411233#)
