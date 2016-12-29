@@ -162,7 +162,7 @@
     - [《孤岛危机3》亚版GOD版 中文](http://down.ali213.net/tvgame/Crysis3CHGOD.html)
  - [龙之信条：黑暗崛起 中文GOD版 ARPG 已经下](http://dl.3dmgame.com/201312/41347.html)
     - [游侠版，上面的3DM版下载后无法运行，不知是不是下载的问题](http://fenxiang.qq.com/upload/index.php/share/share_c/index_v2/2SSMv1d~d~VJc2eVCZL1wPNrV8Sg8yFr3mNxonzJ)
- - [《马克思佩恩3》中文GOD版](http://down.ali213.net/tvgame/MaxPayne3CHGOD.html)
+ - [《马克思佩恩3》中文GOD版](http://game.ali213.net/thread-4414847-1-1.html)                  [3大妈下载](http://dl.3dmgame.com/201403/43938.html)
  - [除暴战警 繁体中文GOD版 已经下 ](http://dl.3dmgame.com/201509/63491.html)
   
  - [极品飞车18：宿敌 亚版 Need for Speed: Rivals 中文](http://dl.3dmgame.com/201405/46534.html)
@@ -231,7 +231,7 @@
 	- [安装办法-GOD版下载已经失效](http://bbs.a9vg.com/thread-4785038-1-1.html)
  - [NBA2k15 545408B0 中文 已下（自带）]	
  - [合金装备 复仇 4BE080A 已经下(自带) 英文已经删除 要重新下中文版](http://game.ali213.net/thread-5396433-1-1.html)
- - [far cry 4 孤岛惊魂4 555308CA 英文？ 已经下（自带）]()
+ - [far cry 4 孤岛惊魂4 555308CA 中文-字幕太小了 蛋疼 已经下（自带）]()
  - [PES2016 实况足球2016 4B4E0861已经下 中文]
  - [生化危机1 43430841 高清重置版 已经下 中文已删除]
  - [gta5 545408A7 已经下（自带） 中文]()
