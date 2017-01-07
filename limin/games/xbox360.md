@@ -22,6 +22,7 @@
  - [百度贴吧 xbox360 多人游戏资源汇总-同上](http://tieba.baidu.com/p/3550398060?pn=3)
  - [百度贴吧 Xbox360双机Co-op合作模式玩的游戏介绍](http://game.ali213.net/thread-3222269-1-1.html)
  - [迅游 360汉化游戏](http://www.yxdown.com/zt/Xbox360/)
+ - [百度贴吧 盘点X360内外兼修的游戏女主角！](http://tieba.baidu.com/p/4616244025?see_lz=1)
  
  - [游侠XBLA 所有游戏索引-英文名 ](http://game.ali213.net/thread-4631294-1-2.html)
  - [百度贴吧 那些XBLA的好游戏推荐](http://tieba.baidu.com/p/3174478602?share=9105&fr=share)
@@ -101,6 +102,8 @@
  - [光环-战斗进化-高清周年纪念版 中等难度 容易死 总体来说还不错，最不爽的是没有地图-老是迷路-挺耗时间，目前玩到第三关？]
  - [猎天使魔女1 ACT 中文-已经下 已经通关-简单难度-很爽快-略简单-背景音乐赞](http://dl.3dmgame.com/201311/40563.html)
  - [战争机器3  TPS 中文-已经-已经通关]
+ - [忍者龙全剑传 3 利刃边缘NINJA GAIDEN 3 Razor‘s Edge,原3代的加强版 中文-已经下 最简单的难度已通关 共8天 有两天是女性角色绫音关卡 ](http://games.tgbus.com/43404/)
+ 
  
  - 中文语音游戏：光环、多重阴影、士官长、鬼屋魔影、神鬼寓言：旅途、暗影帝国
  - [野蛮人柯南/战神之王硬  英文 已经下载](http://game.ali213.net/thread-4517153-1-1.html)
@@ -145,7 +148,9 @@
  - [X战警前传：金刚狼](http://game.ali213.net/thread-4573462-1-1.html)  
  - [X战警：官方游戏](http://game.ali213.net/thread-4823491-1-1.html)
  
- - [忍者神龟：曼哈顿突变体 硬盘版GOD Teenage Mutant Ninja Turtles: Mutants in Manhattan 英文 ](http://game.ali213.net/thread-6054451-1-1.html)  
+ - [忍者神龟：曼哈顿突变体 硬盘版GOD Teenage Mutant Ninja Turtles: Mutants in Manhattan 英文 ](http://game.ali213.net/thread-6054451-1-1.html)
+ - [电锯甜心 英文 ACT ](http://game.ali213.net/thread-4503124-1-1.html)(http://pan.baidu.com/s/1ufYd4#list/path=%2F)
+ 
  - [龙腾世纪：审判 Dragon Age: Inquisition 游侠LMAO汉化硬盘版GOD ](http://down.ali213.net/tvgame/daigod.html)
  - [精灵高中：新食尸鬼学园 Monster High - New Ghoul in School 英文](http://game.ali213.net/forum.php?mod=viewthread&tid=5952629&extra=page%3D2%26filter%3Dtypeid%26typeid%3D2554%26typeid%3D2554)
  - [《深渊奥德赛》Abyss Odyssey游侠汉化GOD硬盘版 中文-已经下](http://down.ali213.net/tvgame/ABGODC.html)
@@ -207,7 +212,7 @@
 	
  - [战地3|繁体中文高清版|GOD|45410950|6.6G|无断头台BUG|Battlefield 3](http://game.ali213.net/thread-5063825-1-1.html)
  - [荣誉勋章：战士 繁体中文GOD版 已经下](http://dl.3dmgame.com/201505/59321.html)
- - [辐射：新维加斯终极版|硬盘版GOD|425307E0| Fallout:New Vegas Ultimate Edition](http://game.ali213.net/thread-5175737-1-1.html)
+ - [辐射：新维加斯终极版|硬盘版GOD|425307E0| Fallout:New Vegas Ultimate Edition 已下 中文](http://game.ali213.net/thread-5175737-1-1.html)
  
  - [使命召唤系列介绍](http://codol.gamersky.com/zt/codseries/)	
  - [使命召唤11：高级战争 3DM轩辕汉化组GOD汉化版 - 已经下](http://dl.3dmgame.com/201411/51863.html)
@@ -247,6 +252,8 @@
    [下载地址](http://fenxiang.qq.com/x/2i6KsVJ9dfRPbg6Jfr3q~OBoV4bitH03wmFxon3MZF5PoA::)
  - [Dungeons & Dragons: Chronicles of Mystara 横版动作-街机风格 龙与地下城 中文？](http://marketplace.xbox.com/zh-hk/Product/Dungeons-Dragons-Chronicles-of-Mystara/66acd000-77fe-1000-9115-d802584113c3#)
     [下载地址 暂无]
+ - [中文名称：神鬼寓言：英雄 中文 动作与冒险, 角色扮演 Fable Heroes]
+ 
 ## xbox360 临时资料区 
  - 最经典的60款XBLA中文游戏 
 	01、迷你冒险高尔夫球 
