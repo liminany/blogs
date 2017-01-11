@@ -94,16 +94,28 @@
 	- 乐高：霍比特人 LEGO The Hobbit ACT 中文
     - 中文名称：乐高漫威超级英雄 LEGO Marvel Super Heroes ACT 游戏语言：中文
     - 神鬼寓言2 Fable 2 Goty ARPG 中文
-	
+## 准备下的
+ - [《马克思佩恩3》中文GOD版](http://game.ali213.net/thread-4414847-1-1.html)                  [3大妈下载](http://dl.3dmgame.com/201403/43938.html)
+ - [合金装备 复仇 4BE080A 已经下(自带) 英文已经删除 要重新下中文版](http://game.ali213.net/thread-5396433-1-1.html)
+ - [极品飞车18：宿敌 亚版 Need for Speed: Rivals 中文](http://dl.3dmgame.com/201405/46534.html)
+ - [电锯甜心 英文 ACT ](http://game.ali213.net/thread-4503124-1-1.html)(http://pan.baidu.com/s/1ufYd4#list/path=%2F)
+ - [暗黑血统 英文] 
+ - 模拟器下载
+ - [生化奇兵]
+ - [死亡空间 死亡效应]
+ - [格斗闯关类？]
+ 
 ## xbox360 个人喜欢的游戏资源
  - [忍者龙剑传2 ACT 下忍最简单难度玩到第8章-确实挺难，共14章，挺耗时间，]
- - [恶魔城：暗影之王2 -中文-已经下 ACT 玩到第六章制药工厂-共14章 挺耗时间的](http://game.ali213.net/thread-5415560-1-1.html)
- - [但丁地狱 ACT 英文-已经下-已经通关 欧美风格ACT游戏个人比较喜欢](http://dl.3dmgame.com/201509/63348.html)
- - [光环-战斗进化-高清周年纪念版 中等难度 容易死 总体来说还不错，最不爽的是没有地图-老是迷路-挺耗时间，目前玩到第三关？]
- - [猎天使魔女1 ACT 中文-已经下 已经通关-简单难度-很爽快-略简单-背景音乐赞](http://dl.3dmgame.com/201311/40563.html)
- - [战争机器3  TPS 中文-已经-已经通关]
- - [忍者龙全剑传 3 利刃边缘NINJA GAIDEN 3 Razor‘s Edge,原3代的加强版 中文-已经下 最简单的难度已通关 共8天 有两天是女性角色绫音关卡 ](http://games.tgbus.com/43404/)
+ - [恶魔城：暗影之王2 -中文-已经下 ACT/ARPG 玩到第六章制药工厂-共14章 挺耗时间的](http://game.ali213.net/thread-5415560-1-1.html) 
+ - [光环-战斗进化-高清周年纪念版 FPS 中等难度 容易死 总体来说还不错，最不爽的是没有地图-老是迷路-挺耗时间，目前玩到第三关？]
+ - [战地：硬仗 Battlefield Hardline 中文GOD 警匪题材游戏 玩了前面几个任务-感觉不够爽快，耗时间-后面有时间在玩](http://game.ali213.net/thread-5653135-1-1.html)	
  
+ - [猎天使魔女1 ACT 中文-已经下 已经通关-简单难度-很爽快-略简单-背景音乐赞](http://dl.3dmgame.com/201311/40563.html)
+ - [但丁地狱 ACT 英文-已经下-已经通关 欧美风格ACT游戏个人比较喜欢](http://dl.3dmgame.com/201509/63348.html)
+ - [战争机器3  TPS 中文-已经-已经通关]
+ - [忍者龙全剑传 3 利刃边缘NINJA GAIDEN 3 Razor‘s Edge ACT,原3代的加强版 中文-已经下 最简单的难度已通关 共8天 有两天是女性角色绫音关卡 ](http://games.tgbus.com/43404/)
+ - [使命召唤11：高级战争 3DM轩辕汉化组GOD汉化版 FPS - 已经下-简单模式已通关-汉化不太完整](http://dl.3dmgame.com/201411/51863.html)
  
  - 中文语音游戏：光环、多重阴影、士官长、鬼屋魔影、神鬼寓言：旅途、暗影帝国
  - [野蛮人柯南/战神之王硬  英文 已经下载](http://game.ali213.net/thread-4517153-1-1.html)
@@ -149,7 +161,7 @@
  - [X战警：官方游戏](http://game.ali213.net/thread-4823491-1-1.html)
  
  - [忍者神龟：曼哈顿突变体 硬盘版GOD Teenage Mutant Ninja Turtles: Mutants in Manhattan 英文 ](http://game.ali213.net/thread-6054451-1-1.html)
- - [电锯甜心 英文 ACT ](http://game.ali213.net/thread-4503124-1-1.html)(http://pan.baidu.com/s/1ufYd4#list/path=%2F)
+ - [电锯甜心 英文 ACT  旋风无资源，三大妈旋风下载缺文件，只能找百度盘了](http://game.ali213.net/thread-4503124-1-1.html)(http://pan.baidu.com/s/1ufYd4#list/path=%2F)
  
  - [龙腾世纪：审判 Dragon Age: Inquisition 游侠LMAO汉化硬盘版GOD ](http://down.ali213.net/tvgame/daigod.html)
  - [精灵高中：新食尸鬼学园 Monster High - New Ghoul in School 英文](http://game.ali213.net/forum.php?mod=viewthread&tid=5952629&extra=page%3D2%26filter%3Dtypeid%26typeid%3D2554%26typeid%3D2554)
@@ -210,12 +222,15 @@
 	 按照游侠网上的某玩家提示的把00002000复制到那个目录就可以了，没有请自建。
 	```
 	
- - [战地3|繁体中文高清版|GOD|45410950|6.6G|无断头台BUG|Battlefield 3](http://game.ali213.net/thread-5063825-1-1.html)
+ - [战地3|繁体中文高清版|GOD|45410950|6.6G|无断头台BUG|Battlefield 3 已下](http://game.ali213.net/thread-5063825-1-1.html)
  - [荣誉勋章：战士 繁体中文GOD版 已经下](http://dl.3dmgame.com/201505/59321.html)
- - [辐射：新维加斯终极版|硬盘版GOD|425307E0| Fallout:New Vegas Ultimate Edition 已下 中文](http://game.ali213.net/thread-5175737-1-1.html)
+ - [辐射：新维加斯终极版|硬盘版GOD|425307E0| Fallout:New Vegas Ultimate Edition 已下 英文？ 解压报错 Data002无法解压](http://game.ali213.net/thread-5175737-1-1.html)
  
  - [使命召唤系列介绍](http://codol.gamersky.com/zt/codseries/)	
- - [使命召唤11：高级战争 3DM轩辕汉化组GOD汉化版 - 已经下](http://dl.3dmgame.com/201411/51863.html)
+ - [使命召唤11：高级战争 3DM轩辕汉化组GOD中文汉化版 - 已经下](http://dl.3dmgame.com/201411/51863.html)
+ - [使命召唤10:幽灵|Call of Duty - Ghosts|硬盘版GOD|415608FC|9G|包含高清电影包DLC 英文？](http://game.ali213.net/thread-5297971-1-1.html)
+ - [使命召唤9黑色行动2|CODBO2|GOD整合所有DLC和TU15|415608C3|15GB 英文](http://game.ali213.net/thread-5347344-1-1.html
+ 
  - [翡翠帝国 中文 GOD版-已经下 1代游戏需要模拟器](http://www.xbox3600.com/forum.php?mod=viewthread&tid=3663&extra=page%3D1%26filter%3Dsortid%26sortid%3D1%26sortid%3D1)
  - [热血无赖-中文 游侠下载无资源](http://www.xbox3600.com/forum.php?mod=viewthread&tid=482&extra=page%3D1%26filter%3Dsortid%26sortid%3D1%26sortid%3D1) 
  - [贝奥武夫硬盘版GOD格式,55530801 Beowulf，英文-](http://game.ali213.net/thread-4552152-1-1.html)	
