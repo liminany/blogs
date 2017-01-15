@@ -7,6 +7,7 @@
  
  - 游戏下载：建议用破解版的旋风，亲测试可会员加速。另外如果有百度盘会员的 建议百度盘。个人是先旋风，旋风没资源才找朋友用百度会员的
  - [破解版旋风下载 网上找的资源，个人用的是7z压缩包中的绿色版，配合谷歌浏览器加插件使用](http://pan.baidu.com/share/link?shareid=2728408430&uk=3809476486)
+ - [百度云管理 破解版 亲测试 可加速 点击 召唤大神 即可](http://www.52pojie.cn/thread-567397-1-1.html)
  
 ## xbox360 常用资源汇总
  - [百度贴吧 XBOX360 体感&中文游戏 推荐](http://tieba.baidu.com/p/4887318153?see_lz=1)
@@ -97,13 +98,17 @@
 
 ## 准备下的
  - [《马克思佩恩3》中文GOD版](http://game.ali213.net/thread-4414847-1-1.html)                  [3大妈下载](http://dl.3dmgame.com/201403/43938.html)
- - [合金装备 复仇 4BE080A 已经下(自带) 英文已经删除 要重新下中文版](http://game.ali213.net/thread-5396433-1-1.html)
+ - [合金装备 复仇 4BE080A 已经下(自带) 英文已经删除 要重新下中文版 已经下](http://game.ali213.net/thread-5396433-1-1.html)
  - [极品飞车18：宿敌 亚版 Need for Speed: Rivals 中文](http://dl.3dmgame.com/201405/46534.html)
+   - [百度网盘下载地址](http://pan.baidu.com/s/13mvCK#list/path=%2F)
  - [电锯甜心 英文 ACT ](http://game.ali213.net/thread-4503124-1-1.html)(http://pan.baidu.com/s/1ufYd4#list/path=%2F)
- - [暗黑血统 英文] 
+ - [暗黑血统 英文 旋风无资源 网盘可用](http://game.ali213.net/thread-4507441-1-1.html)
+ - [暗黑血统2面具之下硬盘版GOD格式 54510896 7GB Darksiders.II 旋风无资源 网盘可用 英文](http://game.ali213.net/thread-4507967-1-1.html)
  - 模拟器下载
  - [生化奇兵]
- - [死亡空间 死亡效应]
+ - [死亡空间2](http://dl.3dmgame.com/201407/48498.html#f2)(http://game.ali213.net/thread-4465753-1-1.html)
+ - [死亡空间3 玩到第四章有问题？汉化有问题？](http://dl.3dmgame.com/201310/38687.html)
+ - [死亡效应]
  - [格斗闯关类？]
  
 ## xbox360 个人喜欢的游戏资源
