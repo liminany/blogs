@@ -1,5 +1,20 @@
+# 笔记 2017-02-18 大数据相关资料 
 # 笔记 2016-05-08 更新 洪强宁：如何保持团队的技术氛围？
 
+##2017-02-18 大数据相关资料
+
+### 书籍
+ - 大数据时代
+ - 大数据时代 读书笔记
+### 相关知识文章
+ - [大数据高并发数据库设计注意要点](http://blog.csdn.net/fengxuezai/article/details/19035531)
+ - [大数据环境下的数据库设计](http://www.10tiao.com/html/284/201407/200238277/1.html) 
+ - [大数据时代的数据存储，非关系型数据库MongoDB](http://dataunion.org/12404.html) 
+ - [大数据时代的数据库选择：SQL还是NoSQL？](http://udn.yyuap.com/topic/database/kaifa/10866.html) 
+ - [大数据时代，我们需要这样的思考方式](http://www.tmtpost.com/158585.html) 
+ - [大数据时代](https://dirtysalt.github.io/blogs/big-data.html) 
+ 
+ 
 ##2016-04-29 根据敏捷视界公开课汇总整理，讲师为 《敏捷无敌》 一书的作者（待更新录音和文稿PPT）
 ###1. 关于用户故事的一些最新知识 
 - 用户故事包含5C，之前只有3C，3C原则：Card，Conversation，Confirmation；Jeff Patton同学，把这个3C继续扩充为5C（并总结为用户故事生命周期）：Card（卡片，故事描述）, Conversation（谈话，协作过程中与客户的对话）, Confirmation（确认，即验证条件）, Construction(构建，
