@@ -29,7 +29,12 @@
  - [百度贴吧 那些XBLA的好游戏推荐](http://tieba.baidu.com/p/3174478602?share=9105&fr=share)
  - [【XBLA中文】 XBOX 全中文游戏合集-无下载地址](http://tieba.baidu.com/p/2856787925)
  - [游侠帖子：大家给推荐一些XBLA的小游戏吧~最好是中文的~ ](http://game.ali213.net/thread-3163202-1-1.html)
- 
+ - [【原创】你绝对应该尝试的150款XBLA游戏！！【已完结】](http://bbs.a9vg.com/thread-4196951-1-1.html)
+    - [火炬之光 Torchlight 已经下](http://game.ali213.net/thread-4631294-1-2.html)
+	- [4.【劳拉与光之守护者 已下】Lara Croft and the Guardian of Light]
+	- [几何战争 已下]
+	- [忍者神龟 暗影脱出Teenage Mutant Ninja Turtles: Out of the Shadows】
+	- [Bastion 堡垒 ARPG 已下]
  - [xbox3600 中文游戏列表](http://www.xbox3600.com/forum.php?mod=forumdisplay&fid=43&filter=sortid&sortid=1&searchsort=1&game_type=5&game_area_version=4&game_language=all&page=1)
  - [xbox3600 Xbox360 202个全中文游戏汇总全集资源分享下载](http://www.xbox3600.com/forum.php?mod=viewthread&tid=2686)
 	
@@ -97,6 +102,7 @@
     - 神鬼寓言2 Fable 2 Goty ARPG 中文
 
 ## 准备下的
+ - [猎杀：恶魔熔炉 ARPG 英文 Hunted: The Demon's Forge](http://game.ali213.net/thread-4558429-1-1.html)
  - [《马克思佩恩3》中文GOD版](http://game.ali213.net/thread-4414847-1-1.html)                  [3大妈下载](http://dl.3dmgame.com/201403/43938.html)
  - [合金装备 复仇 4BE080A 已经下(自带) 英文已经删除 要重新下中文版 已经下](http://game.ali213.net/thread-5396433-1-1.html)
  - [极品飞车18：宿敌 亚版 Need for Speed: Rivals 中文](http://dl.3dmgame.com/201405/46534.html)
@@ -122,7 +128,8 @@
  - [战争机器3  TPS 中文-已经-已经通关]
  - [忍者龙全剑传 3 利刃边缘NINJA GAIDEN 3 Razor‘s Edge ACT,原3代的加强版 中文-已经下 最简单的难度已通关 共8天 有两天是女性角色绫音关卡 ](http://games.tgbus.com/43404/)
  - [使命召唤11：高级战争 3DM轩辕汉化组GOD汉化版 FPS - 已经下-简单模式已通关-汉化不太完整](http://dl.3dmgame.com/201411/51863.html)
- 
+ - [波斯王子5：遗忘之沙) 中文 差一点通关 解迷动作游戏 开始不太喜欢 后面玩起来挺有劲，打击感不错](http://www.ali213.net/zhuanti/Prince/)
+  
  - 中文语音游戏：光环、多重阴影、士官长、鬼屋魔影、神鬼寓言：旅途、暗影帝国
  - [野蛮人柯南/战神之王硬  英文 已经下载](http://game.ali213.net/thread-4517153-1-1.html)
  - [维京人：神域之战 Viking: Battle for Asgard 硬盘版GOD,534507E0 英文 已经下](http://game.ali213.net/thread-4630289-1-1.html)	 
@@ -269,12 +276,14 @@
 ## xbox360 个人喜欢的XBLA游戏资源 
  - [Alan.Wakes.American.Nightmare.XBLA-ALI213 心灵杀手美国噩梦 动作冒险第三人称射击 中文](http://marketplace.xbox.com/zh-hk/Product/Alan-Wakes-American-Nightmare/66acd000-77fe-1000-9115-d80258411233#)
    [下载地址](http://fenxiang.qq.com/x/2i6KsVJ9dfRPbg6hVabC9~BjW4bitH03wmFxon3MZF5PoA::)
- - [Zombie.Apocalypse.NDA.XBLA-ALI213 上帝视角 射击 英文](http://marketplace.xbox.com/zh-hk/Product/Zombie-Apocalypse-Never-Die-Alone/66acd000-77fe-1000-9115-d80258410b76#)
+ - [丧尸天启 Zombie.Apocalypse.NDA.XBLA-ALI213 上帝视角 射击 英文](http://marketplace.xbox.com/zh-hk/Product/Zombie-Apocalypse-Never-Die-Alone/66acd000-77fe-1000-9115-d80258410b76#)
    [下载地址](http://fenxiang.qq.com/x/2i6KsVJ9dfRPbg6Jfr3q~OBoV4bitH03wmFxon3MZF5PoA::)
  - [Dungeons & Dragons: Chronicles of Mystara 横版动作-街机风格 龙与地下城 中文？](http://marketplace.xbox.com/zh-hk/Product/Dungeons-Dragons-Chronicles-of-Mystara/66acd000-77fe-1000-9115-d802584113c3#)
     [下载地址 暂无]
- - [中文名称：神鬼寓言：英雄 中文 动作与冒险, 角色扮演 Fable Heroes]
- 
+ - [中文名称：神鬼寓言：英雄 中文 动作与冒险, 角色扮演  过关 Fable Heroes 已经下]
+ - [【地下城与勇士LIVE 赫顿玛尔的堕落】Dungeon Fighter LIVE: Fall of Hendon Myre DNF 已经下]()
+ - [100.【Outland】 2D 卷轴动作 已经下]
+ - [【异形繁殖】Alien Breed 45度视角射击 有1、2、3代 已经下]
 ## xbox360 临时资料区 
  - 最经典的60款XBLA中文游戏 
 	01、迷你冒险高尔夫球 
