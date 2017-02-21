@@ -17,6 +17,8 @@
  - [大数据时代，我们需要这样的思考方式](http://www.tmtpost.com/158585.html) 
  - [大数据时代](https://dirtysalt.github.io/blogs/big-data.html) 
  - [一张图解读工业4.0与物联网，云计算和大数据的关系](http://www.36dsj.com/archives/20770)
+ - [《Hadoop基础教程》之初识Hadoop](http://blessht.iteye.com/blog/2095675)
+ - [Hadoop家族学习路线图](http://blog.csdn.net/it_man/article/details/14899905)
  
 ##2016-04-29 根据敏捷视界公开课汇总整理，讲师为 《敏捷无敌》 一书的作者（待更新录音和文稿PPT）
 ###1. 关于用户故事的一些最新知识 

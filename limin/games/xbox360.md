@@ -110,6 +110,11 @@
  - [电锯甜心 英文 ACT ](http://game.ali213.net/thread-4503124-1-1.html)(http://pan.baidu.com/s/1ufYd4#list/path=%2F)
  - [暗黑血统 英文 旋风无资源 网盘可用](http://game.ali213.net/thread-4507441-1-1.html)
  - [暗黑血统2面具之下硬盘版GOD格式 54510896 7GB Darksiders.II 旋风无资源 网盘可用 英文](http://game.ali213.net/thread-4507967-1-1.html)
+ - [幻境神界 大天使的崛起 ACT](http://tieba.baidu.com/p/1721848098)
+    - [游侠下载](http://dl.3dmgame.com/201508/62050.html)
+ - [少年正义联盟：遗产](http://dl.3dmgame.com/201311/40466.html#f2)
+    - [游侠下载](http://game.ali213.net/thread-5318714-1-1.html)
+
  - 模拟器下载
  - [生化奇兵]
  - [死亡空间2](http://dl.3dmgame.com/201407/48498.html#f2)(http://game.ali213.net/thread-4465753-1-1.html)
