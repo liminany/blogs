@@ -10,6 +10,7 @@
 [【译文】OAuth 2 介绍-各种授权模式](http://www.jianshu.com/p/5978e727dbc0)
 [移花接木：针对OAuth2的攻击](http://www.tuicool.com/articles/UVRF3yV)
 [Oauth实现 Net版](https://github.com/IdentityServer/IdentityServer3)(https://msdn.microsoft.com/zh-cn/magazine/dn451439.aspx)
+[基于OWIN+DotNetOpenOAuth实现OAuth2.0](http://www.cnblogs.com/dannyH/p/4170498.html)
 
 ### 实现分析（分析和设计）
 [Oauth2.0 服务端开发的一些思路](https://zhuanlan.zhihu.com/p/21807506)
