@@ -1,4 +1,13 @@
 # 临时笔记 乱七八遭的 先放这里
+
+## 2017-09-02 OAuth&OpenID 相关资料
+[Oauth 标准官网](https://oauth.net/2/)
+[OAuth与OpenID区别和使用场景](https://www.zhihu.com/question/19628327)
+[Oauth原理介绍](https://www.biaodianfu.com/learn-oauth.html)
+[Oauth原理介绍2](http://www.jianshu.com/p/976e8aba49a0?utm_source=tuicool&utm_medium=referral)
+[Oauth原理介绍3](http://www.tuicool.com/articles/QviMR3N)
+[移花接木：针对OAuth2的攻击](http://www.tuicool.com/articles/UVRF3yV)
+
 ## 2016-09-19 软件架构 相关资料
 [软件架构模式 gitbook](https://www.gitbook.com/book/bboyfeiyu/software-architecture-patterns/details)
 [软件架构发展1](http://www.it610.com/article/3555337.htm)
