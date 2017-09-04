@@ -6,6 +6,8 @@
 [Oauth原理介绍](https://www.biaodianfu.com/learn-oauth.html)
 [Oauth原理介绍2](http://www.jianshu.com/p/976e8aba49a0?utm_source=tuicool&utm_medium=referral)
 [Oauth原理介绍3](http://www.tuicool.com/articles/QviMR3N)
+[OAuth的机制原理讲解及开发流程](http://www.jianshu.com/p/bd9e7962bba3)
+[【译文】OAuth 2 介绍-各种授权模式](http://www.jianshu.com/p/5978e727dbc0)
 [移花接木：针对OAuth2的攻击](http://www.tuicool.com/articles/UVRF3yV)
 [Oauth实现 Net版](https://github.com/IdentityServer/IdentityServer3)(https://msdn.microsoft.com/zh-cn/magazine/dn451439.aspx)
 
