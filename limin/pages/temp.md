@@ -9,6 +9,13 @@
 [移花接木：针对OAuth2的攻击](http://www.tuicool.com/articles/UVRF3yV)
 [Oauth实现 Net版](https://github.com/IdentityServer/IdentityServer3)(https://msdn.microsoft.com/zh-cn/magazine/dn451439.aspx)
 
+### 实现分析（分析和设计）
+[Oauth2.0 服务端开发的一些思路](https://zhuanlan.zhihu.com/p/21807506)
+[OAuth2.0 学习（二） Server 设计](http://blog.csdn.net/passwordport/article/details/19557807)
+[oauth2.0服务端与客户端搭建](http://www.cnblogs.com/doubilaile/p/5066916.html)
+[OAuth 2.0 - 访问新浪、腾讯的资源服务器](http://www.cnblogs.com/highend/archive/2012/07/10/oauth2_access_sina_and_tencent_resource_server.html)
+[写了一个OAuth2.0服务器端的实现](http://blog.sina.com.cn/s/blog_7de05c0501017k1d.html)
+
 ## 2016-09-19 软件架构 相关资料
 [软件架构模式 gitbook](https://www.gitbook.com/book/bboyfeiyu/software-architecture-patterns/details)
 [软件架构发展1](http://www.it610.com/article/3555337.htm)
