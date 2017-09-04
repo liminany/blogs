@@ -7,6 +7,7 @@
 [Oauth原理介绍2](http://www.jianshu.com/p/976e8aba49a0?utm_source=tuicool&utm_medium=referral)
 [Oauth原理介绍3](http://www.tuicool.com/articles/QviMR3N)
 [移花接木：针对OAuth2的攻击](http://www.tuicool.com/articles/UVRF3yV)
+[Oauth实现 Net版](https://github.com/IdentityServer/IdentityServer3)(https://msdn.microsoft.com/zh-cn/magazine/dn451439.aspx)
 
 ## 2016-09-19 软件架构 相关资料
 [软件架构模式 gitbook](https://www.gitbook.com/book/bboyfeiyu/software-architecture-patterns/details)
