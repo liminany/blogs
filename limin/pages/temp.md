@@ -1,4 +1,7 @@
 # 临时笔记 乱七八遭的 先放这里
+## 2017-09-02 OAuth&OpenID 相关资料
+[TDD 已死？让我们再聊聊 TDD](http://blog.jobbole.com/110560/)
+[浅谈测试驱动开发（TDD）](https://www.ibm.com/developerworks/cn/linux/l-tdd/)
 
 ## 2017-09-02 OAuth&OpenID 相关资料
 [Oauth 标准官网](https://oauth.net/2/)
