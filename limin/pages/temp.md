@@ -2,6 +2,16 @@
 ## 2017-09-02 OAuth&OpenID 相关资料
 [TDD 已死？让我们再聊聊 TDD](http://blog.jobbole.com/110560/)
 [浅谈测试驱动开发（TDD）](https://www.ibm.com/developerworks/cn/linux/l-tdd/)
+[用消费者驱动的契约进行面向服务开发](http://www.infoq.com/cn/articles/consumer-driven-contracts)
+[从 TDD 到 BDD](http://www.tuicool.com/articles/MBfaInr)
+[TDD 生存手册](http://www.tuicool.com/articles/MBfaInr)
+[也谈TDD，以及三层架构、设计模式、ORM……：没有免费的午餐](http://www.tuicool.com/articles/aAFnyy6)
+[Microsoft Blogs 上 TDD 的戰文...](http://www.tuicool.com/articles/IVRJ7zM)
+[TDD，BDD and ATDD](http://www.tuicool.com/articles/QNZfqiV)
+[BDD工具SpecFlow版本2支持并行执行](http://www.tuicool.com/articles/J3MFJv)
+[对结合BDD进行DDD开发的一点思考和整理](http://www.tuicool.com/articles/yYZB3m7)
+[BDD工具Cucumber并不是一种测试工具](http://www.tuicool.com/articles/JJ7VRjR)
+[为什么BDD可以拯救敏捷](http://www.tuicool.com/articles/iYjUvum)
 
 ## 2017-09-02 OAuth&OpenID 相关资料
 [Oauth 标准官网](https://oauth.net/2/)
