@@ -9,6 +9,7 @@
 [OAuth的机制原理讲解及开发流程](http://www.jianshu.com/p/bd9e7962bba3)
 [【译文】OAuth 2 介绍-各种授权模式](http://www.jianshu.com/p/5978e727dbc0)
 [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+[##开放平台鉴权以及OAuth2.0介绍](https://my.oschina.net/Barudisshu/blog/291962)
 [OAuth2.0详解](http://www.cnblogs.com/shijingjing07/p/5853770.html)
 [移花接木：针对OAuth2的攻击](http://www.tuicool.com/articles/UVRF3yV)
 [Oauth实现 Net版](https://github.com/IdentityServer/IdentityServer3)(https://msdn.microsoft.com/zh-cn/magazine/dn451439.aspx)
