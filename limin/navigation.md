@@ -33,7 +33,8 @@
   * [2016-07-Agile-Tech-Mgr](pages/2016-07-note.md)
   - - - -
   * # Work Remark
-  * [Latest](pages/remark.md)
+  * [2017-9-miduo](2017-09-remark.md)
+  * [2016-ninetowns](pages/remark.md)
   * [2016-07-MobileCheck-ZZY](pages/2016-07-remark.md) 
 
 [Agile-Learn]()

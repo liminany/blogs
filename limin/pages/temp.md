@@ -1,5 +1,13 @@
 # 临时笔记 乱七八遭的 先放这里
-## 2017-09-02 OAuth&OpenID 相关资料
+## 2017-09-13 开放平台接口调用频次限制
+[高并发系统设计之开放平台API接口调用频率控制系统](http://blog.csdn.net/joeyon1985/article/details/47084083)
+[微博开放平台 接口访问频次权限](http://open.weibo.com/wiki/Rate-limiting)
+[微信开放平台 接口调用频次限制说明](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1433744592)
+[轻型的接口访问频率限制服务模型的设计与实现](http://www.cnblogs.com/jimcsharp/p/5534840.html)
+[怎么保证对外暴露接口的安全性(调用频率限制)](https://segmentfault.com/q/1010000002938194)
+[API 调用频次限制怎么实现？](https://www.v2ex.com/t/124433)
+
+## 2017-09-12 TDD&&BDD 相关资料
 [TDD 已死？让我们再聊聊 TDD](http://blog.jobbole.com/110560/)
 [浅谈测试驱动开发（TDD）](https://www.ibm.com/developerworks/cn/linux/l-tdd/)
 [用消费者驱动的契约进行面向服务开发](http://www.infoq.com/cn/articles/consumer-driven-contracts)
