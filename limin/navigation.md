@@ -29,8 +29,8 @@
 [Weblogs]()
 
   * # Personal Log
-  * [Latest](pages/note.md)
-  * [2016-07-Agile-Tech-Mgr](pages/2016-07-note.md)
+  * [Latest](pages/2017-09-note.md)
+  * [2016-07-Agile-Tech-Mgr](pages/note.md)
   - - - -
   * # Work Remark
   * [2017-9-miduo](pages/2017-09-remark.md)
